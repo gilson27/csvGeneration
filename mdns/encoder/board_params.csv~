@@ -1,0 +1,8 @@
+key,value
+DeviceType,Encoder
+DeviceSubType,DigitalEncoder
+DeviceID,ENC0120151231001
+DeviceName,ENC0120151231001
+MACAddress,00FF00FF00FF
+FWVersion,1.0
+HWVersion,1.0

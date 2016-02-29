@@ -1,0 +1,4 @@
+#!/bin/sh
+rsync -av startup_json.js /home/gilly/Desktop/Projects/BACKUP/KS_1GCodec/hg/startup/working/encoder/json/startup_json.js
+rsync -av fpga_startup_json.js /home/gilly/Desktop/Projects/BACKUP/KS_1GCodec/hg/startup/working/encoder/json/fpga_startup_json.js
+

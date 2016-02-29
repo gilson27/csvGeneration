@@ -1,0 +1,3 @@
+#!/bin/sh
+rm -f mdns.db
+node mdns_generate.js

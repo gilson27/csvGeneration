@@ -1,0 +1,13 @@
+key,value,deletable,editable
+DeviceType,Encoder,0,0
+DeviceSubType,DigitalEncoder,0,0
+DeviceID,ENC0120151231001,0,0
+DeviceName,ENC0120151231001,0,1
+MACAddress,00FF00FF00FF,0,0
+IPAddress,192.168.0.1,0,0
+Port,80,0,0
+DeviceStatus,OK,0,1
+Location,Unassigned,0,1
+PrivacyStatus,Public,0,1
+SystemFWVersion,1,0,0
+HWVersion,1,0,0

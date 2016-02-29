@@ -1,0 +1,15 @@
+#!/bin/sh
+pwd
+ENCODER_AUTOMATION=$(pwd)
+echo "---------------ENCODER---------------"
+date > opcode_csv_log.txt
+echo "generating OPCODE switch, json and URL_LEVEL json"
+node csv_opcode >> opcode_csv_log.txt
+date > opcode_csv_table.txt
+echo "generating DATABASE encoder.db"
+rm -rf $ENCODER_AUTOMATION/encoder.db
+node csv_table  >> opcode_csv_table.txt
+echo "Syncing with hg database"
+$ENCODER_AUTOMATION/encoder_generate.run
+date > done.txt
+

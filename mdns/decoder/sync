@@ -1,0 +1,2 @@
+#!/bin/sh
+rsync -av mdns.db /home/gilly/Desktop/Projects/BACKUP/KS_1GCodec/hg/ARM_APP/wapi/api/working/decoder/database/mdns.db

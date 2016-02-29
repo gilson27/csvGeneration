@@ -1,0 +1,4 @@
+.header ON
+.mode column
+SELECT * FROM SYSTEM_MISC;
+

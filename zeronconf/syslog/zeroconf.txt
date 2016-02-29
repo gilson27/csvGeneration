@@ -1,0 +1,5 @@
+CREATE TABLE IF NOT EXISTS syslog(key TEXT PRIMARY KEY, value TEXT);
+INSERT INTO syslog values("log_level", "1");
+INSERT INTO syslog values("log_facility", "1");
+
+

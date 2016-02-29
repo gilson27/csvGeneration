@@ -1,0 +1,7 @@
+key,value
+DeviceType,Decoder
+DeviceSubType,DigitalDecoder
+DeviceID,DEC0120151231001
+MACAddress,00FF00FF00FF
+SystemFWVersion,1.0
+HWVersion,1.0

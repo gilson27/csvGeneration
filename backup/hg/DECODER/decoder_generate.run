@@ -1,0 +1,14 @@
+#!/bin/sh
+pwd
+DECODER_GENERATOR=$(pwd)
+SOCKET_EMULATOR=/home/gilly/Desktop/Projects/BACKUP/KS_1GCodec/hg/ARM_APP/wapi/socket_emulation/working
+API_WORKING_ROOT=/home/gilly/Desktop/Projects/BACKUP/KS_1GCodec/hg/ARM_APP/wapi/api/working
+cp -f $DECODER_GENERATOR/uri_levels.js  $API_WORKING_ROOT/decoder/routes/
+cp -f $DECODER_GENERATOR/decoder.db  $API_WORKING_ROOT/decoder/database/
+cp -f $DECODER_GENERATOR/decoder.db  $SOCKET_EMULATOR/decoder/
+cp -f $DECODER_GENERATOR/opcode_switch.js $SOCKET_EMULATOR/decoder/
+cp -f $DECODER_GENERATOR/opcode_object.js $SOCKET_EMULATOR/decoder/
+
+
+
+

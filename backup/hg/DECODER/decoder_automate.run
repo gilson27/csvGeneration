@@ -1,0 +1,14 @@
+#!/bin/sh
+pwd
+DECODER_AUTOMATION=$(pwd)
+echo "---------------DECODER---------------"
+date > opcode_csv_log.txt
+echo "generating OPCODE switch, json and URL_LEVEL json"
+node csv_opcode >> opcode_csv_log.txt
+date > opcode_csv_table.txt
+echo "generating DATABASE decoder.db"
+rm -rf $DECODER_AUTOMATION/decoder.db
+node csv_table  >> opcode_csv_table.txt
+echo "Syncing with hg database"
+$DECODER_AUTOMATION/decoder_generate.run
+date > done.txt

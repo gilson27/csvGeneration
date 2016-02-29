@@ -1,0 +1,5190 @@
+Fri May 22 13:41:03 IST 2015
+Let's Begin
+done
+0
+39
+in case 0system
+in value ------------------firmware
+in case 1firmware
+in value ------------------fpga-version
+in case 2fpga-version
+in value ------------------value
+in handle value 3
+in method
+access
+l=======================1
+1
+39
+in value ------------------processor-version
+in case 2processor-version
+in value ------------------value
+in handle value 3
+in method
+access
+l=======================1
+2
+39
+in value ------------------processor-field-upgrade
+in case 2processor-field-upgrade
+in value ------------------value
+in handle value 3
+in method
+access
+l=======================1
+3
+39
+in value ------------------fpga-field-upgrade
+in case 2fpga-field-upgrade
+in value ------------------value
+in handle value 3
+in method
+access
+l=======================1
+4
+39
+in value ------------------fpga-upgrade-status
+in case 2fpga-upgrade-status
+in value ------------------value
+in handle value 3
+in method
+access
+l=======================1
+5
+39
+in value ------------------processor-upgrade-status
+in case 2processor-upgrade-status
+in value ------------------value
+in handle value 3
+in method
+access
+l=======================1
+6
+39
+in value ------------------switch
+in case 2switch
+in value ------------------value
+in handle value 3
+in method
+access
+l=======================1
+7
+39
+in value ------------------serial-no
+in case 2serial-no
+in value ------------------value
+in handle value 3
+in method
+access
+l=======================2
+8
+39
+in value ------------------network
+in case 1network
+in value ------------------ip-settings
+in case 2ip-settings
+in value ------------------value
+in handle value 3
+in method
+access
+in getArray
+9
+39
+in value ------------------ip-addr
+in case 3ip-addr
+in value ------------------value
+in handle value 4
+in method
+access
+l=======================2
+10
+39
+in value ------------------subnet-mask
+in case 3subnet-mask
+in value ------------------value
+in handle value 4
+in method
+access
+l=======================2
+11
+39
+in value ------------------gateway
+in case 3gateway
+in value ------------------value
+in handle value 4
+in method
+access
+l=======================2
+12
+39
+in value ------------------tos
+in case 2tos
+in value ------------------value
+in handle value 3
+in method
+access
+l=======================3
+13
+39
+in value ------------------mtu-size
+in case 2mtu-size
+in value ------------------value
+in handle value 3
+in method
+access
+l=======================3
+14
+39
+in value ------------------mode
+in case 2mode
+in value ------------------value
+in handle value 3
+in method
+access
+l=======================2
+15
+39
+in value ------------------notify-ip-addr
+in case 2notify-ip-addr
+in value ------------------value
+in handle value 3
+in method
+access
+l=======================2
+16
+39
+in value ------------------port
+in case 2port
+in value ------------------value
+in handle value 3
+in method
+access
+l=======================1
+17
+39
+in value ------------------diagnostics
+in case 1diagnostics
+in value ------------------hw-status
+in case 2hw-status
+in value ------------------value
+in handle value 3
+in method
+access
+l=======================1
+18
+39
+in value ------------------temperature
+in case 2temperature
+in value ------------------value
+in handle value 3
+in method
+access
+l=======================1
+19
+39
+in value ------------------device-log
+in case 2device-log
+in value ------------------value
+in handle value 3
+in method
+access
+l=======================1
+20
+39
+in value ------------------device-log-level
+in case 2device-log-level
+in value ------------------value
+in handle value 3
+in method
+access
+l=======================3
+21
+39
+in value ------------------device-log-facility
+in case 2device-log-facility
+in value ------------------value
+in handle value 3
+in method
+access
+l=======================3
+22
+39
+in value ------------------dev-log-ip-addr
+in case 2dev-log-ip-addr
+in value ------------------value
+in handle value 3
+in method
+access
+l=======================2
+23
+39
+in value ------------------splash-scrn
+in case 1splash-scrn
+in value ------------------enable
+in case 2enable
+in value ------------------value
+in handle value 3
+in method
+access
+l=======================3
+24
+39
+in value ------------------upload
+in case 2upload
+in value ------------------value
+in handle value 3
+in method
+access
+l=======================1
+25
+39
+in value ------------------get-name
+in case 2get-name
+in value ------------------value
+in handle value 3
+in method
+access
+l=======================1
+26
+39
+in value ------------------reset
+in case 1reset
+in value ------------------soft-reset
+in case 2soft-reset
+in value ------------------value
+in handle value 3
+in method
+access
+l=======================2
+27
+39
+in value ------------------configuration-reset
+in case 2configuration-reset
+in value ------------------value
+in handle value 3
+in method
+access
+l=======================2
+28
+39
+in value ------------------factory-reset
+in case 2factory-reset
+in value ------------------value
+in handle value 3
+in method
+access
+l=======================2
+29
+39
+in value ------------------reboot
+in case 1reboot
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================2
+30
+39
+in value ------------------authentication
+in case 1authentication
+in value ------------------admin
+in case 2admin
+in value ------------------value
+in handle value 3
+in method
+access
+l=======================1
+31
+39
+in value ------------------admin-pwd
+in case 2admin-pwd
+in value ------------------value
+in handle value 3
+in method
+access
+l=======================1
+32
+39
+in value ------------------user
+in case 2user
+in value ------------------value
+in handle value 3
+in method
+access
+l=======================1
+33
+39
+in value ------------------user-pwd
+in case 2user-pwd
+in value ------------------value
+in handle value 3
+in method
+access
+l=======================1
+34
+39
+in value ------------------identification
+in case 1identification
+in value ------------------id
+in case 2id
+in value ------------------value
+in handle value 3
+in method
+access
+l=======================1
+35
+39
+in value ------------------video-mode
+in case 1video-mode
+in value ------------------enable-3d
+in case 2enable-3d
+in value ------------------value
+in handle value 3
+in method
+access
+l=======================3
+36
+39
+in value ------------------config-file
+in case 1config-file
+in value ------------------upload
+in case 2upload
+in value ------------------value
+in handle value 3
+in method
+access
+l=======================1
+37
+39
+in value ------------------download
+in case 2download
+in value ------------------value
+in handle value 3
+in method
+access
+l=======================1
+38
+39
+in value ------------------delete
+in case 2delete
+in value ------------------value
+in handle value 3
+in method
+access
+l=======================1
+39
+39
+in value ------------------update
+in case 2update
+in value ------------------value
+in handle value 3
+in method
+access
+l=======================1
+40
+39
+in value ------------------misc
+in case 1misc
+in value ------------------board-type
+in case 2board-type
+in value ------------------value
+in handle value 3
+in method
+access
+l=======================2
+41
+39
+in value ------------------led-on-time
+in case 2led-on-time
+in value ------------------value
+in handle value 3
+in method
+access
+l=======================3
+42
+39
+in value ------------------led-off-time
+in case 2led-off-time
+in value ------------------value
+in handle value 3
+in method
+access
+l=======================3
+43
+39
+in value ------------------http-mode
+in case 2http-mode
+in value ------------------value
+in handle value 3
+in method
+access
+l=======================3
+44
+39
+in value ------------------enable-encryption
+in case 2enable-encryption
+in value ------------------value
+in handle value 3
+in method
+access
+l=======================3
+45
+39
+in value ------------------mdns
+in case 1mdns
+in value ------------------add-key
+in case 2add-key
+in value ------------------value
+in handle value 3
+in method
+access
+46
+39
+in value ------------------key
+in case 3key
+in value ------------------value
+in handle value 4
+in method
+access
+l=======================1
+47
+39
+in value ------------------data-value
+in case 3data-value
+in value ------------------value
+in handle value 4
+in method
+access
+l=======================1
+48
+39
+in value ------------------delete-key
+in case 2delete-key
+in value ------------------value
+in handle value 3
+in method
+access
+l=======================1
+49
+39
+in value ------------------read-key
+in case 2read-key
+in value ------------------value
+in handle value 3
+in method
+access
+l=======================1
+50
+39
+in value ------------------edit-key
+in case 2edit-key
+in value ------------------value
+in handle value 3
+in method
+access
+51
+39
+in value ------------------key
+in case 3key
+in value ------------------value
+in handle value 4
+in method
+access
+l=======================1
+52
+39
+in value ------------------data-value
+in case 3data-value
+in value ------------------value
+in handle value 4
+in method
+access
+l=======================1
+53
+39
+in case 0video
+in value ------------------input
+in case 1input
+in value ------------------streams
+in case 2streams
+in value ------------------value
+in handle value 3
+in method
+access
+l=======================1
+54
+39
+in value ------------------resolution
+in case 2resolution
+in value ------------------value
+in handle value 3
+in method
+access
+l=======================1
+55
+39
+in value ------------------frame-rate
+in case 2frame-rate
+in value ------------------value
+in handle value 3
+in method
+access
+l=======================1
+56
+39
+in value ------------------valid-input
+in case 2valid-input
+in value ------------------value
+in handle value 3
+in method
+access
+l=======================1
+57
+39
+in value ------------------cable-presence
+in case 2cable-presence
+in value ------------------value
+in handle value 3
+in method
+access
+l=======================1
+58
+39
+in value ------------------buffer-type
+in case 2buffer-type
+in value ------------------value
+in handle value 3
+in method
+access
+l=======================3
+59
+39
+in value ------------------buffer-delay
+in case 2buffer-delay
+in value ------------------value
+in handle value 3
+in method
+access
+l=======================3
+60
+39
+in value ------------------hqll-mult-ip-addr
+in case 2hqll-mult-ip-addr
+in value ------------------value
+in handle value 3
+in method
+access
+61
+39
+in value ------------------ip-addr
+in case 3ip-addr
+in value ------------------value
+in handle value 4
+in method
+access
+l=======================2
+62
+39
+in value ------------------port
+in case 3port
+in value ------------------value
+in handle value 4
+in method
+access
+l=======================1
+63
+39
+in value ------------------es-mult-ip-addr
+in case 2es-mult-ip-addr
+in value ------------------value
+in handle value 3
+in method
+access
+64
+39
+in value ------------------ip-addr
+in case 3ip-addr
+in value ------------------value
+in handle value 4
+in method
+access
+l=======================2
+65
+39
+in value ------------------port
+in case 3port
+in value ------------------value
+in handle value 4
+in method
+access
+l=======================1
+66
+39
+in value ------------------mute
+in case 2mute
+in value ------------------value
+in handle value 3
+in method
+access
+l=======================3
+67
+39
+in value ------------------output
+in case 1output
+in value ------------------videos
+in case 2videos
+in value ------------------value
+in handle value 3
+in method
+access
+l=======================1
+68
+39
+in value ------------------resolution
+in case 2resolution
+in value ------------------value
+in handle value 3
+in method
+access
+l=======================1
+69
+39
+in value ------------------frame-rate
+in case 2frame-rate
+in value ------------------value
+in handle value 3
+in method
+access
+l=======================1
+70
+39
+in value ------------------edid
+in case 2edid
+in value ------------------value
+in handle value 3
+in method
+access
+l=======================1
+71
+39
+in case 0comp-layout
+in value ------------------feature-enable
+in case 1feature-enable
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================3
+72
+39
+in value ------------------available-layout
+in case 1available-layout
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================3
+73
+39
+in value ------------------enable-pip
+in case 1enable-pip
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================3
+74
+39
+in value ------------------pip-loc
+in case 1pip-loc
+in value ------------------value
+in handle value 2
+in method
+access
+75
+39
+in value ------------------x_location
+in case 2x_location
+in value ------------------value
+in handle value 3
+in method
+access
+l=======================3
+76
+39
+in value ------------------y_location
+in case 2y_location
+in value ------------------value
+in handle value 3
+in method
+access
+l=======================3
+77
+39
+in value ------------------enable-pap
+in case 1enable-pap
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================3
+78
+39
+in value ------------------swap-pap
+in case 1swap-pap
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================2
+79
+39
+in case 0overlay
+in value ------------------feature-enable
+in case 1feature-enable
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================3
+80
+39
+in value ------------------max-images
+in case 1max-images
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================3
+81
+39
+in value ------------------enable
+in case 1enable
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================3
+82
+39
+in value ------------------upload-image
+in case 1upload-image
+in value ------------------value
+in handle value 2
+in method
+access
+83
+39
+in value ------------------file_name
+in case 2file_name
+in value ------------------value
+in handle value 3
+in method
+access
+l=======================1
+84
+39
+in value ------------------id
+in case 2id
+in value ------------------value
+in handle value 3
+in method
+access
+l=======================3
+85
+39
+in value ------------------height
+in case 2height
+in value ------------------value
+in handle value 3
+in method
+access
+l=======================3
+86
+39
+in value ------------------width
+in case 2width
+in value ------------------value
+in handle value 3
+in method
+access
+l=======================3
+87
+39
+in value ------------------upload-mute-image
+in case 1upload-mute-image
+in value ------------------value
+in handle value 2
+in method
+access
+88
+39
+in value ------------------file_name
+in case 2file_name
+in value ------------------value
+in handle value 3
+in method
+access
+l=======================1
+89
+39
+in value ------------------height
+in case 2height
+in value ------------------value
+in handle value 3
+in method
+access
+l=======================3
+90
+39
+in value ------------------width
+in case 2width
+in value ------------------value
+in handle value 3
+in method
+access
+l=======================3
+91
+39
+in value ------------------del-image
+in case 1del-image
+in value ------------------value
+in handle value 2
+in method
+access
+92
+39
+in value ------------------id
+in case 2id
+in value ------------------value
+in handle value 3
+in method
+access
+l=======================3
+93
+39
+in value ------------------0
+in case 10
+in value ------------------image-params
+in case 2image-params
+in value ------------------value
+in handle value 3
+in method
+access
+94
+39
+in value ------------------id
+in case 3id
+in value ------------------value
+in handle value 4
+in method
+access
+l=======================3
+95
+39
+in value ------------------x_location
+in case 3x_location
+in value ------------------value
+in handle value 4
+in method
+access
+l=======================3
+96
+39
+in value ------------------y_location
+in case 3y_location
+in value ------------------value
+in handle value 4
+in method
+access
+l=======================3
+97
+39
+in value ------------------enable
+in case 3enable
+in value ------------------value
+in handle value 4
+in method
+access
+l=======================3
+98
+39
+in value ------------------height
+in case 3height
+in value ------------------value
+in handle value 4
+in method
+access
+l=======================3
+99
+39
+in value ------------------width
+in case 3width
+in value ------------------value
+in handle value 4
+in method
+access
+l=======================3
+100
+39
+in value ------------------1
+in case 11
+in value ------------------image-params
+in case 2image-params
+in value ------------------value
+in handle value 3
+in method
+access
+101
+39
+in value ------------------id
+in case 3id
+in value ------------------value
+in handle value 4
+in method
+access
+l=======================3
+102
+39
+in value ------------------x_location
+in case 3x_location
+in value ------------------value
+in handle value 4
+in method
+access
+l=======================3
+103
+39
+in value ------------------y_location
+in case 3y_location
+in value ------------------value
+in handle value 4
+in method
+access
+l=======================3
+104
+39
+in value ------------------enable
+in case 3enable
+in value ------------------value
+in handle value 4
+in method
+access
+l=======================3
+105
+39
+in value ------------------height
+in case 3height
+in value ------------------value
+in handle value 4
+in method
+access
+l=======================3
+106
+39
+in value ------------------width
+in case 3width
+in value ------------------value
+in handle value 4
+in method
+access
+l=======================3
+107
+39
+in value ------------------2
+in case 12
+in value ------------------image-params
+in case 2image-params
+in value ------------------value
+in handle value 3
+in method
+access
+108
+39
+in value ------------------id
+in case 3id
+in value ------------------value
+in handle value 4
+in method
+access
+l=======================3
+109
+39
+in value ------------------x_location
+in case 3x_location
+in value ------------------value
+in handle value 4
+in method
+access
+l=======================3
+110
+39
+in value ------------------y_location
+in case 3y_location
+in value ------------------value
+in handle value 4
+in method
+access
+l=======================3
+111
+39
+in value ------------------enable
+in case 3enable
+in value ------------------value
+in handle value 4
+in method
+access
+l=======================3
+112
+39
+in value ------------------height
+in case 3height
+in value ------------------value
+in handle value 4
+in method
+access
+l=======================3
+113
+39
+in value ------------------width
+in case 3width
+in value ------------------value
+in handle value 4
+in method
+access
+l=======================3
+114
+39
+in value ------------------3
+in case 13
+in value ------------------image-params
+in case 2image-params
+in value ------------------value
+in handle value 3
+in method
+access
+115
+39
+in value ------------------id
+in case 3id
+in value ------------------value
+in handle value 4
+in method
+access
+l=======================3
+116
+39
+in value ------------------x_location
+in case 3x_location
+in value ------------------value
+in handle value 4
+in method
+access
+l=======================3
+117
+39
+in value ------------------y_location
+in case 3y_location
+in value ------------------value
+in handle value 4
+in method
+access
+l=======================3
+118
+39
+in value ------------------enable
+in case 3enable
+in value ------------------value
+in handle value 4
+in method
+access
+l=======================3
+119
+39
+in value ------------------height
+in case 3height
+in value ------------------value
+in handle value 4
+in method
+access
+l=======================3
+120
+39
+in value ------------------width
+in case 3width
+in value ------------------value
+in handle value 4
+in method
+access
+l=======================3
+121
+39
+in value ------------------4
+in case 14
+in value ------------------image-params
+in case 2image-params
+in value ------------------value
+in handle value 3
+in method
+access
+122
+39
+in value ------------------id
+in case 3id
+in value ------------------value
+in handle value 4
+in method
+access
+l=======================3
+123
+39
+in value ------------------x_location
+in case 3x_location
+in value ------------------value
+in handle value 4
+in method
+access
+l=======================3
+124
+39
+in value ------------------y_location
+in case 3y_location
+in value ------------------value
+in handle value 4
+in method
+access
+l=======================3
+125
+39
+in value ------------------enable
+in case 3enable
+in value ------------------value
+in handle value 4
+in method
+access
+l=======================3
+126
+39
+in value ------------------height
+in case 3height
+in value ------------------value
+in handle value 4
+in method
+access
+l=======================3
+127
+39
+in value ------------------width
+in case 3width
+in value ------------------value
+in handle value 4
+in method
+access
+l=======================3
+128
+39
+in value ------------------5
+in case 15
+in value ------------------image-params
+in case 2image-params
+in value ------------------value
+in handle value 3
+in method
+access
+129
+39
+in value ------------------id
+in case 3id
+in value ------------------value
+in handle value 4
+in method
+access
+l=======================3
+130
+39
+in value ------------------x_location
+in case 3x_location
+in value ------------------value
+in handle value 4
+in method
+access
+l=======================3
+131
+39
+in value ------------------y_location
+in case 3y_location
+in value ------------------value
+in handle value 4
+in method
+access
+l=======================3
+132
+39
+in value ------------------enable
+in case 3enable
+in value ------------------value
+in handle value 4
+in method
+access
+l=======================3
+133
+39
+in value ------------------height
+in case 3height
+in value ------------------value
+in handle value 4
+in method
+access
+l=======================3
+134
+39
+in value ------------------width
+in case 3width
+in value ------------------value
+in handle value 4
+in method
+access
+l=======================3
+135
+39
+in value ------------------6
+in case 16
+in value ------------------image-params
+in case 2image-params
+in value ------------------value
+in handle value 3
+in method
+access
+136
+39
+in value ------------------id
+in case 3id
+in value ------------------value
+in handle value 4
+in method
+access
+l=======================3
+137
+39
+in value ------------------x_location
+in case 3x_location
+in value ------------------value
+in handle value 4
+in method
+access
+l=======================3
+138
+39
+in value ------------------y_location
+in case 3y_location
+in value ------------------value
+in handle value 4
+in method
+access
+l=======================3
+139
+39
+in value ------------------enable
+in case 3enable
+in value ------------------value
+in handle value 4
+in method
+access
+l=======================3
+140
+39
+in value ------------------height
+in case 3height
+in value ------------------value
+in handle value 4
+in method
+access
+l=======================3
+141
+39
+in value ------------------width
+in case 3width
+in value ------------------value
+in handle value 4
+in method
+access
+l=======================3
+142
+39
+in value ------------------7
+in case 17
+in value ------------------image-params
+in case 2image-params
+in value ------------------value
+in handle value 3
+in method
+access
+143
+39
+in value ------------------id
+in case 3id
+in value ------------------value
+in handle value 4
+in method
+access
+l=======================3
+144
+39
+in value ------------------x_location
+in case 3x_location
+in value ------------------value
+in handle value 4
+in method
+access
+l=======================3
+145
+39
+in value ------------------y_location
+in case 3y_location
+in value ------------------value
+in handle value 4
+in method
+access
+l=======================3
+146
+39
+in value ------------------enable
+in case 3enable
+in value ------------------value
+in handle value 4
+in method
+access
+l=======================3
+147
+39
+in value ------------------height
+in case 3height
+in value ------------------value
+in handle value 4
+in method
+access
+l=======================3
+148
+39
+in value ------------------width
+in case 3width
+in value ------------------value
+in handle value 4
+in method
+access
+l=======================3
+149
+39
+in case 0audio
+in value ------------------input
+in case 1input
+in value ------------------valid-input
+in case 2valid-input
+in value ------------------value
+in handle value 3
+in method
+access
+l=======================3
+150
+39
+in value ------------------enable-rx
+in case 2enable-rx
+in value ------------------value
+in handle value 3
+in method
+access
+l=======================3
+151
+39
+in value ------------------fine-gain
+in case 2fine-gain
+in value ------------------value
+in handle value 3
+in method
+access
+l=======================3
+152
+39
+in value ------------------coarse-gain
+in case 2coarse-gain
+in value ------------------value
+in handle value 3
+in method
+access
+l=======================3
+153
+39
+in value ------------------mute
+in case 2mute
+in value ------------------value
+in handle value 3
+in method
+access
+l=======================3
+154
+39
+in value ------------------loop-back
+in case 2loop-back
+in value ------------------value
+in handle value 3
+in method
+access
+l=======================3
+155
+39
+in value ------------------rx-mult-ip-addr
+in case 2rx-mult-ip-addr
+in value ------------------value
+in handle value 3
+in method
+access
+156
+39
+in value ------------------ip-addr
+in case 3ip-addr
+in value ------------------value
+in handle value 4
+in method
+access
+l=======================2
+157
+39
+in value ------------------port
+in case 3port
+in value ------------------value
+in handle value 4
+in method
+access
+l=======================1
+158
+39
+in value ------------------output
+in case 1output
+in value ------------------enable-tx
+in case 2enable-tx
+in value ------------------value
+in handle value 3
+in method
+access
+l=======================3
+159
+39
+in value ------------------tx-mult-ip-addr
+in case 2tx-mult-ip-addr
+in value ------------------value
+in handle value 3
+in method
+access
+160
+39
+in value ------------------ip-addr
+in case 3ip-addr
+in value ------------------value
+in handle value 4
+in method
+access
+l=======================2
+161
+39
+in value ------------------port
+in case 3port
+in value ------------------value
+in handle value 4
+in method
+access
+l=======================1
+162
+39
+in value ------------------fine-gain
+in case 2fine-gain
+in value ------------------value
+in handle value 3
+in method
+access
+l=======================3
+163
+39
+in value ------------------coarse-gain
+in case 2coarse-gain
+in value ------------------value
+in handle value 3
+in method
+access
+l=======================3
+164
+39
+in value ------------------mute
+in case 2mute
+in value ------------------value
+in handle value 3
+in method
+access
+l=======================3
+165
+39
+in value ------------------fade
+in case 2fade
+in value ------------------value
+in handle value 3
+in method
+access
+l=======================3
+166
+39
+in case 0kvm
+in value ------------------feature-enable
+in case 1feature-enable
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================3
+167
+39
+in value ------------------usb-link-status
+in case 1usb-link-status
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+168
+39
+in value ------------------enable
+in case 1enable
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+169
+39
+in value ------------------encoder
+in case 1encoder
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+170
+39
+in value ------------------default-encoder
+in case 1default-encoder
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+171
+39
+in value ------------------key-code
+in case 1key-code
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+172
+39
+in case 0rs232
+in value ------------------feature-enable
+in case 1feature-enable
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+173
+39
+in value ------------------get-devices
+in case 1get-devices
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+174
+39
+in value ------------------open-connection
+in case 1open-connection
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+175
+39
+in value ------------------close-connection
+in case 1close-connection
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+176
+39
+in value ------------------flush
+in case 1flush
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+177
+40
+in value ------------------0
+in case 10
+in value ------------------params
+in case 2params
+in value ------------------value
+in handle value 3
+in method
+access
+in getArray
+178
+39
+in value ------------------baud_rate
+in case 3baud_rate
+in value ------------------value
+in handle value 4
+in method
+access
+l=======================1
+179
+39
+in value ------------------data_bits
+in case 3data_bits
+in value ------------------value
+in handle value 4
+in method
+access
+l=======================1
+180
+39
+in value ------------------parity
+in case 3parity
+in value ------------------value
+in handle value 4
+in method
+access
+l=======================1
+181
+39
+in value ------------------stop_bit
+in case 3stop_bit
+in value ------------------value
+in handle value 4
+in method
+access
+l=======================1
+182
+39
+in value ------------------flow_control
+in case 3flow_control
+in value ------------------value
+in handle value 4
+in method
+access
+l=======================1
+183
+39
+in value ------------------port
+in case 3port
+in value ------------------value
+in handle value 4
+in method
+access
+l=======================1
+184
+39
+in value ------------------send
+in case 2send
+in value ------------------value
+in handle value 3
+in method
+access
+185
+39
+in value ------------------data
+in case 3data
+in value ------------------value
+in handle value 4
+in method
+access
+l=======================1
+186
+39
+in value ------------------port
+in case 3port
+in value ------------------value
+in handle value 4
+in method
+access
+l=======================1
+187
+40
+in value ------------------1
+in case 11
+in value ------------------params
+in case 2params
+in value ------------------value
+in handle value 3
+in method
+access
+in getArray
+188
+39
+in value ------------------baud_rate
+in case 3baud_rate
+in value ------------------value
+in handle value 4
+in method
+access
+l=======================1
+189
+39
+in value ------------------data_bits
+in case 3data_bits
+in value ------------------value
+in handle value 4
+in method
+access
+l=======================1
+190
+39
+in value ------------------parity
+in case 3parity
+in value ------------------value
+in handle value 4
+in method
+access
+l=======================1
+191
+39
+in value ------------------stop_bit
+in case 3stop_bit
+in value ------------------value
+in handle value 4
+in method
+access
+l=======================1
+192
+39
+in value ------------------flow_control
+in case 3flow_control
+in value ------------------value
+in handle value 4
+in method
+access
+l=======================1
+193
+39
+in value ------------------port
+in case 3port
+in value ------------------value
+in handle value 4
+in method
+access
+l=======================1
+194
+39
+in value ------------------send
+in case 2send
+in value ------------------value
+in handle value 3
+in method
+access
+195
+39
+in value ------------------data
+in case 3data
+in value ------------------value
+in handle value 4
+in method
+access
+l=======================1
+196
+39
+in value ------------------port
+in case 3port
+in value ------------------value
+in handle value 4
+in method
+access
+l=======================1
+197
+39
+in value ------------------data-in-notification
+in case 1data-in-notification
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+198
+39
+in value ------------------read-existing
+in case 1read-existing
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+199
+39
+in value ------------------read-line
+in case 1read-line
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+200
+39
+in case 0fpga-register
+in value ------------------0
+in case 10
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+201
+39
+in value ------------------1
+in case 11
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+202
+39
+in value ------------------2
+in case 12
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+203
+39
+in value ------------------3
+in case 13
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+204
+39
+in value ------------------4
+in case 14
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+205
+39
+in value ------------------5
+in case 15
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+206
+39
+in value ------------------6
+in case 16
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+207
+39
+in value ------------------7
+in case 17
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+208
+39
+in value ------------------8
+in case 18
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+209
+39
+in value ------------------9
+in case 19
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+210
+39
+in value ------------------10
+in case 110
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+211
+39
+in value ------------------11
+in case 111
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+212
+39
+in value ------------------12
+in case 112
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+213
+39
+in value ------------------13
+in case 113
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+214
+39
+in value ------------------14
+in case 114
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+215
+39
+in value ------------------15
+in case 115
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+216
+39
+in value ------------------16
+in case 116
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+217
+39
+in value ------------------17
+in case 117
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+218
+39
+in value ------------------18
+in case 118
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+219
+39
+in value ------------------19
+in case 119
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+220
+39
+in value ------------------20
+in case 120
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+221
+39
+in value ------------------21
+in case 121
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+222
+39
+in value ------------------22
+in case 122
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+223
+39
+in value ------------------23
+in case 123
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+224
+39
+in value ------------------24
+in case 124
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+225
+39
+in value ------------------25
+in case 125
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+226
+39
+in value ------------------26
+in case 126
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+227
+39
+in value ------------------27
+in case 127
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+228
+39
+in value ------------------28
+in case 128
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+229
+39
+in value ------------------29
+in case 129
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+230
+39
+in value ------------------30
+in case 130
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+231
+39
+in value ------------------31
+in case 131
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+232
+39
+in value ------------------32
+in case 132
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+233
+39
+in value ------------------33
+in case 133
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+234
+39
+in value ------------------34
+in case 134
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+235
+39
+in value ------------------35
+in case 135
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+236
+39
+in value ------------------36
+in case 136
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+237
+39
+in value ------------------37
+in case 137
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+238
+39
+in value ------------------38
+in case 138
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+239
+39
+in value ------------------39
+in case 139
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+240
+39
+in value ------------------40
+in case 140
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+241
+39
+in value ------------------41
+in case 141
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+242
+39
+in value ------------------42
+in case 142
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+243
+39
+in value ------------------43
+in case 143
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+244
+39
+in value ------------------44
+in case 144
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+245
+39
+in value ------------------45
+in case 145
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+246
+39
+in value ------------------46
+in case 146
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+247
+39
+in value ------------------47
+in case 147
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+248
+39
+in value ------------------48
+in case 148
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+249
+39
+in value ------------------49
+in case 149
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+250
+39
+in value ------------------50
+in case 150
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+251
+39
+in value ------------------51
+in case 151
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+252
+39
+in value ------------------52
+in case 152
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+253
+39
+in value ------------------53
+in case 153
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+254
+39
+in value ------------------54
+in case 154
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+255
+39
+in value ------------------55
+in case 155
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+256
+39
+in value ------------------56
+in case 156
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+257
+39
+in value ------------------57
+in case 157
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+258
+39
+in value ------------------58
+in case 158
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+259
+39
+in value ------------------59
+in case 159
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+260
+39
+in value ------------------60
+in case 160
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+261
+39
+in value ------------------61
+in case 161
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+262
+39
+in value ------------------62
+in case 162
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+263
+39
+in value ------------------63
+in case 163
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+264
+39
+in value ------------------64
+in case 164
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+265
+39
+in value ------------------65
+in case 165
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+266
+39
+in value ------------------66
+in case 166
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+267
+39
+in value ------------------67
+in case 167
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+268
+39
+in value ------------------68
+in case 168
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+269
+39
+in value ------------------69
+in case 169
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+270
+39
+in value ------------------70
+in case 170
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+271
+39
+in value ------------------71
+in case 171
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+272
+39
+in value ------------------72
+in case 172
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+273
+39
+in value ------------------73
+in case 173
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+274
+39
+in value ------------------74
+in case 174
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+275
+39
+in value ------------------75
+in case 175
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+276
+39
+in value ------------------76
+in case 176
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+277
+39
+in value ------------------77
+in case 177
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+278
+39
+in value ------------------78
+in case 178
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+279
+39
+in value ------------------79
+in case 179
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+280
+39
+in value ------------------80
+in case 180
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+281
+39
+in value ------------------81
+in case 181
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+282
+39
+in value ------------------82
+in case 182
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+283
+39
+in value ------------------83
+in case 183
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+284
+39
+in value ------------------84
+in case 184
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+285
+39
+in value ------------------85
+in case 185
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+286
+39
+in value ------------------86
+in case 186
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+287
+39
+in value ------------------87
+in case 187
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+288
+39
+in value ------------------88
+in case 188
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+289
+39
+in value ------------------89
+in case 189
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+290
+39
+in value ------------------90
+in case 190
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+291
+39
+in value ------------------91
+in case 191
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+292
+39
+in value ------------------92
+in case 192
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+293
+39
+in value ------------------93
+in case 193
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+294
+39
+in value ------------------94
+in case 194
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+295
+39
+in value ------------------95
+in case 195
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+296
+39
+in value ------------------96
+in case 196
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+297
+39
+in value ------------------97
+in case 197
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+298
+39
+in value ------------------98
+in case 198
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+299
+39
+in value ------------------99
+in case 199
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+300
+39
+in value ------------------100
+in case 1100
+in value ------------------value
+in handle value 2
+in method
+access
+l=======================1
+{ '1': 
+   { columnName: 'fpga-version',
+     tableName: 'SYSTEM_FIRMWARE',
+     method: 'GET' },
+  '2': 
+   { columnName: 'processor-version',
+     tableName: 'SYSTEM_FIRMWARE',
+     method: 'GET' },
+  '3': 
+   { columnName: 'processor-field-upgrade',
+     tableName: 'SYSTEM_FIRMWARE',
+     method: 'POST' },
+  '4': 
+   { columnName: 'fpga-field-upgrade',
+     tableName: 'SYSTEM_FIRMWARE',
+     method: 'POST' },
+  '5': 
+   { columnName: 'fpga-upgrade-status',
+     tableName: 'SYSTEM_FIRMWARE',
+     method: 'GET' },
+  '6': 
+   { columnName: 'processor-upgrade-status',
+     tableName: 'SYSTEM_FIRMWARE',
+     method: 'GET' },
+  '7': 
+   { columnName: 'switch',
+     tableName: 'SYSTEM_FIRMWARE',
+     method: 'POST' },
+  '8': 
+   { columnName: 'serial-no',
+     tableName: 'SYSTEM_FIRMWARE',
+     method: 'GET' },
+  '9': 
+   { columnName: 'serial-no',
+     tableName: 'SYSTEM_FIRMWARE',
+     method: 'POST' },
+  '10': 
+   { columnName: 'ip-settings',
+     tableName: 'SYSTEM_NETWORK_IP-SETTINGS',
+     method: 'GET',
+     getArray: [ '10', '12', '14' ] },
+  '11': 
+   { columnName: 'ip-settings',
+     tableName: 'SYSTEM_NETWORK_IP-SETTINGS',
+     method: 'POST',
+     postArray: [ '11', '13', '15' ] },
+  '12': 
+   { columnName: 'ip-addr',
+     tableName: 'SYSTEM_NETWORK_IP-SETTINGS',
+     method: 'GET' },
+  '13': 
+   { columnName: 'ip-addr',
+     tableName: 'SYSTEM_NETWORK_IP-SETTINGS',
+     method: 'POST' },
+  '14': 
+   { columnName: 'subnet-mask',
+     tableName: 'SYSTEM_NETWORK_IP-SETTINGS',
+     method: 'GET' },
+  '15': 
+   { columnName: 'subnet-mask',
+     tableName: 'SYSTEM_NETWORK_IP-SETTINGS',
+     method: 'POST' },
+  '16': 
+   { columnName: 'gateway',
+     tableName: 'SYSTEM_NETWORK_IP-SETTINGS',
+     method: 'GET' },
+  '17': 
+   { columnName: 'gateway',
+     tableName: 'SYSTEM_NETWORK_IP-SETTINGS',
+     method: 'POST' },
+  '18': { columnName: 'tos', tableName: 'SYSTEM_NETWORK', method: 'GET' },
+  '19': 
+   { columnName: 'tos',
+     tableName: 'SYSTEM_NETWORK',
+     method: 'POST' },
+  '20': 
+   { columnName: 'mtu-size',
+     tableName: 'SYSTEM_NETWORK',
+     method: 'GET' },
+  '21': 
+   { columnName: 'mtu-size',
+     tableName: 'SYSTEM_NETWORK',
+     method: 'POST' },
+  '22': 
+   { columnName: 'mode',
+     tableName: 'SYSTEM_NETWORK',
+     method: 'GET' },
+  '23': 
+   { columnName: 'mode',
+     tableName: 'SYSTEM_NETWORK',
+     method: 'POST' },
+  '28': 
+   { columnName: 'hw-status',
+     tableName: 'SYSTEM_DIAGNOSTICS',
+     method: 'GET' },
+  '29': 
+   { columnName: 'temperature',
+     tableName: 'SYSTEM_DIAGNOSTICS',
+     method: 'GET' },
+  '30': 
+   { columnName: 'device-log',
+     tableName: 'SYSTEM_DIAGNOSTICS',
+     method: 'GET' },
+  '31': 
+   { columnName: 'device-log-level',
+     tableName: 'SYSTEM_DIAGNOSTICS',
+     method: 'GET' },
+  '32': 
+   { columnName: 'device-log-level',
+     tableName: 'SYSTEM_DIAGNOSTICS',
+     method: 'POST' },
+  '33': 
+   { columnName: 'device-log-facility',
+     tableName: 'SYSTEM_DIAGNOSTICS',
+     method: 'GET' },
+  '34': 
+   { columnName: 'device-log-facility',
+     tableName: 'SYSTEM_DIAGNOSTICS',
+     method: 'POST' },
+  '35': 
+   { columnName: 'dev-log-ip-addr',
+     tableName: 'SYSTEM_DIAGNOSTICS',
+     method: 'GET' },
+  '36': 
+   { columnName: 'dev-log-ip-addr',
+     tableName: 'SYSTEM_DIAGNOSTICS',
+     method: 'POST' },
+  '37': 
+   { columnName: 'enable',
+     tableName: 'SYSTEM_SPLASH-SCRN',
+     method: 'GET' },
+  '38': 
+   { columnName: 'enable',
+     tableName: 'SYSTEM_SPLASH-SCRN',
+     method: 'POST' },
+  '39': 
+   { columnName: 'upload',
+     tableName: 'SYSTEM_SPLASH-SCRN',
+     method: 'POST' },
+  '40': 
+   { columnName: 'get-name',
+     tableName: 'SYSTEM_SPLASH-SCRN',
+     method: 'GET' },
+  '41': 
+   { columnName: 'soft-reset',
+     tableName: 'SYSTEM_RESET',
+     method: 'POST' },
+  '42': 
+   { columnName: 'configuration-reset',
+     tableName: 'SYSTEM_RESET',
+     method: 'POST' },
+  '43': 
+   { columnName: 'factory-reset',
+     tableName: 'SYSTEM_RESET',
+     method: 'POST' },
+  '44': { columnName: 'reboot', tableName: 'SYSTEM', method: 'POST' },
+  '45': 
+   { columnName: 'id',
+     tableName: 'SYSTEM_IDENTIFICATION',
+     method: 'GET' },
+  '46': 
+   { columnName: 'enable-3d',
+     tableName: 'SYSTEM_VIDEO-MODE',
+     method: 'GET' },
+  '47': 
+   { columnName: 'enable-3d',
+     tableName: 'SYSTEM_VIDEO-MODE',
+     method: 'POST' },
+  '48': 
+   { columnName: 'upload',
+     tableName: 'SYSTEM_CONFIG-FILE',
+     method: 'GET' },
+  '49': 
+   { columnName: 'download',
+     tableName: 'SYSTEM_CONFIG-FILE',
+     method: 'POST' },
+  '50': 
+   { columnName: 'delete',
+     tableName: 'SYSTEM_CONFIG-FILE',
+     method: 'POST' },
+  '51': 
+   { columnName: 'update',
+     tableName: 'SYSTEM_CONFIG-FILE',
+     method: 'POST' },
+  '52': 
+   { columnName: 'board-type',
+     tableName: 'SYSTEM_MISC',
+     method: 'GET' },
+  '53': 
+   { columnName: 'led-on-time',
+     tableName: 'SYSTEM_MISC',
+     method: 'GET' },
+  '54': 
+   { columnName: 'led-on-time',
+     tableName: 'SYSTEM_MISC',
+     method: 'POST' },
+  '55': 
+   { columnName: 'led-off-time',
+     tableName: 'SYSTEM_MISC',
+     method: 'GET' },
+  '56': 
+   { columnName: 'led-off-time',
+     tableName: 'SYSTEM_MISC',
+     method: 'POST' },
+  '101': 
+   { columnName: 'streams',
+     tableName: 'VIDEO_INPUT',
+     method: 'GET' },
+  '102': 
+   { columnName: 'resolution',
+     tableName: 'VIDEO_INPUT',
+     method: 'GET' },
+  '103': 
+   { columnName: 'frame-rate',
+     tableName: 'VIDEO_INPUT',
+     method: 'GET' },
+  '104': 
+   { columnName: 'valid-input',
+     tableName: 'VIDEO_INPUT',
+     method: 'GET' },
+  '105': 
+   { columnName: 'cable-presence',
+     tableName: 'VIDEO_INPUT',
+     method: 'GET' },
+  '106': 
+   { columnName: 'buffer-type',
+     tableName: 'VIDEO_INPUT',
+     method: 'GET' },
+  '107': 
+   { columnName: 'buffer-type',
+     tableName: 'VIDEO_INPUT',
+     method: 'POST' },
+  '108': 
+   { columnName: 'buffer-delay',
+     tableName: 'VIDEO_INPUT',
+     method: 'GET' },
+  '109': 
+   { columnName: 'buffer-delay',
+     tableName: 'VIDEO_INPUT',
+     method: 'POST' },
+  '110': 
+   { columnName: 'hqll-mult-ip-addr',
+     tableName: 'VIDEO_INPUT',
+     method: 'GET' },
+  '111': 
+   { columnName: 'hqll-mult-ip-addr',
+     tableName: 'VIDEO_INPUT',
+     method: 'POST',
+     postArray: [ '113', '115' ] },
+  '112': 
+   { columnName: 'ip-addr',
+     tableName: 'VIDEO_INPUT_HQLL-MULTI-IP-ADDR',
+     method: 'GET' },
+  '113': 
+   { columnName: 'ip-addr',
+     tableName: 'VIDEO_INPUT_HQLL-MULTI-IP-ADDR',
+     method: 'POST' },
+  '114': 
+   { columnName: 'port',
+     tableName: 'VIDEO_INPUT_HQLL-MULTI-IP-ADDR',
+     method: 'GET' },
+  '115': 
+   { columnName: 'port',
+     tableName: 'VIDEO_INPUT_HQLL-MULTI-IP-ADDR',
+     method: 'POST' },
+  '116': 
+   { columnName: 'es-mult-ip-addr',
+     tableName: 'VIDEO_INPUT',
+     method: 'GET' },
+  '117': 
+   { columnName: 'es-mult-ip-addr',
+     tableName: 'VIDEO_INPUT',
+     method: 'POST',
+     postArray: [ '119', '121' ] },
+  '118': 
+   { columnName: 'ip-addr',
+     tableName: 'VIDEO_INPUT_ES-MULTI-IP-ADDR',
+     method: 'GET' },
+  '119': 
+   { columnName: 'ip-addr',
+     tableName: 'VIDEO_INPUT_ES-MULTI-IP-ADDR',
+     method: 'POST' },
+  '120': 
+   { columnName: 'port',
+     tableName: 'VIDEO_INPUT_ES-MULTI-IP-ADDR',
+     method: 'GET' },
+  '121': 
+   { columnName: 'port',
+     tableName: 'VIDEO_INPUT_ES-MULTI-IP-ADDR',
+     method: 'POST' },
+  '122': { columnName: 'mute', tableName: 'VIDEO_INPUT', method: 'GET' },
+  '123': { columnName: 'mute', tableName: 'VIDEO_INPUT', method: 'POST' },
+  '124': 
+   { columnName: 'videos',
+     tableName: 'VIDEO_OUTPUT',
+     method: 'GET' },
+  '125': 
+   { columnName: 'resolution',
+     tableName: 'VIDEO_OUTPUT',
+     method: 'GET' },
+  '126': 
+   { columnName: 'frame-rate',
+     tableName: 'VIDEO_OUTPUT',
+     method: 'GET' },
+  '127': { columnName: 'edid', tableName: 'VIDEO_OUTPUT', method: 'GET' },
+  '151': 
+   { columnName: 'feature-enable',
+     tableName: 'COMP-LAYOUT',
+     method: 'GET' },
+  '152': 
+   { columnName: 'feature-enable',
+     tableName: 'COMP-LAYOUT',
+     method: 'POST' },
+  '153': 
+   { columnName: 'available-layout',
+     tableName: 'COMP-LAYOUT',
+     method: 'GET' },
+  '154': 
+   { columnName: 'enable-pip',
+     tableName: 'COMP-LAYOUT',
+     method: 'GET' },
+  '155': 
+   { columnName: 'enable-pip',
+     tableName: 'COMP-LAYOUT',
+     method: 'POST' },
+  '156': 
+   { columnName: 'pip-loc',
+     tableName: 'COMP-LAYOUT',
+     method: 'GET' },
+  '157': 
+   { columnName: 'pip-loc',
+     tableName: 'COMP-LAYOUT',
+     method: 'POST' },
+  '158': 
+   { columnName: 'x_location',
+     tableName: 'COMP-LAYOUT',
+     method: 'GET' },
+  '159': 
+   { columnName: 'x_location',
+     tableName: 'COMP-LAYOUT',
+     method: 'POST' },
+  '160': 
+   { columnName: 'y_location',
+     tableName: 'COMP-LAYOUT',
+     method: 'GET' },
+  '161': 
+   { columnName: 'y_location',
+     tableName: 'COMP-LAYOUT',
+     method: 'POST' },
+  '162': 
+   { columnName: 'enable-pap',
+     tableName: 'COMP-LAYOUT',
+     method: 'GET' },
+  '163': 
+   { columnName: 'enable-pap',
+     tableName: 'COMP-LAYOUT',
+     method: 'POST' },
+  '164': 
+   { columnName: 'swap-pap',
+     tableName: 'COMP-LAYOUT',
+     method: 'POST' },
+  '201': 
+   { columnName: 'feature-enable',
+     tableName: 'OVERLAY',
+     method: 'GET' },
+  '202': 
+   { columnName: 'feature-enable',
+     tableName: 'OVERLAY',
+     method: 'POST' },
+  '203': { columnName: 'max-images', tableName: 'OVERLAY', method: 'GET' },
+  '204': 
+   { columnName: 'max-images',
+     tableName: 'OVERLAY',
+     method: 'POST' },
+  '205': { columnName: 'enable', tableName: 'OVERLAY', method: 'GET' },
+  '206': { columnName: 'enable', tableName: 'OVERLAY', method: 'POST' },
+  '207': 
+   { columnName: 'upload-image',
+     tableName: 'OVERLAY',
+     method: 'POST',
+     postArray: [ '208', '209', '210', '211' ] },
+  '208': 
+   { columnName: 'file_name',
+     tableName: 'OVERLAY_UPLOAD-IMAGE',
+     method: 'POST' },
+  '209': 
+   { columnName: 'id',
+     tableName: 'OVERLAY_UPLOAD-IMAGE',
+     method: 'POST' },
+  '210': 
+   { columnName: 'height',
+     tableName: 'OVERLAY_UPLOAD-IMAGE',
+     method: 'POST' },
+  '211': 
+   { columnName: 'width',
+     tableName: 'OVERLAY_UPLOAD-IMAGE',
+     method: 'POST' },
+  '212': 
+   { columnName: 'upload-mute-image',
+     tableName: 'OVERLAY',
+     method: 'POST',
+     postArray: [ '213', '214', '215' ] },
+  '213': 
+   { columnName: 'file_name',
+     tableName: 'OVERLAY_UPLOAD-MUTE-IMAGE',
+     method: 'POST' },
+  '214': 
+   { columnName: 'height',
+     tableName: 'OVERLAY_UPLOAD-MUTE-IMAGE',
+     method: 'POST' },
+  '215': 
+   { columnName: 'width',
+     tableName: 'OVERLAY_UPLOAD-MUTE-IMAGE',
+     method: 'POST' },
+  '216': 
+   { columnName: 'del-image',
+     tableName: 'OVERLAY',
+     method: 'POST',
+     postArray: [ '217' ] },
+  '217': { columnName: 'id', tableName: 'OVERLAY', method: 'POST' },
+  '218': 
+   { columnName: 'image-params',
+     tableName: 'OVERLAY_0',
+     method: 'GET' },
+  '219': 
+   { columnName: 'image-params',
+     tableName: 'OVERLAY_0',
+     method: 'POST' },
+  '220': { columnName: 'id', tableName: 'OVERLAY_0', method: 'GET' },
+  '221': { columnName: 'id', tableName: 'OVERLAY_0', method: 'POST' },
+  '222': 
+   { columnName: 'x_location',
+     tableName: 'OVERLAY_0',
+     method: 'GET' },
+  '223': 
+   { columnName: 'x_location',
+     tableName: 'OVERLAY_0',
+     method: 'POST' },
+  '224': 
+   { columnName: 'y_location',
+     tableName: 'OVERLAY_0',
+     method: 'GET' },
+  '225': 
+   { columnName: 'y_location',
+     tableName: 'OVERLAY_0',
+     method: 'POST' },
+  '226': { columnName: 'enable', tableName: 'OVERLAY_0', method: 'GET' },
+  '227': { columnName: 'enable', tableName: 'OVERLAY_0', method: 'POST' },
+  '228': { columnName: 'height', tableName: 'OVERLAY_0', method: 'GET' },
+  '229': { columnName: 'height', tableName: 'OVERLAY_0', method: 'POST' },
+  '230': { columnName: 'width', tableName: 'OVERLAY_0', method: 'GET' },
+  '231': { columnName: 'width', tableName: 'OVERLAY_0', method: 'POST' },
+  '232': 
+   { columnName: 'image-params',
+     tableName: 'OVERLAY_1',
+     method: 'GET' },
+  '233': 
+   { columnName: 'image-params',
+     tableName: 'OVERLAY_1',
+     method: 'POST' },
+  '234': { columnName: 'id', tableName: 'OVERLAY_1', method: 'GET' },
+  '235': { columnName: 'id', tableName: 'OVERLAY_1', method: 'POST' },
+  '236': 
+   { columnName: 'x_location',
+     tableName: 'OVERLAY_1',
+     method: 'GET' },
+  '237': 
+   { columnName: 'x_location',
+     tableName: 'OVERLAY_1',
+     method: 'POST' },
+  '238': 
+   { columnName: 'y_location',
+     tableName: 'OVERLAY_1',
+     method: 'GET' },
+  '239': 
+   { columnName: 'y_location',
+     tableName: 'OVERLAY_1',
+     method: 'POST' },
+  '240': { columnName: 'enable', tableName: 'OVERLAY_1', method: 'GET' },
+  '241': { columnName: 'enable', tableName: 'OVERLAY_1', method: 'POST' },
+  '242': { columnName: 'height', tableName: 'OVERLAY_1', method: 'GET' },
+  '243': { columnName: 'height', tableName: 'OVERLAY_1', method: 'POST' },
+  '244': { columnName: 'width', tableName: 'OVERLAY_1', method: 'GET' },
+  '245': { columnName: 'width', tableName: 'OVERLAY_1', method: 'POST' },
+  '246': 
+   { columnName: 'image-params',
+     tableName: 'OVERLAY_2',
+     method: 'GET' },
+  '247': 
+   { columnName: 'image-params',
+     tableName: 'OVERLAY_2',
+     method: 'POST' },
+  '248': { columnName: 'id', tableName: 'OVERLAY_2', method: 'GET' },
+  '249': { columnName: 'id', tableName: 'OVERLAY_2', method: 'POST' },
+  '250': 
+   { columnName: 'x_location',
+     tableName: 'OVERLAY_2',
+     method: 'GET' },
+  '251': 
+   { columnName: 'x_location',
+     tableName: 'OVERLAY_2',
+     method: 'POST' },
+  '252': 
+   { columnName: 'y_location',
+     tableName: 'OVERLAY_2',
+     method: 'GET' },
+  '253': 
+   { columnName: 'y_location',
+     tableName: 'OVERLAY_2',
+     method: 'POST' },
+  '254': { columnName: 'enable', tableName: 'OVERLAY_2', method: 'GET' },
+  '255': { columnName: 'enable', tableName: 'OVERLAY_2', method: 'POST' },
+  '256': { columnName: 'height', tableName: 'OVERLAY_2', method: 'GET' },
+  '257': { columnName: 'height', tableName: 'OVERLAY_2', method: 'POST' },
+  '258': { columnName: 'width', tableName: 'OVERLAY_2', method: 'GET' },
+  '259': { columnName: 'width', tableName: 'OVERLAY_2', method: 'POST' },
+  '260': 
+   { columnName: 'image-params',
+     tableName: 'OVERLAY_3',
+     method: 'GET' },
+  '261': 
+   { columnName: 'image-params',
+     tableName: 'OVERLAY_3',
+     method: 'POST' },
+  '262': { columnName: 'id', tableName: 'OVERLAY_3', method: 'GET' },
+  '263': { columnName: 'id', tableName: 'OVERLAY_3', method: 'POST' },
+  '264': 
+   { columnName: 'x_location',
+     tableName: 'OVERLAY_3',
+     method: 'GET' },
+  '265': 
+   { columnName: 'x_location',
+     tableName: 'OVERLAY_3',
+     method: 'POST' },
+  '266': 
+   { columnName: 'y_location',
+     tableName: 'OVERLAY_3',
+     method: 'GET' },
+  '267': 
+   { columnName: 'y_location',
+     tableName: 'OVERLAY_3',
+     method: 'POST' },
+  '268': { columnName: 'enable', tableName: 'OVERLAY_3', method: 'GET' },
+  '269': { columnName: 'enable', tableName: 'OVERLAY_3', method: 'POST' },
+  '270': { columnName: 'height', tableName: 'OVERLAY_3', method: 'GET' },
+  '271': { columnName: 'height', tableName: 'OVERLAY_3', method: 'POST' },
+  '272': { columnName: 'width', tableName: 'OVERLAY_3', method: 'GET' },
+  '273': { columnName: 'width', tableName: 'OVERLAY_3', method: 'POST' },
+  '274': 
+   { columnName: 'image-params',
+     tableName: 'OVERLAY_4',
+     method: 'GET' },
+  '275': 
+   { columnName: 'image-params',
+     tableName: 'OVERLAY_4',
+     method: 'POST' },
+  '276': { columnName: 'id', tableName: 'OVERLAY_4', method: 'GET' },
+  '277': { columnName: 'id', tableName: 'OVERLAY_4', method: 'POST' },
+  '278': 
+   { columnName: 'x_location',
+     tableName: 'OVERLAY_4',
+     method: 'GET' },
+  '279': 
+   { columnName: 'x_location',
+     tableName: 'OVERLAY_4',
+     method: 'POST' },
+  '280': 
+   { columnName: 'y_location',
+     tableName: 'OVERLAY_4',
+     method: 'GET' },
+  '281': 
+   { columnName: 'y_location',
+     tableName: 'OVERLAY_4',
+     method: 'POST' },
+  '282': { columnName: 'enable', tableName: 'OVERLAY_4', method: 'GET' },
+  '283': { columnName: 'enable', tableName: 'OVERLAY_4', method: 'POST' },
+  '284': { columnName: 'height', tableName: 'OVERLAY_4', method: 'GET' },
+  '285': { columnName: 'height', tableName: 'OVERLAY_4', method: 'POST' },
+  '286': { columnName: 'width', tableName: 'OVERLAY_4', method: 'GET' },
+  '287': { columnName: 'width', tableName: 'OVERLAY_4', method: 'POST' },
+  '288': 
+   { columnName: 'image-params',
+     tableName: 'OVERLAY_5',
+     method: 'GET' },
+  '289': 
+   { columnName: 'image-params',
+     tableName: 'OVERLAY_5',
+     method: 'POST' },
+  '290': { columnName: 'id', tableName: 'OVERLAY_5', method: 'GET' },
+  '291': { columnName: 'id', tableName: 'OVERLAY_5', method: 'POST' },
+  '292': 
+   { columnName: 'x_location',
+     tableName: 'OVERLAY_5',
+     method: 'GET' },
+  '293': 
+   { columnName: 'x_location',
+     tableName: 'OVERLAY_5',
+     method: 'POST' },
+  '294': 
+   { columnName: 'y_location',
+     tableName: 'OVERLAY_5',
+     method: 'GET' },
+  '295': 
+   { columnName: 'y_location',
+     tableName: 'OVERLAY_5',
+     method: 'POST' },
+  '296': { columnName: 'enable', tableName: 'OVERLAY_5', method: 'GET' },
+  '297': { columnName: 'enable', tableName: 'OVERLAY_5', method: 'POST' },
+  '298': { columnName: 'height', tableName: 'OVERLAY_5', method: 'GET' },
+  '299': { columnName: 'height', tableName: 'OVERLAY_5', method: 'POST' },
+  '300': { columnName: 'width', tableName: 'OVERLAY_5', method: 'GET' },
+  '301': { columnName: 'width', tableName: 'OVERLAY_5', method: 'POST' },
+  '302': 
+   { columnName: 'image-params',
+     tableName: 'OVERLAY_6',
+     method: 'GET' },
+  '303': 
+   { columnName: 'image-params',
+     tableName: 'OVERLAY_6',
+     method: 'POST' },
+  '304': { columnName: 'id', tableName: 'OVERLAY_6', method: 'GET' },
+  '305': { columnName: 'id', tableName: 'OVERLAY_6', method: 'POST' },
+  '306': 
+   { columnName: 'x_location',
+     tableName: 'OVERLAY_6',
+     method: 'GET' },
+  '307': 
+   { columnName: 'x_location',
+     tableName: 'OVERLAY_6',
+     method: 'POST' },
+  '308': 
+   { columnName: 'y_location',
+     tableName: 'OVERLAY_6',
+     method: 'GET' },
+  '309': 
+   { columnName: 'y_location',
+     tableName: 'OVERLAY_6',
+     method: 'POST' },
+  '310': { columnName: 'enable', tableName: 'OVERLAY_6', method: 'GET' },
+  '311': { columnName: 'enable', tableName: 'OVERLAY_6', method: 'POST' },
+  '312': { columnName: 'height', tableName: 'OVERLAY_6', method: 'GET' },
+  '313': { columnName: 'height', tableName: 'OVERLAY_6', method: 'POST' },
+  '314': { columnName: 'width', tableName: 'OVERLAY_6', method: 'GET' },
+  '315': { columnName: 'width', tableName: 'OVERLAY_6', method: 'POST' },
+  '316': 
+   { columnName: 'image-params',
+     tableName: 'OVERLAY_7',
+     method: 'GET' },
+  '317': 
+   { columnName: 'image-params',
+     tableName: 'OVERLAY_7',
+     method: 'POST' },
+  '318': { columnName: 'id', tableName: 'OVERLAY_7', method: 'GET' },
+  '319': { columnName: 'id', tableName: 'OVERLAY_7', method: 'POST' },
+  '320': 
+   { columnName: 'x_location',
+     tableName: 'OVERLAY_7',
+     method: 'GET' },
+  '322': 
+   { columnName: 'x_location',
+     tableName: 'OVERLAY_7',
+     method: 'POST' },
+  '323': 
+   { columnName: 'y_location',
+     tableName: 'OVERLAY_7',
+     method: 'GET' },
+  '324': 
+   { columnName: 'y_location',
+     tableName: 'OVERLAY_7',
+     method: 'POST' },
+  '325': { columnName: 'enable', tableName: 'OVERLAY_7', method: 'GET' },
+  '326': { columnName: 'enable', tableName: 'OVERLAY_7', method: 'POST' },
+  '327': { columnName: 'height', tableName: 'OVERLAY_7', method: 'GET' },
+  '328': { columnName: 'height', tableName: 'OVERLAY_7', method: 'POST' },
+  '329': { columnName: 'width', tableName: 'OVERLAY_7', method: 'GET' },
+  '330': { columnName: 'width', tableName: 'OVERLAY_7', method: 'POST' },
+  '351': 
+   { columnName: 'valid-input',
+     tableName: 'AUDIO_INPUT',
+     method: 'GET' },
+  '352': 
+   { columnName: 'enable-rx',
+     tableName: 'AUDIO_INPUT',
+     method: 'GET' },
+  '353': 
+   { columnName: 'enable-rx',
+     tableName: 'AUDIO_INPUT',
+     method: 'POST' },
+  '354': 
+   { columnName: 'fine-gain',
+     tableName: 'AUDIO_INPUT',
+     method: 'GET' },
+  '355': 
+   { columnName: 'fine-gain',
+     tableName: 'AUDIO_INPUT',
+     method: 'POST' },
+  '356': 
+   { columnName: 'coarse-gain',
+     tableName: 'AUDIO_INPUT',
+     method: 'GET' },
+  '357': 
+   { columnName: 'coarse-gain',
+     tableName: 'AUDIO_INPUT',
+     method: 'POST' },
+  '358': { columnName: 'mute', tableName: 'AUDIO_INPUT', method: 'GET' },
+  '359': { columnName: 'mute', tableName: 'AUDIO_INPUT', method: 'POST' },
+  '360': 
+   { columnName: 'loop-back',
+     tableName: 'AUDIO_INPUT',
+     method: 'GET' },
+  '361': 
+   { columnName: 'loop-back',
+     tableName: 'AUDIO_INPUT',
+     method: 'POST' },
+  '362': 
+   { columnName: 'rx-mult-ip-addr',
+     tableName: 'AUDIO_INPUT',
+     method: 'GET' },
+  '363': 
+   { columnName: 'rx-mult-ip-addr',
+     tableName: 'AUDIO_INPUT',
+     method: 'POST',
+     postArray: [ '365', '367' ] },
+  '364': 
+   { columnName: 'ip-addr',
+     tableName: 'AUDIO_OUTPUT_RX-MULT-IP-ADDR',
+     method: 'GET' },
+  '365': 
+   { columnName: 'ip-addr',
+     tableName: 'AUDIO_OUTPUT_RX-MULT-IP-ADDR',
+     method: 'POST' },
+  '366': 
+   { columnName: 'port',
+     tableName: 'AUDIO_OUTPUT_RX-MULT-IP-ADDR',
+     method: 'GET' },
+  '367': 
+   { columnName: 'port',
+     tableName: 'AUDIO_OUTPUT_RX-MULT-IP-ADDR',
+     method: 'POST' },
+  '368': 
+   { columnName: 'enable-tx',
+     tableName: 'AUDIO_OUTPUT',
+     method: 'GET' },
+  '369': 
+   { columnName: 'enable-tx',
+     tableName: 'AUDIO_OUTPUT',
+     method: 'POST' },
+  '370': 
+   { columnName: 'tx-mult-ip-addr',
+     tableName: 'AUDIO_OUTPUT',
+     method: 'GET' },
+  '371': 
+   { columnName: 'tx-mult-ip-addr',
+     tableName: 'AUDIO_OUTPUT',
+     method: 'POST',
+     postArray: [ '369', '371' ] },
+  '372': 
+   { columnName: 'ip-addr',
+     tableName: 'AUDIO_OUTPUT_TX-MULT-IP-ADDR',
+     method: 'GET' },
+  '373': 
+   { columnName: 'ip-addr',
+     tableName: 'AUDIO_OUTPUT_TX-MULT-IP-ADDR',
+     method: 'POST' },
+  '374': 
+   { columnName: 'port',
+     tableName: 'AUDIO_OUTPUT_TX-MULT-IP-ADDR',
+     method: 'GET' },
+  '375': 
+   { columnName: 'port',
+     tableName: 'AUDIO_OUTPUT_TX-MULT-IP-ADDR',
+     method: 'POST' },
+  '376': 
+   { columnName: 'fine-gain',
+     tableName: 'AUDIO_OUTPUT',
+     method: 'GET' },
+  '377': 
+   { columnName: 'fine-gain',
+     tableName: 'AUDIO_OUTPUT',
+     method: 'POST' },
+  '378': 
+   { columnName: 'coarse-gain',
+     tableName: 'AUDIO_OUTPUT',
+     method: 'GET' },
+  '379': 
+   { columnName: 'coarse-gain',
+     tableName: 'AUDIO_OUTPUT',
+     method: 'POST' },
+  '380': { columnName: 'mute', tableName: 'AUDIO_OUTPUT', method: 'GET' },
+  '381': { columnName: 'mute', tableName: 'AUDIO_OUTPUT', method: 'POST' },
+  '382': { columnName: 'fade', tableName: 'AUDIO_OUTPUT', method: 'GET' },
+  '383': { columnName: 'fade', tableName: 'AUDIO_OUTPUT', method: 'POST' },
+  '401': { columnName: 'feature-enable', tableName: 'KVM', method: 'GET' },
+  '402': 
+   { columnName: 'feature-enable',
+     tableName: 'KVM',
+     method: 'POST' },
+  '403': 
+   { columnName: 'usb-link-status',
+     tableName: 'KVM',
+     method: 'GET' },
+  '404': 
+   { columnName: 'usb-link-status',
+     tableName: 'KVM',
+     method: 'POST' },
+  '405': { columnName: 'enable', tableName: 'KVM', method: 'GET' },
+  '406': { columnName: 'enable', tableName: 'KVM', method: 'POST' },
+  '407': { columnName: 'encoder', tableName: 'KVM', method: 'GET' },
+  '408': { columnName: 'encoder', tableName: 'KVM', method: 'POST' },
+  '409': 
+   { columnName: 'default-encoder',
+     tableName: 'KVM',
+     method: 'GET' },
+  '410': 
+   { columnName: 'default-encoder',
+     tableName: 'KVM',
+     method: 'POST' },
+  '411': { columnName: 'key-code', tableName: 'KVM', method: 'GET' },
+  '412': { columnName: 'key-code', tableName: 'KVM', method: 'POST' },
+  '451': 
+   { columnName: 'feature-enable',
+     tableName: 'RS232',
+     method: 'GET' },
+  '452': 
+   { columnName: 'feature-enable',
+     tableName: 'RS232',
+     method: 'POST' },
+  '453': { columnName: 'get-devices', tableName: 'RS232', method: 'GET' },
+  '454': { columnName: 'get-devices', tableName: 'RS232', method: 'POST' },
+  '455': 
+   { columnName: 'open-connection',
+     tableName: 'RS232',
+     method: 'GET' },
+  '456': 
+   { columnName: 'open-connection',
+     tableName: 'RS232',
+     method: 'POST' },
+  '457': 
+   { columnName: 'close-connection',
+     tableName: 'RS232',
+     method: 'GET' },
+  '458': 
+   { columnName: 'close-connection',
+     tableName: 'RS232',
+     method: 'POST' },
+  '459': { columnName: 'flush', tableName: 'RS232', method: 'GET' },
+  '460': { columnName: 'flush', tableName: 'RS232', method: 'POST' },
+  '461': 
+   { columnName: 'params',
+     tableName: 'RS232_0_PARAMS',
+     method: 'GET',
+     getArray: [ '463', '465', '467', '469', '471', '473' ] },
+  '462': 
+   { columnName: 'params',
+     tableName: 'RS232_0_PARAMS',
+     method: 'POST',
+     postArray: [ '464', '466', '468', '470', '472', '474' ] },
+  '463': 
+   { columnName: 'baud_rate',
+     tableName: 'RS232_0_PARAMS',
+     method: 'GET' },
+  '464': 
+   { columnName: 'baud_rate',
+     tableName: 'RS232_0_PARAMS',
+     method: 'POST' },
+  '465': 
+   { columnName: 'data_bits',
+     tableName: 'RS232_0_PARAMS',
+     method: 'GET' },
+  '466': 
+   { columnName: 'data_bits',
+     tableName: 'RS232_0_PARAMS',
+     method: 'POST' },
+  '467': 
+   { columnName: 'parity',
+     tableName: 'RS232_0_PARAMS',
+     method: 'GET' },
+  '468': 
+   { columnName: 'parity',
+     tableName: 'RS232_0_PARAMS',
+     method: 'POST' },
+  '469': 
+   { columnName: 'stop_bit',
+     tableName: 'RS232_0_PARAMS',
+     method: 'GET' },
+  '470': 
+   { columnName: 'stop_bit',
+     tableName: 'RS232_0_PARAMS',
+     method: 'POST' },
+  '471': 
+   { columnName: 'flow_control',
+     tableName: 'RS232_0_PARAMS',
+     method: 'GET' },
+  '472': 
+   { columnName: 'flow_control',
+     tableName: 'RS232_0_PARAMS',
+     method: 'POST' },
+  '473': 
+   { columnName: 'port',
+     tableName: 'RS232_0_PARAMS',
+     method: 'GET' },
+  '474': 
+   { columnName: 'port',
+     tableName: 'RS232_0_PARAMS',
+     method: 'POST' },
+  '475': { columnName: 'send', tableName: 'RS232_0_SEND', method: 'GET' },
+  '476': { columnName: 'send', tableName: 'RS232_0_SEND', method: 'POST' },
+  '477': { columnName: 'data', tableName: 'RS232_0_SEND', method: 'GET' },
+  '478': { columnName: 'data', tableName: 'RS232_0_SEND', method: 'POST' },
+  '479': { columnName: 'port', tableName: 'RS232_0_SEND', method: 'GET' },
+  '480': { columnName: 'port', tableName: 'RS232_0_SEND', method: 'POST' },
+  '481': 
+   { columnName: 'params',
+     tableName: 'RS232_1_PARAMS',
+     method: 'GET',
+     getArray: [ '463', '465', '467', '469', '471', '473' ] },
+  '482': 
+   { columnName: 'params',
+     tableName: 'RS232_1_PARAMS',
+     method: 'POST',
+     postArray: [ '464', '466', '468', '470', '472', '474' ] },
+  '483': 
+   { columnName: 'baud_rate',
+     tableName: 'RS232_1_PARAMS',
+     method: 'GET' },
+  '484': 
+   { columnName: 'baud_rate',
+     tableName: 'RS232_1_PARAMS',
+     method: 'POST' },
+  '485': 
+   { columnName: 'data_bits',
+     tableName: 'RS232_1_PARAMS',
+     method: 'GET' },
+  '486': 
+   { columnName: 'data_bits',
+     tableName: 'RS232_1_PARAMS',
+     method: 'POST' },
+  '487': 
+   { columnName: 'parity',
+     tableName: 'RS232_1_PARAMS',
+     method: 'GET' },
+  '488': 
+   { columnName: 'parity',
+     tableName: 'RS232_1_PARAMS',
+     method: 'POST' },
+  '489': 
+   { columnName: 'stop_bit',
+     tableName: 'RS232_1_PARAMS',
+     method: 'GET' },
+  '490': 
+   { columnName: 'stop_bit',
+     tableName: 'RS232_1_PARAMS',
+     method: 'POST' },
+  '491': 
+   { columnName: 'flow_control',
+     tableName: 'RS232_1_PARAMS',
+     method: 'GET' },
+  '492': 
+   { columnName: 'flow_control',
+     tableName: 'RS232_1_PARAMS',
+     method: 'POST' },
+  '493': 
+   { columnName: 'port',
+     tableName: 'RS232_1_PARAMS',
+     method: 'GET' },
+  '494': 
+   { columnName: 'port',
+     tableName: 'RS232_1_PARAMS',
+     method: 'POST' },
+  '495': { columnName: 'send', tableName: 'RS232_1_SEND', method: 'GET' },
+  '496': { columnName: 'send', tableName: 'RS232_1_SEND', method: 'POST' },
+  '497': { columnName: 'data', tableName: 'RS232_1_SEND', method: 'GET' },
+  '498': { columnName: 'data', tableName: 'RS232_1_SEND', method: 'POST' },
+  '499': { columnName: 'port', tableName: 'RS232_1_SEND', method: 'GET' },
+  '500': { columnName: 'port', tableName: 'RS232_1_SEND', method: 'POST' },
+  '501': 
+   { columnName: 'data-in-notification',
+     tableName: 'RS232',
+     method: 'GET' },
+  '502': 
+   { columnName: 'data-in-notification',
+     tableName: 'RS232',
+     method: 'POST' },
+  '503': 
+   { columnName: 'read-existing',
+     tableName: 'RS232',
+     method: 'GET' },
+  '504': { columnName: 'read-line', tableName: 'RS232', method: 'GET' },
+  '701': { columnName: '100', tableName: 'FPGA-REGISTER', method: 'GET' },
+  '702': { columnName: '100', tableName: 'FPGA-REGISTER', method: 'POST' } }
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+101
+102
+103
+104
+105
+106
+107
+108
+109
+110
+111
+112
+113
+114
+115
+116
+117
+118
+119
+120
+121
+122
+123
+124
+125
+126
+127
+151
+152
+153
+154
+155
+156
+157
+158
+159
+160
+161
+162
+163
+164
+201
+202
+203
+204
+205
+206
+207
+208
+209
+210
+211
+212
+213
+214
+215
+216
+217
+218
+219
+220
+221
+222
+223
+224
+225
+226
+227
+228
+229
+230
+231
+232
+233
+234
+235
+236
+237
+238
+239
+240
+241
+242
+243
+244
+245
+246
+247
+248
+249
+250
+251
+252
+253
+254
+255
+256
+257
+258
+259
+260
+261
+262
+263
+264
+265
+266
+267
+268
+269
+270
+271
+272
+273
+274
+275
+276
+277
+278
+279
+280
+281
+282
+283
+284
+285
+286
+287
+288
+289
+290
+291
+292
+293
+294
+295
+296
+297
+298
+299
+300
+301
+302
+303
+304
+305
+306
+307
+308
+309
+310
+311
+312
+313
+314
+315
+316
+317
+318
+319
+320
+322
+323
+324
+325
+326
+327
+328
+329
+330
+351
+352
+353
+354
+355
+356
+357
+358
+359
+360
+361
+362
+363
+364
+365
+366
+367
+368
+369
+370
+371
+372
+373
+374
+375
+376
+377
+378
+379
+380
+381
+382
+383
+401
+402
+403
+404
+405
+406
+407
+408
+409
+410
+411
+412
+451
+452
+453
+454
+455
+456
+457
+458
+459
+460
+461
+462
+463
+464
+465
+466
+467
+468
+469
+470
+471
+472
+473
+474
+475
+476
+477
+478
+479
+480
+481
+482
+483
+484
+485
+486
+487
+488
+489
+490
+491
+492
+493
+494
+495
+496
+497
+498
+499
+500
+501
+502
+503
+504
+701
+702
+{"system":{"firmware":{"fpga-version":{"tableName":"SYSTEM_FIRMWARE","method":["GET"],"socket":{"GET":"1"},"access":"user","socketFilter":0,"filter":[]},"processor-version":{"tableName":"SYSTEM_FIRMWARE","method":["GET"],"socket":{"GET":"2"},"access":"user","socketFilter":0,"filter":[]},"processor-field-upgrade":{"tableName":"SYSTEM_FIRMWARE","method":["POST"],"socket":{"POST":"3"},"access":"user","socketFilter":0,"filter":[]},"fpga-field-upgrade":{"tableName":"SYSTEM_FIRMWARE","method":["POST"],"socket":{"POST":"4"},"access":"user","socketFilter":0,"filter":[]},"fpga-upgrade-status":{"tableName":"SYSTEM_FIRMWARE","method":["GET"],"socket":{"GET":"5"},"access":"user","socketFilter":0,"filter":[]},"processor-upgrade-status":{"tableName":"SYSTEM_FIRMWARE","method":["GET"],"socket":{"GET":"6"},"access":"user","socketFilter":0,"filter":[]},"switch":{"tableName":"SYSTEM_FIRMWARE","method":["POST"],"socket":{"POST":"7"},"access":"user","socketFilter":0,"filter":[]},"serial-no":{"tableName":"SYSTEM_FIRMWARE","method":["GET","POST"],"socket":{"GET":"8","POST":"9"},"access":"admin","socketFilter":0,"filter":["TYPE"],"TYPE":["Digits16","AlphaNum"]}},"network":{"ip-settings":{"tableName":"SYSTEM_NETWORK_IP-SETTINGS","method":["GET","POST"],"socket":{"GET":"10","POST":"11"},"access":"user","socketFilter":0,"array":["ip-addr","subnet-mask","gateway"],"ip-addr":{"tableName":"SYSTEM_NETWORK_IP-SETTINGS","method":["GET","POST"],"socket":{"GET":"12","POST":"13"},"access":"user","socketFilter":0,"filter":["TYPE"],"TYPE":["IPAddress"]},"subnet-mask":{"tableName":"SYSTEM_NETWORK_IP-SETTINGS","method":["GET","POST"],"socket":{"GET":"14","POST":"15"},"access":"user","socketFilter":0,"filter":["TYPE"],"TYPE":["IPAddress"]},"gateway":{"tableName":"SYSTEM_NETWORK_IP-SETTINGS","method":["GET","POST"],"socket":{"GET":"16","POST":"17"},"access":"user","socketFilter":0,"filter":["TYPE"],"TYPE":["IPAddress"]}},"tos":{"tableName":"SYSTEM_NETWORK","method":["GET","POST"],"socket":{"GET":"18","POST":"19"},"access":"user","socketFilter":0,"filter":["MIN","MAX"],"MIN":0,"MAX":7},"mtu-size":{"tableName":"SYSTEM_NETWORK","method":["GET","POST"],"socket":{"GET":"20","POST":"21"},"access":"user","socketFilter":0,"filter":["MIN","MAX"],"MIN":64,"MAX":1500},"mode":{"tableName":"SYSTEM_NETWORK","method":["GET","POST"],"socket":{"GET":"22","POST":"23"},"access":"user","socketFilter":0,"filter":["LIST"],"LIST":["1","2","3","4"]},"notify-ip-addr":{"tableName":"SYSTEM_NETWORK","method":["GET","POST"],"socket":{"GET":"0","POST":"0"},"access":"user","socketFilter":1,"filter":["TYPE"],"TYPE":["IPAddress"],"action":"NOTIFY_IP"},"port":{"tableName":"SYSTEM_NETWORK","method":["GET","POST"],"socket":{"GET":"0","POST":"0"},"access":"user","socketFilter":1,"filter":[],"action":"NOTIFY_PORT"}},"diagnostics":{"hw-status":{"tableName":"SYSTEM_DIAGNOSTICS","method":["GET"],"socket":{"GET":"28"},"access":"user","socketFilter":0,"filter":[]},"temperature":{"tableName":"SYSTEM_DIAGNOSTICS","method":["GET"],"socket":{"GET":"29"},"access":"user","socketFilter":0,"filter":[]},"device-log":{"tableName":"SYSTEM_DIAGNOSTICS","method":["GET"],"socket":{"GET":"30"},"access":"user","socketFilter":0,"filter":[]},"device-log-level":{"tableName":"SYSTEM_DIAGNOSTICS","method":["GET","POST"],"socket":{"GET":"31","POST":"32"},"access":"admin","socketFilter":0,"filter":["MIN","MAX"],"MIN":0,"MAX":7},"device-log-facility":{"tableName":"SYSTEM_DIAGNOSTICS","method":["GET","POST"],"socket":{"GET":"33","POST":"34"},"access":"admin","socketFilter":0,"filter":["MIN","MAX"],"MIN":0,"MAX":3},"dev-log-ip-addr":{"tableName":"SYSTEM_DIAGNOSTICS","method":["GET","POST"],"socket":{"GET":"35","POST":"36"},"access":"admin","socketFilter":0,"filter":["TYPE"],"TYPE":["IPAddress"]}},"splash-scrn":{"enable":{"tableName":"SYSTEM_SPLASH-SCRN","method":["GET","POST"],"socket":{"GET":"37","POST":"38"},"access":"admin","socketFilter":0,"filter":["MIN","MAX"],"MIN":0,"MAX":1},"upload":{"tableName":"SYSTEM_SPLASH-SCRN","method":["POST"],"socket":{"POST":"39"},"access":"user","socketFilter":0,"filter":[]},"get-name":{"tableName":"SYSTEM_SPLASH-SCRN","method":["GET"],"socket":{"GET":"40"},"access":"user","socketFilter":0,"filter":[]}},"reset":{"soft-reset":{"tableName":"SYSTEM_RESET","method":["POST"],"socket":{"POST":"41"},"access":"user","socketFilter":0,"filter":["LIST"],"LIST":["1"]},"configuration-reset":{"tableName":"SYSTEM_RESET","method":["POST"],"socket":{"POST":"42"},"access":"user","socketFilter":0,"filter":["LIST"],"LIST":["1"]},"factory-reset":{"tableName":"SYSTEM_RESET","method":["POST"],"socket":{"POST":"43"},"access":"user","socketFilter":0,"filter":["LIST"],"LIST":["1"]}},"reboot":{"tableName":"SYSTEM","method":["POST"],"socket":{"POST":"44"},"access":"admin","socketFilter":0,"filter":["LIST"],"LIST":["1"]},"authentication":{"admin":{"tableName":"SYSTEM_AUTHENTICATION","method":["POST"],"socket":{"POST":"0"},"access":"admin","socketFilter":1,"filter":[],"action":"ADMIN_NAME"},"admin-pwd":{"tableName":"SYSTEM_AUTHENTICATION","method":["POST"],"socket":{"POST":"0"},"access":"user","socketFilter":1,"filter":[],"action":"ADMIN_PWD"},"user":{"tableName":"SYSTEM_AUTHENTICATION","method":["POST"],"socket":{"POST":"0"},"access":"user","socketFilter":1,"filter":[],"action":"USER_NAME"},"user-pwd":{"tableName":"SYSTEM_AUTHENTICATION","method":["POST"],"socket":{"POST":"0"},"access":"user","socketFilter":1,"filter":[],"action":"USER_PWD"}},"identification":{"id":{"tableName":"SYSTEM_IDENTIFICATION","method":["GET"],"socket":{"GET":"45"},"access":"user","socketFilter":0,"filter":[]}},"video-mode":{"enable-3d":{"tableName":"SYSTEM_VIDEO-MODE","method":["GET","POST"],"socket":{"GET":"46","POST":"47"},"access":"admin","socketFilter":0,"filter":["MIN","MAX"],"MIN":0,"MAX":1}},"config-file":{"upload":{"tableName":"SYSTEM_CONFIG-FILE","method":["GET"],"socket":{"GET":"48"},"access":"user","socketFilter":0,"filter":[]},"download":{"tableName":"SYSTEM_CONFIG-FILE","method":["POST"],"socket":{"POST":"49"},"access":"user","socketFilter":0,"filter":[]},"delete":{"tableName":"SYSTEM_CONFIG-FILE","method":["POST"],"socket":{"POST":"50"},"access":"user","socketFilter":0,"filter":[]},"update":{"tableName":"SYSTEM_CONFIG-FILE","method":["POST"],"socket":{"POST":"51"},"access":"user","socketFilter":0,"filter":[]}},"misc":{"board-type":{"tableName":"SYSTEM_MISC","method":["GET"],"socket":{"GET":"52"},"access":"user","socketFilter":0,"filter":["LIST"],"LIST":["0","1","10","11"]},"led-on-time":{"tableName":"SYSTEM_MISC","method":["GET","POST"],"socket":{"GET":"53","POST":"54"},"access":"admin","socketFilter":0,"filter":["MIN","MAX"],"MIN":0,"MAX":1},"led-off-time":{"tableName":"SYSTEM_MISC","method":["GET","POST"],"socket":{"GET":"55","POST":"56"},"access":"admin","socketFilter":0,"filter":["MIN","MAX"],"MIN":0,"MAX":1},"http-mode":{"tableName":"SYSTEM_MISC","method":["GET","POST"],"socket":{"GET":"0","POST":"0"},"access":"admin","socketFilter":1,"filter":["MIN","MAX"],"MIN":0,"MAX":1,"action":"HTTP_SWITCH"},"enable-encryption":{"tableName":"SYSTEM_MISC","method":["GET","POST"],"socket":{"GET":"0","POST":"0"},"access":"admin","socketFilter":1,"filter":["MIN","MAX"],"MIN":0,"MAX":1,"action":"ENCRYPT_DECRYPT"}},"mdns":{"add-key":{"tableName":"SYSTEM_MDNS","method":["POST"],"socket":{"POST":"0"},"access":"user","socketFilter":1,"array":["key","data-value"],"action":"ADD_RECORD","key":{"tableName":"SYSTEM_MDNS_ADD-KEY","method":["POST"],"socket":{"POST":"0"},"access":"user","socketFilter":1,"filter":[],"action":"ADD_RECORD"},"data-value":{"tableName":"SYSTEM_MDNS_ADD-KEY","method":["POST"],"socket":{"POST":"0"},"access":"user","socketFilter":1,"filter":[],"action":"ADD_RECORD"}},"delete-key":{"tableName":"SYSTEM_MDNS","method":["POST"],"socket":{"POST":"0"},"access":"user","socketFilter":1,"filter":[],"action":"DELETE_RECORD"},"read-key":{"tableName":"SYSTEM_MDNS","method":["GET"],"socket":{"GET":"0"},"access":"user","socketFilter":1,"filter":[],"action":"READ_RECORD"},"edit-key":{"tableName":"SYSTEM_MDNS","method":["POST"],"socket":{"POST":"0"},"access":"user","socketFilter":1,"array":["key","data-value"],"action":"EDIT_RECORD","key":{"tableName":"SYSTEM_MDNS_EDIT-KEY","method":["POST"],"socket":{"POST":"0"},"access":"user","socketFilter":1,"filter":[],"action":"EDIT_RECORD"},"data-value":{"tableName":"SYSTEM_MDNS_EDIT-KEY","method":["POST"],"socket":{"POST":"0"},"access":"user","socketFilter":1,"filter":[],"action":"EDIT_RECORD"}}}},"video":{"input":{"streams":{"tableName":"VIDEO_INPUT","method":["GET"],"socket":{"GET":"101"},"access":"user","socketFilter":0,"filter":[]},"resolution":{"tableName":"VIDEO_INPUT","method":["GET"],"socket":{"GET":"102"},"access":"user","socketFilter":0,"filter":[]},"frame-rate":{"tableName":"VIDEO_INPUT","method":["GET"],"socket":{"GET":"103"},"access":"user","socketFilter":0,"filter":[]},"valid-input":{"tableName":"VIDEO_INPUT","method":["GET"],"socket":{"GET":"104"},"access":"user","socketFilter":0,"filter":[]},"cable-presence":{"tableName":"VIDEO_INPUT","method":["GET"],"socket":{"GET":"105"},"access":"user","socketFilter":0,"filter":[]},"buffer-type":{"tableName":"VIDEO_INPUT","method":["GET","POST"],"socket":{"GET":"106","POST":"107"},"access":"admin","socketFilter":0,"filter":["MIN","MAX"],"MIN":0,"MAX":1},"buffer-delay":{"tableName":"VIDEO_INPUT","method":["GET","POST"],"socket":{"GET":"108","POST":"109"},"access":"admin","socketFilter":0,"filter":["MIN","MAX"],"MIN":0,"MAX":500},"hqll-mult-ip-addr":{"tableName":"VIDEO_INPUT","method":["GET","POST"],"socket":{"GET":"110","POST":"111"},"access":"admin","socketFilter":0,"array":["ip-addr","port","END ","getArray","112","114"],"ip-addr":{"tableName":"VIDEO_INPUT_HQLL-MULTI-IP-ADDR","method":["GET","POST"],"socket":{"GET":"112","POST":"113"},"access":"admin","socketFilter":0,"filter":["TYPE"],"TYPE":["IPAddress"]},"port":{"tableName":"VIDEO_INPUT_HQLL-MULTI-IP-ADDR","method":["GET","POST"],"socket":{"GET":"114","POST":"115"},"access":"admin","socketFilter":0,"filter":[]}},"es-mult-ip-addr":{"tableName":"VIDEO_INPUT","method":["GET","POST"],"socket":{"GET":"116","POST":"117"},"access":"admin","socketFilter":0,"array":["ip-addr","port","END ","getArray","118","120"],"ip-addr":{"tableName":"VIDEO_INPUT_ES-MULTI-IP-ADDR","method":["GET","POST"],"socket":{"GET":"118","POST":"119"},"access":"admin","socketFilter":0,"filter":["TYPE"],"TYPE":["IPAddress"]},"port":{"tableName":"VIDEO_INPUT_ES-MULTI-IP-ADDR","method":["GET","POST"],"socket":{"GET":"120","POST":"121"},"access":"admin","socketFilter":0,"filter":[]}},"mute":{"tableName":"VIDEO_INPUT","method":["GET","POST"],"socket":{"GET":"122","POST":"123"},"access":"admin","socketFilter":0,"filter":["MIN","MAX"],"MIN":0,"MAX":1}},"output":{"videos":{"tableName":"VIDEO_OUTPUT","method":["GET"],"socket":{"GET":"124"},"access":"user","socketFilter":0,"filter":[]},"resolution":{"tableName":"VIDEO_OUTPUT","method":["GET"],"socket":{"GET":"125"},"access":"user","socketFilter":0,"filter":[]},"frame-rate":{"tableName":"VIDEO_OUTPUT","method":["GET"],"socket":{"GET":"126"},"access":"user","socketFilter":0,"filter":[]},"edid":{"tableName":"VIDEO_OUTPUT","method":["GET"],"socket":{"GET":"127"},"access":"user","socketFilter":0,"filter":[]}}},"comp-layout":{"feature-enable":{"tableName":"COMP-LAYOUT","method":["GET","POST"],"socket":{"GET":"151","POST":"152"},"access":"admin","socketFilter":0,"filter":["MIN","MAX"],"MIN":0,"MAX":1},"available-layout":{"tableName":"COMP-LAYOUT","method":["GET"],"socket":{"GET":"153"},"access":"user","socketFilter":0,"filter":["MIN","MAX"],"MIN":1,"MAX":2},"enable-pip":{"tableName":"COMP-LAYOUT","method":["GET","POST"],"socket":{"GET":"154","POST":"155"},"access":"admin","socketFilter":0,"filter":["MIN","MAX"],"MIN":0,"MAX":1},"pip-loc":{"tableName":"COMP-LAYOUT","method":["GET","POST"],"socket":{"GET":"156","POST":"157"},"access":"admin","x_location":{"tableName":"COMP-LAYOUT","method":["GET","POST"],"socket":{"GET":"158","POST":"159"},"access":"admin","socketFilter":0,"filter":["MIN","MAX"],"MIN":0,"MAX":1},"y_location":{"tableName":"COMP-LAYOUT","method":["GET","POST"],"socket":{"GET":"160","POST":"161"},"access":"admin","socketFilter":0,"filter":["MIN","MAX"],"MIN":0,"MAX":1}},"enable-pap":{"tableName":"COMP-LAYOUT","method":["GET","POST"],"socket":{"GET":"162","POST":"163"},"access":"admin","socketFilter":0,"filter":["MIN","MAX"],"MIN":0,"MAX":1},"swap-pap":{"tableName":"COMP-LAYOUT","method":["POST"],"socket":{"POST":"164"},"access":"user","socketFilter":0,"filter":["LIST"],"LIST":["1"]}},"overlay":{"0":{"image-params":{"tableName":"OVERLAY_0","method":["GET","POST"],"socket":{"GET":"218","POST":"219"},"access":"admin","socketFilter":0,"array":["id","x_location","y_location","enable","height","width"],"id":{"tableName":"OVERLAY_0","method":["GET","POST"],"socket":{"GET":"220","POST":"221"},"access":"admin","socketFilter":0,"filter":["MIN","MAX"],"MIN":0,"MAX":7},"x_location":{"tableName":"OVERLAY_0","method":["GET","POST"],"socket":{"GET":"222","POST":"223"},"access":"admin","socketFilter":0,"filter":["MIN","MAX"],"MIN":0,"MAX":1919},"y_location":{"tableName":"OVERLAY_0","method":["GET","POST"],"socket":{"GET":"224","POST":"225"},"access":"admin","socketFilter":0,"filter":["MIN","MAX"],"MIN":0,"MAX":1079},"enable":{"tableName":"OVERLAY_0","method":["GET","POST"],"socket":{"GET":"226","POST":"227"},"access":"admin","socketFilter":0,"filter":["MIN","MAX"],"MIN":0,"MAX":1},"height":{"tableName":"OVERLAY_0","method":["GET","POST"],"socket":{"GET":"228","POST":"229"},"access":"admin","socketFilter":0,"filter":["MIN","MAX"],"MIN":0,"MAX":1079},"width":{"tableName":"OVERLAY_0","method":["GET","POST"],"socket":{"GET":"230","POST":"231"},"access":"admin","socketFilter":0,"filter":["MIN","MAX"],"MIN":0,"MAX":1919}}},"1":{"image-params":{"tableName":"OVERLAY_1","method":["GET","POST"],"socket":{"GET":"232","POST":"233"},"access":"admin","socketFilter":0,"array":["id","x_location","y_location","enable","height","width"],"id":{"tableName":"OVERLAY_1","method":["GET","POST"],"socket":{"GET":"234","POST":"235"},"access":"admin","socketFilter":0,"filter":["MIN","MAX"],"MIN":0,"MAX":7},"x_location":{"tableName":"OVERLAY_1","method":["GET","POST"],"socket":{"GET":"236","POST":"237"},"access":"admin","socketFilter":0,"filter":["MIN","MAX"],"MIN":0,"MAX":1919},"y_location":{"tableName":"OVERLAY_1","method":["GET","POST"],"socket":{"GET":"238","POST":"239"},"access":"admin","socketFilter":0,"filter":["MIN","MAX"],"MIN":0,"MAX":1079},"enable":{"tableName":"OVERLAY_1","method":["GET","POST"],"socket":{"GET":"240","POST":"241"},"access":"admin","socketFilter":0,"filter":["MIN","MAX"],"MIN":0,"MAX":1},"height":{"tableName":"OVERLAY_1","method":["GET","POST"],"socket":{"GET":"242","POST":"243"},"access":"admin","socketFilter":0,"filter":["MIN","MAX"],"MIN":0,"MAX":1079},"width":{"tableName":"OVERLAY_1","method":["GET","POST"],"socket":{"GET":"244","POST":"245"},"access":"admin","socketFilter":0,"filter":["MIN","MAX"],"MIN":0,"MAX":1919}}},"2":{"image-params":{"tableName":"OVERLAY_2","method":["GET","POST"],"socket":{"GET":"246","POST":"247"},"access":"admin","socketFilter":0,"array":["id","x_location","y_location","enable","height","width"],"id":{"tableName":"OVERLAY_2","method":["GET","POST"],"socket":{"GET":"248","POST":"249"},"access":"admin","socketFilter":0,"filter":["MIN","MAX"],"MIN":0,"MAX":7},"x_location":{"tableName":"OVERLAY_2","method":["GET","POST"],"socket":{"GET":"250","POST":"251"},"access":"admin","socketFilter":0,"filter":["MIN","MAX"],"MIN":0,"MAX":1919},"y_location":{"tableName":"OVERLAY_2","method":["GET","POST"],"socket":{"GET":"252","POST":"253"},"access":"admin","socketFilter":0,"filter":["MIN","MAX"],"MIN":0,"MAX":1079},"enable":{"tableName":"OVERLAY_2","method":["GET","POST"],"socket":{"GET":"254","POST":"255"},"access":"admin","socketFilter":0,"filter":["MIN","MAX"],"MIN":0,"MAX":1},"height":{"tableName":"OVERLAY_2","method":["GET","POST"],"socket":{"GET":"256","POST":"257"},"access":"admin","socketFilter":0,"filter":["MIN","MAX"],"MIN":0,"MAX":1079},"width":{"tableName":"OVERLAY_2","method":["GET","POST"],"socket":{"GET":"258","POST":"259"},"access":"admin","socketFilter":0,"filter":["MIN","MAX"],"MIN":0,"MAX":1919}}},"3":{"image-params":{"tableName":"OVERLAY_3","method":["GET","POST"],"socket":{"GET":"260","POST":"261"},"access":"admin","socketFilter":0,"array":["id","x_location","y_location","enable","height","width"],"id":{"tableName":"OVERLAY_3","method":["GET","POST"],"socket":{"GET":"262","POST":"263"},"access":"admin","socketFilter":0,"filter":["MIN","MAX"],"MIN":0,"MAX":7},"x_location":{"tableName":"OVERLAY_3","method":["GET","POST"],"socket":{"GET":"264","POST":"265"},"access":"admin","socketFilter":0,"filter":["MIN","MAX"],"MIN":0,"MAX":1919},"y_location":{"tableName":"OVERLAY_3","method":["GET","POST"],"socket":{"GET":"266","POST":"267"},"access":"admin","socketFilter":0,"filter":["MIN","MAX"],"MIN":0,"MAX":1079},"enable":{"tableName":"OVERLAY_3","method":["GET","POST"],"socket":{"GET":"268","POST":"269"},"access":"admin","socketFilter":0,"filter":["MIN","MAX"],"MIN":0,"MAX":1},"height":{"tableName":"OVERLAY_3","method":["GET","POST"],"socket":{"GET":"270","POST":"271"},"access":"admin","socketFilter":0,"filter":["MIN","MAX"],"MIN":0,"MAX":1079},"width":{"tableName":"OVERLAY_3","method":["GET","POST"],"socket":{"GET":"272","POST":"273"},"access":"admin","socketFilter":0,"filter":["MIN","MAX"],"MIN":0,"MAX":1919}}},"4":{"image-params":{"tableName":"OVERLAY_4","method":["GET","POST"],"socket":{"GET":"274","POST":"275"},"access":"admin","socketFilter":0,"array":["id","x_location","y_location","enable","height","width"],"id":{"tableName":"OVERLAY_4","method":["GET","POST"],"socket":{"GET":"276","POST":"277"},"access":"admin","socketFilter":0,"filter":["MIN","MAX"],"MIN":0,"MAX":7},"x_location":{"tableName":"OVERLAY_4","method":["GET","POST"],"socket":{"GET":"278","POST":"279"},"access":"admin","socketFilter":0,"filter":["MIN","MAX"],"MIN":0,"MAX":1919},"y_location":{"tableName":"OVERLAY_4","method":["GET","POST"],"socket":{"GET":"280","POST":"281"},"access":"admin","socketFilter":0,"filter":["MIN","MAX"],"MIN":0,"MAX":1079},"enable":{"tableName":"OVERLAY_4","method":["GET","POST"],"socket":{"GET":"282","POST":"283"},"access":"admin","socketFilter":0,"filter":["MIN","MAX"],"MIN":0,"MAX":1},"height":{"tableName":"OVERLAY_4","method":["GET","POST"],"socket":{"GET":"284","POST":"285"},"access":"admin","socketFilter":0,"filter":["MIN","MAX"],"MIN":0,"MAX":1079},"width":{"tableName":"OVERLAY_4","method":["GET","POST"],"socket":{"GET":"286","POST":"287"},"access":"admin","socketFilter":0,"filter":["MIN","MAX"],"MIN":0,"MAX":1919}}},"5":{"image-params":{"tableName":"OVERLAY_5","method":["GET","POST"],"socket":{"GET":"288","POST":"289"},"access":"admin","socketFilter":0,"array":["id","x_location","y_location","enable","height","width"],"id":{"tableName":"OVERLAY_5","method":["GET","POST"],"socket":{"GET":"290","POST":"291"},"access":"admin","socketFilter":0,"filter":["MIN","MAX"],"MIN":0,"MAX":7},"x_location":{"tableName":"OVERLAY_5","method":["GET","POST"],"socket":{"GET":"292","POST":"293"},"access":"admin","socketFilter":0,"filter":["MIN","MAX"],"MIN":0,"MAX":1919},"y_location":{"tableName":"OVERLAY_5","method":["GET","POST"],"socket":{"GET":"294","POST":"295"},"access":"admin","socketFilter":0,"filter":["MIN","MAX"],"MIN":0,"MAX":1079},"enable":{"tableName":"OVERLAY_5","method":["GET","POST"],"socket":{"GET":"296","POST":"297"},"access":"admin","socketFilter":0,"filter":["MIN","MAX"],"MIN":0,"MAX":1},"height":{"tableName":"OVERLAY_5","method":["GET","POST"],"socket":{"GET":"298","POST":"299"},"access":"admin","socketFilter":0,"filter":["MIN","MAX"],"MIN":0,"MAX":1079},"width":{"tableName":"OVERLAY_5","method":["GET","POST"],"socket":{"GET":"300","POST":"301"},"access":"admin","socketFilter":0,"filter":["MIN","MAX"],"MIN":0,"MAX":1919}}},"6":{"image-params":{"tableName":"OVERLAY_6","method":["GET","POST"],"socket":{"GET":"302","POST":"303"},"access":"admin","socketFilter":0,"array":["id","x_location","y_location","enable","height","width"],"id":{"tableName":"OVERLAY_6","method":["GET","POST"],"socket":{"GET":"304","POST":"305"},"access":"admin","socketFilter":0,"filter":["MIN","MAX"],"MIN":0,"MAX":7},"x_location":{"tableName":"OVERLAY_6","method":["GET","POST"],"socket":{"GET":"306","POST":"307"},"access":"admin","socketFilter":0,"filter":["MIN","MAX"],"MIN":0,"MAX":1919},"y_location":{"tableName":"OVERLAY_6","method":["GET","POST"],"socket":{"GET":"308","POST":"309"},"access":"admin","socketFilter":0,"filter":["MIN","MAX"],"MIN":0,"MAX":1079},"enable":{"tableName":"OVERLAY_6","method":["GET","POST"],"socket":{"GET":"310","POST":"311"},"access":"admin","socketFilter":0,"filter":["MIN","MAX"],"MIN":0,"MAX":1},"height":{"tableName":"OVERLAY_6","method":["GET","POST"],"socket":{"GET":"312","POST":"313"},"access":"admin","socketFilter":0,"filter":["MIN","MAX"],"MIN":0,"MAX":1079},"width":{"tableName":"OVERLAY_6","method":["GET","POST"],"socket":{"GET":"314","POST":"315"},"access":"admin","socketFilter":0,"filter":["MIN","MAX"],"MIN":0,"MAX":1919}}},"7":{"image-params":{"tableName":"OVERLAY_7","method":["GET","POST"],"socket":{"GET":"316","POST":"317"},"access":"admin","socketFilter":0,"array":["id","x_location","y_location","enable","height","width"],"id":{"tableName":"OVERLAY_7","method":["GET","POST"],"socket":{"GET":"318","POST":"319"},"access":"admin","socketFilter":0,"filter":["MIN","MAX"],"MIN":0,"MAX":7},"x_location":{"tableName":"OVERLAY_7","method":["GET","POST"],"socket":{"GET":"320","POST":"322"},"access":"admin","socketFilter":0,"filter":["MIN","MAX"],"MIN":0,"MAX":1919},"y_location":{"tableName":"OVERLAY_7","method":["GET","POST"],"socket":{"GET":"323","POST":"324"},"access":"admin","socketFilter":0,"filter":["MIN","MAX"],"MIN":0,"MAX":1079},"enable":{"tableName":"OVERLAY_7","method":["GET","POST"],"socket":{"GET":"325","POST":"326"},"access":"admin","socketFilter":0,"filter":["MIN","MAX"],"MIN":0,"MAX":1},"height":{"tableName":"OVERLAY_7","method":["GET","POST"],"socket":{"GET":"327","POST":"328"},"access":"admin","socketFilter":0,"filter":["MIN","MAX"],"MIN":0,"MAX":1079},"width":{"tableName":"OVERLAY_7","method":["GET","POST"],"socket":{"GET":"329","POST":"330"},"access":"admin","socketFilter":0,"filter":["MIN","MAX"],"MIN":0,"MAX":1919}}},"feature-enable":{"tableName":"OVERLAY","method":["GET","POST"],"socket":{"GET":"201","POST":"202"},"access":"admin","socketFilter":0,"filter":["MIN","MAX"],"MIN":0,"MAX":1},"max-images":{"tableName":"OVERLAY","method":["GET","POST"],"socket":{"GET":"203","POST":"204"},"access":"admin","socketFilter":0,"filter":["MIN","MAX"],"MIN":1,"MAX":5},"enable":{"tableName":"OVERLAY","method":["GET","POST"],"socket":{"GET":"205","POST":"206"},"access":"admin","socketFilter":0,"filter":["MIN","MAX"],"MIN":0,"MAX":1},"upload-image":{"tableName":"OVERLAY","method":["POST"],"socket":{"POST":"207"},"access":"admin","socketFilter":0,"array":["file_name","id","height","width"],"file_name":{"tableName":"OVERLAY_UPLOAD-IMAGE","method":["POST"],"socket":{"POST":"208"},"access":"admin","socketFilter":0,"filter":[]},"id":{"tableName":"OVERLAY_UPLOAD-IMAGE","method":["POST"],"socket":{"POST":"209"},"access":"admin","socketFilter":0,"filter":["MIN","MAX"],"MIN":0,"MAX":7},"height":{"tableName":"OVERLAY_UPLOAD-IMAGE","method":["POST"],"socket":{"POST":"210"},"access":"admin","socketFilter":0,"filter":["MIN","MAX"],"MIN":1,"MAX":1079},"width":{"tableName":"OVERLAY_UPLOAD-IMAGE","method":["POST"],"socket":{"POST":"211"},"access":"admin","socketFilter":0,"filter":["MIN","MAX"],"MIN":1,"MAX":1919}},"upload-mute-image":{"tableName":"OVERLAY","method":["POST"],"socket":{"POST":"212"},"access":"admin","socketFilter":0,"array":["file_name","id","height","width"],"file_name":{"tableName":"OVERLAY_UPLOAD-MUTE-IMAGE","method":["POST"],"socket":{"POST":"213"},"access":"admin","socketFilter":0,"filter":[]},"height":{"tableName":"OVERLAY_UPLOAD-MUTE-IMAGE","method":["POST"],"socket":{"POST":"214"},"access":"admin","socketFilter":0,"filter":["MIN","MAX"],"MIN":1,"MAX":1079},"width":{"tableName":"OVERLAY_UPLOAD-MUTE-IMAGE","method":["POST"],"socket":{"POST":"215"},"access":"admin","socketFilter":0,"filter":["MIN","MAX"],"MIN":1,"MAX":1919}},"del-image":{"tableName":"OVERLAY","method":["POST"],"socket":{"POST":"216"},"access":"admin","socketFilter":0,"array":["id"],"id":{"tableName":"OVERLAY","method":["POST"],"socket":{"POST":"217"},"access":"admin","socketFilter":0,"filter":["MIN","MAX"],"MIN":0,"MAX":7}}},"audio":{"input":{"valid-input":{"tableName":"AUDIO_INPUT","method":["GET"],"socket":{"GET":"351"},"access":"user","socketFilter":0,"filter":["MIN","MAX"],"MIN":0,"MAX":1},"enable-rx":{"tableName":"AUDIO_INPUT","method":["GET","POST"],"socket":{"GET":"352","POST":"353"},"access":"user","socketFilter":0,"filter":["MIN","MAX"],"MIN":0,"MAX":1},"fine-gain":{"tableName":"AUDIO_INPUT","method":["GET","POST"],"socket":{"GET":"354","POST":"355"},"access":"user","socketFilter":0,"filter":["MIN","MAX"],"MIN":0,"MAX":1},"coarse-gain":{"tableName":"AUDIO_INPUT","method":["GET","POST"],"socket":{"GET":"356","POST":"357"},"access":"user","socketFilter":0,"filter":["MIN","MAX"],"MIN":0,"MAX":25},"mute":{"tableName":"AUDIO_INPUT","method":["GET","POST"],"socket":{"GET":"358","POST":"359"},"access":"user","socketFilter":0,"filter":["MIN","MAX"],"MIN":0,"MAX":1},"loop-back":{"tableName":"AUDIO_INPUT","method":["GET","POST"],"socket":{"GET":"360","POST":"361"},"access":"user","socketFilter":0,"filter":["MIN","MAX"],"MIN":0,"MAX":1},"rx-mult-ip-addr":{"tableName":"AUDIO_INPUT","method":["GET","POST"],"socket":{"GET":"362","POST":"363"},"access":"user","socketFilter":0,"array":["ip-addr","port","END ","getArray","364","366"],"ip-addr":{"tableName":"AUDIO_OUTPUT_RX-MULT-IP-ADDR","method":["GET","POST"],"socket":{"GET":"364","POST":"365"},"access":"user","socketFilter":0,"filter":["TYPE"],"TYPE":["IPAddress"]},"port":{"tableName":"AUDIO_OUTPUT_RX-MULT-IP-ADDR","method":["GET","POST"],"socket":{"GET":"366","POST":"367"},"access":"user","socketFilter":0,"filter":[]}}},"output":{"enable-tx":{"tableName":"AUDIO_OUTPUT","method":["GET","POST"],"socket":{"GET":"368","POST":"369"},"access":"user","socketFilter":0,"filter":["MIN","MAX"],"MIN":0,"MAX":1},"tx-mult-ip-addr":{"tableName":"AUDIO_OUTPUT","method":["GET","POST"],"socket":{"GET":"370","POST":"371"},"access":"user","socketFilter":0,"array":["ip-addr","port","END ","getArray","368","370"],"ip-addr":{"tableName":"AUDIO_OUTPUT_TX-MULT-IP-ADDR","method":["GET","POST"],"socket":{"GET":"372","POST":"373"},"access":"user","socketFilter":0,"filter":["TYPE"],"TYPE":["IPAddress"]},"port":{"tableName":"AUDIO_OUTPUT_TX-MULT-IP-ADDR","method":["GET","POST"],"socket":{"GET":"374","POST":"375"},"access":"user","socketFilter":0,"filter":[]}},"fine-gain":{"tableName":"AUDIO_OUTPUT","method":["GET","POST"],"socket":{"GET":"376","POST":"377"},"access":"user","socketFilter":0,"filter":["MIN","MAX"],"MIN":0,"MAX":1},"coarse-gain":{"tableName":"AUDIO_OUTPUT","method":["GET","POST"],"socket":{"GET":"378","POST":"379"},"access":"user","socketFilter":0,"filter":["MIN","MAX"],"MIN":0,"MAX":1},"mute":{"tableName":"AUDIO_OUTPUT","method":["GET","POST"],"socket":{"GET":"380","POST":"381"},"access":"user","socketFilter":0,"filter":["MIN","MAX"],"MIN":0,"MAX":1},"fade":{"tableName":"AUDIO_OUTPUT","method":["GET","POST"],"socket":{"GET":"382","POST":"383"},"access":"user","socketFilter":0,"filter":["MIN","MAX"],"MIN":0,"MAX":1}}},"kvm":{"feature-enable":{"tableName":"KVM","method":["GET","POST"],"socket":{"GET":"401","POST":"402"},"access":"user","socketFilter":0,"filter":["MIN","MAX"],"MIN":0,"MAX":1},"usb-link-status":{"tableName":"KVM","method":["GET","POST"],"socket":{"GET":"403","POST":"404"},"access":"user","socketFilter":0,"filter":[]},"enable":{"tableName":"KVM","method":["GET","POST"],"socket":{"GET":"405","POST":"406"},"access":"user","socketFilter":0,"filter":[]},"encoder":{"tableName":"KVM","method":["GET","POST"],"socket":{"GET":"407","POST":"408"},"access":"user","socketFilter":0,"filter":[]},"default-encoder":{"tableName":"KVM","method":["GET","POST"],"socket":{"GET":"409","POST":"410"},"access":"user","socketFilter":0,"filter":[]},"key-code":{"tableName":"KVM","method":["GET","POST"],"socket":{"GET":"411","POST":"412"},"access":"user","socketFilter":0,"filter":[]}},"rs232":{"0":{"params":{"tableName":"RS232_0_PARAMS","method":["GET","POST"],"socket":{"GET":"461","POST":"462"},"access":"user","socketFilter":0,"array":["baud_rate","data_bits","parity","stop_bit","flow_control","port"],"baud_rate":{"tableName":"RS232_0_PARAMS","method":["GET","POST"],"socket":{"GET":"463","POST":"464"},"access":"user","socketFilter":0,"filter":[]},"data_bits":{"tableName":"RS232_0_PARAMS","method":["GET","POST"],"socket":{"GET":"465","POST":"466"},"access":"user","socketFilter":0,"filter":[]},"parity":{"tableName":"RS232_0_PARAMS","method":["GET","POST"],"socket":{"GET":"467","POST":"468"},"access":"user","socketFilter":0,"filter":[]},"stop_bit":{"tableName":"RS232_0_PARAMS","method":["GET","POST"],"socket":{"GET":"469","POST":"470"},"access":"user","socketFilter":0,"filter":[]},"flow_control":{"tableName":"RS232_0_PARAMS","method":["GET","POST"],"socket":{"GET":"471","POST":"472"},"access":"user","socketFilter":0,"filter":[]},"port":{"tableName":"RS232_0_PARAMS","method":["GET","POST"],"socket":{"GET":"473","POST":"474"},"access":"user","socketFilter":0,"filter":[]}},"send":{"tableName":"RS232_0_SEND","method":["GET","POST"],"socket":{"GET":"475","POST":"476"},"access":"user","socketFilter":0,"array":["data","port"],"data":{"tableName":"RS232_0_SEND","method":["GET","POST"],"socket":{"GET":"477","POST":"478"},"access":"user","socketFilter":0,"filter":[]},"port":{"tableName":"RS232_0_SEND","method":["GET","POST"],"socket":{"GET":"479","POST":"480"},"access":"user","socketFilter":0,"filter":[]}}},"1":{"params":{"tableName":"RS232_1_PARAMS","method":["GET","POST"],"socket":{"GET":"481","POST":"482"},"access":"user","socketFilter":0,"array":["baud_rate","data_bits","parity","stop_bit","flow_control","port"],"baud_rate":{"tableName":"RS232_1_PARAMS","method":["GET","POST"],"socket":{"GET":"483","POST":"484"},"access":"user","socketFilter":0,"filter":[]},"data_bits":{"tableName":"RS232_1_PARAMS","method":["GET","POST"],"socket":{"GET":"485","POST":"486"},"access":"user","socketFilter":0,"filter":[]},"parity":{"tableName":"RS232_1_PARAMS","method":["GET","POST"],"socket":{"GET":"487","POST":"488"},"access":"user","socketFilter":0,"filter":[]},"stop_bit":{"tableName":"RS232_1_PARAMS","method":["GET","POST"],"socket":{"GET":"489","POST":"490"},"access":"user","socketFilter":0,"filter":[]},"flow_control":{"tableName":"RS232_1_PARAMS","method":["GET","POST"],"socket":{"GET":"491","POST":"492"},"access":"user","socketFilter":0,"filter":[]},"port":{"tableName":"RS232_1_PARAMS","method":["GET","POST"],"socket":{"GET":"493","POST":"494"},"access":"user","socketFilter":0,"filter":[]}},"send":{"tableName":"RS232_1_SEND","method":["GET","POST"],"socket":{"GET":"495","POST":"496"},"access":"user","socketFilter":0,"array":["data","port"],"data":{"tableName":"RS232_1_SEND","method":["GET","POST"],"socket":{"GET":"497","POST":"498"},"access":"user","socketFilter":0,"filter":[]},"port":{"tableName":"RS232_1_SEND","method":["GET","POST"],"socket":{"GET":"499","POST":"500"},"access":"user","socketFilter":0,"filter":[]}}},"feature-enable":{"tableName":"RS232","method":["GET","POST"],"socket":{"GET":"451","POST":"452"},"access":"user","socketFilter":0,"filter":[]},"get-devices":{"tableName":"RS232","method":["GET","POST"],"socket":{"GET":"453","POST":"454"},"access":"user","socketFilter":0,"filter":[]},"open-connection":{"tableName":"RS232","method":["GET","POST"],"socket":{"GET":"455","POST":"456"},"access":"user","socketFilter":0,"filter":[]},"close-connection":{"tableName":"RS232","method":["GET","POST"],"socket":{"GET":"457","POST":"458"},"access":"user","socketFilter":0,"filter":[]},"flush":{"tableName":"RS232","method":["GET","POST"],"socket":{"GET":"459","POST":"460"},"access":"user","socketFilter":0,"filter":[]},"data-in-notification":{"tableName":"RS232","method":["GET","POST"],"socket":{"GET":"501","POST":"502"},"access":"user","socketFilter":0,"filter":[]},"read-existing":{"tableName":"RS232","method":["GET"],"socket":{"GET":"503"},"access":"user","socketFilter":0,"filter":[]},"read-line":{"tableName":"RS232","method":["GET"],"socket":{"GET":"504"},"access":"user","socketFilter":0,"filter":[]}},"fpga-register":{"0":{"tableName":"FPGA-REGISTER","method":["GET","POST"],"socket":{"GET":"701","POST":"702"},"access":"user","socketFilter":1,"filter":[],"action":"FPGA_REGISTER"},"1":{"tableName":"FPGA-REGISTER","method":["GET","POST"],"socket":{"GET":"701","POST":"702"},"access":"user","socketFilter":1,"filter":[],"action":"FPGA_REGISTER"},"2":{"tableName":"FPGA-REGISTER","method":["GET","POST"],"socket":{"GET":"701","POST":"702"},"access":"user","socketFilter":1,"filter":[],"action":"FPGA_REGISTER"},"3":{"tableName":"FPGA-REGISTER","method":["GET","POST"],"socket":{"GET":"701","POST":"702"},"access":"user","socketFilter":1,"filter":[],"action":"FPGA_REGISTER"},"4":{"tableName":"FPGA-REGISTER","method":["GET","POST"],"socket":{"GET":"701","POST":"702"},"access":"user","socketFilter":1,"filter":[],"action":"FPGA_REGISTER"},"5":{"tableName":"FPGA-REGISTER","method":["GET","POST"],"socket":{"GET":"701","POST":"702"},"access":"user","socketFilter":1,"filter":[],"action":"FPGA_REGISTER"},"6":{"tableName":"FPGA-REGISTER","method":["GET","POST"],"socket":{"GET":"701","POST":"702"},"access":"user","socketFilter":1,"filter":[],"action":"FPGA_REGISTER"},"7":{"tableName":"FPGA-REGISTER","method":["GET","POST"],"socket":{"GET":"701","POST":"702"},"access":"user","socketFilter":1,"filter":[],"action":"FPGA_REGISTER"},"8":{"tableName":"FPGA-REGISTER","method":["GET","POST"],"socket":{"GET":"701","POST":"702"},"access":"user","socketFilter":1,"filter":[],"action":"FPGA_REGISTER"},"9":{"tableName":"FPGA-REGISTER","method":["GET","POST"],"socket":{"GET":"701","POST":"702"},"access":"user","socketFilter":1,"filter":[],"action":"FPGA_REGISTER"},"10":{"tableName":"FPGA-REGISTER","method":["GET","POST"],"socket":{"GET":"701","POST":"702"},"access":"user","socketFilter":1,"filter":[],"action":"FPGA_REGISTER"},"11":{"tableName":"FPGA-REGISTER","method":["GET","POST"],"socket":{"GET":"701","POST":"702"},"access":"user","socketFilter":1,"filter":[],"action":"FPGA_REGISTER"},"12":{"tableName":"FPGA-REGISTER","method":["GET","POST"],"socket":{"GET":"701","POST":"702"},"access":"user","socketFilter":1,"filter":[],"action":"FPGA_REGISTER"},"13":{"tableName":"FPGA-REGISTER","method":["GET","POST"],"socket":{"GET":"701","POST":"702"},"access":"user","socketFilter":1,"filter":[],"action":"FPGA_REGISTER"},"14":{"tableName":"FPGA-REGISTER","method":["GET","POST"],"socket":{"GET":"701","POST":"702"},"access":"user","socketFilter":1,"filter":[],"action":"FPGA_REGISTER"},"15":{"tableName":"FPGA-REGISTER","method":["GET","POST"],"socket":{"GET":"701","POST":"702"},"access":"user","socketFilter":1,"filter":[],"action":"FPGA_REGISTER"},"16":{"tableName":"FPGA-REGISTER","method":["GET","POST"],"socket":{"GET":"701","POST":"702"},"access":"user","socketFilter":1,"filter":[],"action":"FPGA_REGISTER"},"17":{"tableName":"FPGA-REGISTER","method":["GET","POST"],"socket":{"GET":"701","POST":"702"},"access":"user","socketFilter":1,"filter":[],"action":"FPGA_REGISTER"},"18":{"tableName":"FPGA-REGISTER","method":["GET","POST"],"socket":{"GET":"701","POST":"702"},"access":"user","socketFilter":1,"filter":[],"action":"FPGA_REGISTER"},"19":{"tableName":"FPGA-REGISTER","method":["GET","POST"],"socket":{"GET":"701","POST":"702"},"access":"user","socketFilter":1,"filter":[],"action":"FPGA_REGISTER"},"20":{"tableName":"FPGA-REGISTER","method":["GET","POST"],"socket":{"GET":"701","POST":"702"},"access":"user","socketFilter":1,"filter":[],"action":"FPGA_REGISTER"},"21":{"tableName":"FPGA-REGISTER","method":["GET","POST"],"socket":{"GET":"701","POST":"702"},"access":"user","socketFilter":1,"filter":[],"action":"FPGA_REGISTER"},"22":{"tableName":"FPGA-REGISTER","method":["GET","POST"],"socket":{"GET":"701","POST":"702"},"access":"user","socketFilter":1,"filter":[],"action":"FPGA_REGISTER"},"23":{"tableName":"FPGA-REGISTER","method":["GET","POST"],"socket":{"GET":"701","POST":"702"},"access":"user","socketFilter":1,"filter":[],"action":"FPGA_REGISTER"},"24":{"tableName":"FPGA-REGISTER","method":["GET","POST"],"socket":{"GET":"701","POST":"702"},"access":"user","socketFilter":1,"filter":[],"action":"FPGA_REGISTER"},"25":{"tableName":"FPGA-REGISTER","method":["GET","POST"],"socket":{"GET":"701","POST":"702"},"access":"user","socketFilter":1,"filter":[],"action":"FPGA_REGISTER"},"26":{"tableName":"FPGA-REGISTER","method":["GET","POST"],"socket":{"GET":"701","POST":"702"},"access":"user","socketFilter":1,"filter":[],"action":"FPGA_REGISTER"},"27":{"tableName":"FPGA-REGISTER","method":["GET","POST"],"socket":{"GET":"701","POST":"702"},"access":"user","socketFilter":1,"filter":[],"action":"FPGA_REGISTER"},"28":{"tableName":"FPGA-REGISTER","method":["GET","POST"],"socket":{"GET":"701","POST":"702"},"access":"user","socketFilter":1,"filter":[],"action":"FPGA_REGISTER"},"29":{"tableName":"FPGA-REGISTER","method":["GET","POST"],"socket":{"GET":"701","POST":"702"},"access":"user","socketFilter":1,"filter":[],"action":"FPGA_REGISTER"},"30":{"tableName":"FPGA-REGISTER","method":["GET","POST"],"socket":{"GET":"701","POST":"702"},"access":"user","socketFilter":1,"filter":[],"action":"FPGA_REGISTER"},"31":{"tableName":"FPGA-REGISTER","method":["GET","POST"],"socket":{"GET":"701","POST":"702"},"access":"user","socketFilter":1,"filter":[],"action":"FPGA_REGISTER"},"32":{"tableName":"FPGA-REGISTER","method":["GET","POST"],"socket":{"GET":"701","POST":"702"},"access":"user","socketFilter":1,"filter":[],"action":"FPGA_REGISTER"},"33":{"tableName":"FPGA-REGISTER","method":["GET","POST"],"socket":{"GET":"701","POST":"702"},"access":"user","socketFilter":1,"filter":[],"action":"FPGA_REGISTER"},"34":{"tableName":"FPGA-REGISTER","method":["GET","POST"],"socket":{"GET":"701","POST":"702"},"access":"user","socketFilter":1,"filter":[],"action":"FPGA_REGISTER"},"35":{"tableName":"FPGA-REGISTER","method":["GET","POST"],"socket":{"GET":"701","POST":"702"},"access":"user","socketFilter":1,"filter":[],"action":"FPGA_REGISTER"},"36":{"tableName":"FPGA-REGISTER","method":["GET","POST"],"socket":{"GET":"701","POST":"702"},"access":"user","socketFilter":1,"filter":[],"action":"FPGA_REGISTER"},"37":{"tableName":"FPGA-REGISTER","method":["GET","POST"],"socket":{"GET":"701","POST":"702"},"access":"user","socketFilter":1,"filter":[],"action":"FPGA_REGISTER"},"38":{"tableName":"FPGA-REGISTER","method":["GET","POST"],"socket":{"GET":"701","POST":"702"},"access":"user","socketFilter":1,"filter":[],"action":"FPGA_REGISTER"},"39":{"tableName":"FPGA-REGISTER","method":["GET","POST"],"socket":{"GET":"701","POST":"702"},"access":"user","socketFilter":1,"filter":[],"action":"FPGA_REGISTER"},"40":{"tableName":"FPGA-REGISTER","method":["GET","POST"],"socket":{"GET":"701","POST":"702"},"access":"user","socketFilter":1,"filter":[],"action":"FPGA_REGISTER"},"41":{"tableName":"FPGA-REGISTER","method":["GET","POST"],"socket":{"GET":"701","POST":"702"},"access":"user","socketFilter":1,"filter":[],"action":"FPGA_REGISTER"},"42":{"tableName":"FPGA-REGISTER","method":["GET","POST"],"socket":{"GET":"701","POST":"702"},"access":"user","socketFilter":1,"filter":[],"action":"FPGA_REGISTER"},"43":{"tableName":"FPGA-REGISTER","method":["GET","POST"],"socket":{"GET":"701","POST":"702"},"access":"user","socketFilter":1,"filter":[],"action":"FPGA_REGISTER"},"44":{"tableName":"FPGA-REGISTER","method":["GET","POST"],"socket":{"GET":"701","POST":"702"},"access":"user","socketFilter":1,"filter":[],"action":"FPGA_REGISTER"},"45":{"tableName":"FPGA-REGISTER","method":["GET","POST"],"socket":{"GET":"701","POST":"702"},"access":"user","socketFilter":1,"filter":[],"action":"FPGA_REGISTER"},"46":{"tableName":"FPGA-REGISTER","method":["GET","POST"],"socket":{"GET":"701","POST":"702"},"access":"user","socketFilter":1,"filter":[],"action":"FPGA_REGISTER"},"47":{"tableName":"FPGA-REGISTER","method":["GET","POST"],"socket":{"GET":"701","POST":"702"},"access":"user","socketFilter":1,"filter":[],"action":"FPGA_REGISTER"},"48":{"tableName":"FPGA-REGISTER","method":["GET","POST"],"socket":{"GET":"701","POST":"702"},"access":"user","socketFilter":1,"filter":[],"action":"FPGA_REGISTER"},"49":{"tableName":"FPGA-REGISTER","method":["GET","POST"],"socket":{"GET":"701","POST":"702"},"access":"user","socketFilter":1,"filter":[],"action":"FPGA_REGISTER"},"50":{"tableName":"FPGA-REGISTER","method":["GET","POST"],"socket":{"GET":"701","POST":"702"},"access":"user","socketFilter":1,"filter":[],"action":"FPGA_REGISTER"},"51":{"tableName":"FPGA-REGISTER","method":["GET","POST"],"socket":{"GET":"701","POST":"702"},"access":"user","socketFilter":1,"filter":[],"action":"FPGA_REGISTER"},"52":{"tableName":"FPGA-REGISTER","method":["GET","POST"],"socket":{"GET":"701","POST":"702"},"access":"user","socketFilter":1,"filter":[],"action":"FPGA_REGISTER"},"53":{"tableName":"FPGA-REGISTER","method":["GET","POST"],"socket":{"GET":"701","POST":"702"},"access":"user","socketFilter":1,"filter":[],"action":"FPGA_REGISTER"},"54":{"tableName":"FPGA-REGISTER","method":["GET","POST"],"socket":{"GET":"701","POST":"702"},"access":"user","socketFilter":1,"filter":[],"action":"FPGA_REGISTER"},"55":{"tableName":"FPGA-REGISTER","method":["GET","POST"],"socket":{"GET":"701","POST":"702"},"access":"user","socketFilter":1,"filter":[],"action":"FPGA_REGISTER"},"56":{"tableName":"FPGA-REGISTER","method":["GET","POST"],"socket":{"GET":"701","POST":"702"},"access":"user","socketFilter":1,"filter":[],"action":"FPGA_REGISTER"},"57":{"tableName":"FPGA-REGISTER","method":["GET","POST"],"socket":{"GET":"701","POST":"702"},"access":"user","socketFilter":1,"filter":[],"action":"FPGA_REGISTER"},"58":{"tableName":"FPGA-REGISTER","method":["GET","POST"],"socket":{"GET":"701","POST":"702"},"access":"user","socketFilter":1,"filter":[],"action":"FPGA_REGISTER"},"59":{"tableName":"FPGA-REGISTER","method":["GET","POST"],"socket":{"GET":"701","POST":"702"},"access":"user","socketFilter":1,"filter":[],"action":"FPGA_REGISTER"},"60":{"tableName":"FPGA-REGISTER","method":["GET","POST"],"socket":{"GET":"701","POST":"702"},"access":"user","socketFilter":1,"filter":[],"action":"FPGA_REGISTER"},"61":{"tableName":"FPGA-REGISTER","method":["GET","POST"],"socket":{"GET":"701","POST":"702"},"access":"user","socketFilter":1,"filter":[],"action":"FPGA_REGISTER"},"62":{"tableName":"FPGA-REGISTER","method":["GET","POST"],"socket":{"GET":"701","POST":"702"},"access":"user","socketFilter":1,"filter":[],"action":"FPGA_REGISTER"},"63":{"tableName":"FPGA-REGISTER","method":["GET","POST"],"socket":{"GET":"701","POST":"702"},"access":"user","socketFilter":1,"filter":[],"action":"FPGA_REGISTER"},"64":{"tableName":"FPGA-REGISTER","method":["GET","POST"],"socket":{"GET":"701","POST":"702"},"access":"user","socketFilter":1,"filter":[],"action":"FPGA_REGISTER"},"65":{"tableName":"FPGA-REGISTER","method":["GET","POST"],"socket":{"GET":"701","POST":"702"},"access":"user","socketFilter":1,"filter":[],"action":"FPGA_REGISTER"},"66":{"tableName":"FPGA-REGISTER","method":["GET","POST"],"socket":{"GET":"701","POST":"702"},"access":"user","socketFilter":1,"filter":[],"action":"FPGA_REGISTER"},"67":{"tableName":"FPGA-REGISTER","method":["GET","POST"],"socket":{"GET":"701","POST":"702"},"access":"user","socketFilter":1,"filter":[],"action":"FPGA_REGISTER"},"68":{"tableName":"FPGA-REGISTER","method":["GET","POST"],"socket":{"GET":"701","POST":"702"},"access":"user","socketFilter":1,"filter":[],"action":"FPGA_REGISTER"},"69":{"tableName":"FPGA-REGISTER","method":["GET","POST"],"socket":{"GET":"701","POST":"702"},"access":"user","socketFilter":1,"filter":[],"action":"FPGA_REGISTER"},"70":{"tableName":"FPGA-REGISTER","method":["GET","POST"],"socket":{"GET":"701","POST":"702"},"access":"user","socketFilter":1,"filter":[],"action":"FPGA_REGISTER"},"71":{"tableName":"FPGA-REGISTER","method":["GET","POST"],"socket":{"GET":"701","POST":"702"},"access":"user","socketFilter":1,"filter":[],"action":"FPGA_REGISTER"},"72":{"tableName":"FPGA-REGISTER","method":["GET","POST"],"socket":{"GET":"701","POST":"702"},"access":"user","socketFilter":1,"filter":[],"action":"FPGA_REGISTER"},"73":{"tableName":"FPGA-REGISTER","method":["GET","POST"],"socket":{"GET":"701","POST":"702"},"access":"user","socketFilter":1,"filter":[],"action":"FPGA_REGISTER"},"74":{"tableName":"FPGA-REGISTER","method":["GET","POST"],"socket":{"GET":"701","POST":"702"},"access":"user","socketFilter":1,"filter":[],"action":"FPGA_REGISTER"},"75":{"tableName":"FPGA-REGISTER","method":["GET","POST"],"socket":{"GET":"701","POST":"702"},"access":"user","socketFilter":1,"filter":[],"action":"FPGA_REGISTER"},"76":{"tableName":"FPGA-REGISTER","method":["GET","POST"],"socket":{"GET":"701","POST":"702"},"access":"user","socketFilter":1,"filter":[],"action":"FPGA_REGISTER"},"77":{"tableName":"FPGA-REGISTER","method":["GET","POST"],"socket":{"GET":"701","POST":"702"},"access":"user","socketFilter":1,"filter":[],"action":"FPGA_REGISTER"},"78":{"tableName":"FPGA-REGISTER","method":["GET","POST"],"socket":{"GET":"701","POST":"702"},"access":"user","socketFilter":1,"filter":[],"action":"FPGA_REGISTER"},"79":{"tableName":"FPGA-REGISTER","method":["GET","POST"],"socket":{"GET":"701","POST":"702"},"access":"user","socketFilter":1,"filter":[],"action":"FPGA_REGISTER"},"80":{"tableName":"FPGA-REGISTER","method":["GET","POST"],"socket":{"GET":"701","POST":"702"},"access":"user","socketFilter":1,"filter":[],"action":"FPGA_REGISTER"},"81":{"tableName":"FPGA-REGISTER","method":["GET","POST"],"socket":{"GET":"701","POST":"702"},"access":"user","socketFilter":1,"filter":[],"action":"FPGA_REGISTER"},"82":{"tableName":"FPGA-REGISTER","method":["GET","POST"],"socket":{"GET":"701","POST":"702"},"access":"user","socketFilter":1,"filter":[],"action":"FPGA_REGISTER"},"83":{"tableName":"FPGA-REGISTER","method":["GET","POST"],"socket":{"GET":"701","POST":"702"},"access":"user","socketFilter":1,"filter":[],"action":"FPGA_REGISTER"},"84":{"tableName":"FPGA-REGISTER","method":["GET","POST"],"socket":{"GET":"701","POST":"702"},"access":"user","socketFilter":1,"filter":[],"action":"FPGA_REGISTER"},"85":{"tableName":"FPGA-REGISTER","method":["GET","POST"],"socket":{"GET":"701","POST":"702"},"access":"user","socketFilter":1,"filter":[],"action":"FPGA_REGISTER"},"86":{"tableName":"FPGA-REGISTER","method":["GET","POST"],"socket":{"GET":"701","POST":"702"},"access":"user","socketFilter":1,"filter":[],"action":"FPGA_REGISTER"},"87":{"tableName":"FPGA-REGISTER","method":["GET","POST"],"socket":{"GET":"701","POST":"702"},"access":"user","socketFilter":1,"filter":[],"action":"FPGA_REGISTER"},"88":{"tableName":"FPGA-REGISTER","method":["GET","POST"],"socket":{"GET":"701","POST":"702"},"access":"user","socketFilter":1,"filter":[],"action":"FPGA_REGISTER"},"89":{"tableName":"FPGA-REGISTER","method":["GET","POST"],"socket":{"GET":"701","POST":"702"},"access":"user","socketFilter":1,"filter":[],"action":"FPGA_REGISTER"},"90":{"tableName":"FPGA-REGISTER","method":["GET","POST"],"socket":{"GET":"701","POST":"702"},"access":"user","socketFilter":1,"filter":[],"action":"FPGA_REGISTER"},"91":{"tableName":"FPGA-REGISTER","method":["GET","POST"],"socket":{"GET":"701","POST":"702"},"access":"user","socketFilter":1,"filter":[],"action":"FPGA_REGISTER"},"92":{"tableName":"FPGA-REGISTER","method":["GET","POST"],"socket":{"GET":"701","POST":"702"},"access":"user","socketFilter":1,"filter":[],"action":"FPGA_REGISTER"},"93":{"tableName":"FPGA-REGISTER","method":["GET","POST"],"socket":{"GET":"701","POST":"702"},"access":"user","socketFilter":1,"filter":[],"action":"FPGA_REGISTER"},"94":{"tableName":"FPGA-REGISTER","method":["GET","POST"],"socket":{"GET":"701","POST":"702"},"access":"user","socketFilter":1,"filter":[],"action":"FPGA_REGISTER"},"95":{"tableName":"FPGA-REGISTER","method":["GET","POST"],"socket":{"GET":"701","POST":"702"},"access":"user","socketFilter":1,"filter":[],"action":"FPGA_REGISTER"},"96":{"tableName":"FPGA-REGISTER","method":["GET","POST"],"socket":{"GET":"701","POST":"702"},"access":"user","socketFilter":1,"filter":[],"action":"FPGA_REGISTER"},"97":{"tableName":"FPGA-REGISTER","method":["GET","POST"],"socket":{"GET":"701","POST":"702"},"access":"user","socketFilter":1,"filter":[],"action":"FPGA_REGISTER"},"98":{"tableName":"FPGA-REGISTER","method":["GET","POST"],"socket":{"GET":"701","POST":"702"},"access":"user","socketFilter":1,"filter":[],"action":"FPGA_REGISTER"},"99":{"tableName":"FPGA-REGISTER","method":["GET","POST"],"socket":{"GET":"701","POST":"702"},"access":"user","socketFilter":1,"filter":[],"action":"FPGA_REGISTER"},"100":{"tableName":"FPGA-REGISTER","method":["GET","POST"],"socket":{"GET":"701","POST":"702"},"access":"user","socketFilter":1,"filter":[],"action":"FPGA_REGISTER"}}}
+{ system: 
+   { firmware: 
+      { 'fpga-version': [Object],
+        'processor-version': [Object],
+        'processor-field-upgrade': [Object],
+        'fpga-field-upgrade': [Object],
+        'fpga-upgrade-status': [Object],
+        'processor-upgrade-status': [Object],
+        switch: [Object],
+        'serial-no': [Object] },
+     network: 
+      { 'ip-settings': [Object],
+        tos: [Object],
+        'mtu-size': [Object],
+        mode: [Object],
+        'notify-ip-addr': [Object],
+        port: [Object] },
+     diagnostics: 
+      { 'hw-status': [Object],
+        temperature: [Object],
+        'device-log': [Object],
+        'device-log-level': [Object],
+        'device-log-facility': [Object],
+        'dev-log-ip-addr': [Object] },
+     'splash-scrn': { enable: [Object], upload: [Object], 'get-name': [Object] },
+     reset: 
+      { 'soft-reset': [Object],
+        'configuration-reset': [Object],
+        'factory-reset': [Object] },
+     reboot: 
+      { tableName: 'SYSTEM',
+        method: [Object],
+        socket: [Object],
+        access: 'admin',
+        socketFilter: 0,
+        filter: [Object],
+        LIST: [Object] },
+     authentication: 
+      { admin: [Object],
+        'admin-pwd': [Object],
+        user: [Object],
+        'user-pwd': [Object] },
+     identification: { id: [Object] },
+     'video-mode': { 'enable-3d': [Object] },
+     'config-file': 
+      { upload: [Object],
+        download: [Object],
+        delete: [Object],
+        update: [Object] },
+     misc: 
+      { 'board-type': [Object],
+        'led-on-time': [Object],
+        'led-off-time': [Object],
+        'http-mode': [Object],
+        'enable-encryption': [Object] },
+     mdns: 
+      { 'add-key': [Object],
+        'delete-key': [Object],
+        'read-key': [Object],
+        'edit-key': [Object] } },
+  video: 
+   { input: 
+      { streams: [Object],
+        resolution: [Object],
+        'frame-rate': [Object],
+        'valid-input': [Object],
+        'cable-presence': [Object],
+        'buffer-type': [Object],
+        'buffer-delay': [Object],
+        'hqll-mult-ip-addr': [Object],
+        'es-mult-ip-addr': [Object],
+        mute: [Object] },
+     output: 
+      { videos: [Object],
+        resolution: [Object],
+        'frame-rate': [Object],
+        edid: [Object] } },
+  'comp-layout': 
+   { 'feature-enable': 
+      { tableName: 'COMP-LAYOUT',
+        method: [Object],
+        socket: [Object],
+        access: 'admin',
+        socketFilter: 0,
+        filter: [Object],
+        MIN: 0,
+        MAX: 1 },
+     'available-layout': 
+      { tableName: 'COMP-LAYOUT',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 0,
+        filter: [Object],
+        MIN: 1,
+        MAX: 2 },
+     'enable-pip': 
+      { tableName: 'COMP-LAYOUT',
+        method: [Object],
+        socket: [Object],
+        access: 'admin',
+        socketFilter: 0,
+        filter: [Object],
+        MIN: 0,
+        MAX: 1 },
+     'pip-loc': 
+      { tableName: 'COMP-LAYOUT',
+        method: [Object],
+        socket: [Object],
+        access: 'admin',
+        x_location: [Object],
+        y_location: [Object] },
+     'enable-pap': 
+      { tableName: 'COMP-LAYOUT',
+        method: [Object],
+        socket: [Object],
+        access: 'admin',
+        socketFilter: 0,
+        filter: [Object],
+        MIN: 0,
+        MAX: 1 },
+     'swap-pap': 
+      { tableName: 'COMP-LAYOUT',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 0,
+        filter: [Object],
+        LIST: [Object] } },
+  overlay: 
+   { '0': { 'image-params': [Object] },
+     '1': { 'image-params': [Object] },
+     '2': { 'image-params': [Object] },
+     '3': { 'image-params': [Object] },
+     '4': { 'image-params': [Object] },
+     '5': { 'image-params': [Object] },
+     '6': { 'image-params': [Object] },
+     '7': { 'image-params': [Object] },
+     'feature-enable': 
+      { tableName: 'OVERLAY',
+        method: [Object],
+        socket: [Object],
+        access: 'admin',
+        socketFilter: 0,
+        filter: [Object],
+        MIN: 0,
+        MAX: 1 },
+     'max-images': 
+      { tableName: 'OVERLAY',
+        method: [Object],
+        socket: [Object],
+        access: 'admin',
+        socketFilter: 0,
+        filter: [Object],
+        MIN: 1,
+        MAX: 5 },
+     enable: 
+      { tableName: 'OVERLAY',
+        method: [Object],
+        socket: [Object],
+        access: 'admin',
+        socketFilter: 0,
+        filter: [Object],
+        MIN: 0,
+        MAX: 1 },
+     'upload-image': 
+      { tableName: 'OVERLAY',
+        method: [Object],
+        socket: [Object],
+        access: 'admin',
+        socketFilter: 0,
+        array: [Object],
+        file_name: [Object],
+        id: [Object],
+        height: [Object],
+        width: [Object] },
+     'upload-mute-image': 
+      { tableName: 'OVERLAY',
+        method: [Object],
+        socket: [Object],
+        access: 'admin',
+        socketFilter: 0,
+        array: [Object],
+        file_name: [Object],
+        height: [Object],
+        width: [Object] },
+     'del-image': 
+      { tableName: 'OVERLAY',
+        method: [Object],
+        socket: [Object],
+        access: 'admin',
+        socketFilter: 0,
+        array: [Object],
+        id: [Object] } },
+  audio: 
+   { input: 
+      { 'valid-input': [Object],
+        'enable-rx': [Object],
+        'fine-gain': [Object],
+        'coarse-gain': [Object],
+        mute: [Object],
+        'loop-back': [Object],
+        'rx-mult-ip-addr': [Object] },
+     output: 
+      { 'enable-tx': [Object],
+        'tx-mult-ip-addr': [Object],
+        'fine-gain': [Object],
+        'coarse-gain': [Object],
+        mute: [Object],
+        fade: [Object] } },
+  kvm: 
+   { 'feature-enable': 
+      { tableName: 'KVM',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 0,
+        filter: [Object],
+        MIN: 0,
+        MAX: 1 },
+     'usb-link-status': 
+      { tableName: 'KVM',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 0,
+        filter: [] },
+     enable: 
+      { tableName: 'KVM',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 0,
+        filter: [] },
+     encoder: 
+      { tableName: 'KVM',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 0,
+        filter: [] },
+     'default-encoder': 
+      { tableName: 'KVM',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 0,
+        filter: [] },
+     'key-code': 
+      { tableName: 'KVM',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 0,
+        filter: [] } },
+  rs232: 
+   { '0': { params: [Object], send: [Object] },
+     '1': { params: [Object], send: [Object] },
+     'feature-enable': 
+      { tableName: 'RS232',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 0,
+        filter: [] },
+     'get-devices': 
+      { tableName: 'RS232',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 0,
+        filter: [] },
+     'open-connection': 
+      { tableName: 'RS232',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 0,
+        filter: [] },
+     'close-connection': 
+      { tableName: 'RS232',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 0,
+        filter: [] },
+     flush: 
+      { tableName: 'RS232',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 0,
+        filter: [] },
+     'data-in-notification': 
+      { tableName: 'RS232',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 0,
+        filter: [] },
+     'read-existing': 
+      { tableName: 'RS232',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 0,
+        filter: [] },
+     'read-line': 
+      { tableName: 'RS232',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 0,
+        filter: [] } },
+  'fpga-register': 
+   { '0': 
+      { tableName: 'FPGA-REGISTER',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 1,
+        filter: [],
+        action: 'FPGA_REGISTER' },
+     '1': 
+      { tableName: 'FPGA-REGISTER',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 1,
+        filter: [],
+        action: 'FPGA_REGISTER' },
+     '2': 
+      { tableName: 'FPGA-REGISTER',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 1,
+        filter: [],
+        action: 'FPGA_REGISTER' },
+     '3': 
+      { tableName: 'FPGA-REGISTER',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 1,
+        filter: [],
+        action: 'FPGA_REGISTER' },
+     '4': 
+      { tableName: 'FPGA-REGISTER',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 1,
+        filter: [],
+        action: 'FPGA_REGISTER' },
+     '5': 
+      { tableName: 'FPGA-REGISTER',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 1,
+        filter: [],
+        action: 'FPGA_REGISTER' },
+     '6': 
+      { tableName: 'FPGA-REGISTER',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 1,
+        filter: [],
+        action: 'FPGA_REGISTER' },
+     '7': 
+      { tableName: 'FPGA-REGISTER',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 1,
+        filter: [],
+        action: 'FPGA_REGISTER' },
+     '8': 
+      { tableName: 'FPGA-REGISTER',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 1,
+        filter: [],
+        action: 'FPGA_REGISTER' },
+     '9': 
+      { tableName: 'FPGA-REGISTER',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 1,
+        filter: [],
+        action: 'FPGA_REGISTER' },
+     '10': 
+      { tableName: 'FPGA-REGISTER',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 1,
+        filter: [],
+        action: 'FPGA_REGISTER' },
+     '11': 
+      { tableName: 'FPGA-REGISTER',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 1,
+        filter: [],
+        action: 'FPGA_REGISTER' },
+     '12': 
+      { tableName: 'FPGA-REGISTER',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 1,
+        filter: [],
+        action: 'FPGA_REGISTER' },
+     '13': 
+      { tableName: 'FPGA-REGISTER',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 1,
+        filter: [],
+        action: 'FPGA_REGISTER' },
+     '14': 
+      { tableName: 'FPGA-REGISTER',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 1,
+        filter: [],
+        action: 'FPGA_REGISTER' },
+     '15': 
+      { tableName: 'FPGA-REGISTER',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 1,
+        filter: [],
+        action: 'FPGA_REGISTER' },
+     '16': 
+      { tableName: 'FPGA-REGISTER',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 1,
+        filter: [],
+        action: 'FPGA_REGISTER' },
+     '17': 
+      { tableName: 'FPGA-REGISTER',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 1,
+        filter: [],
+        action: 'FPGA_REGISTER' },
+     '18': 
+      { tableName: 'FPGA-REGISTER',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 1,
+        filter: [],
+        action: 'FPGA_REGISTER' },
+     '19': 
+      { tableName: 'FPGA-REGISTER',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 1,
+        filter: [],
+        action: 'FPGA_REGISTER' },
+     '20': 
+      { tableName: 'FPGA-REGISTER',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 1,
+        filter: [],
+        action: 'FPGA_REGISTER' },
+     '21': 
+      { tableName: 'FPGA-REGISTER',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 1,
+        filter: [],
+        action: 'FPGA_REGISTER' },
+     '22': 
+      { tableName: 'FPGA-REGISTER',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 1,
+        filter: [],
+        action: 'FPGA_REGISTER' },
+     '23': 
+      { tableName: 'FPGA-REGISTER',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 1,
+        filter: [],
+        action: 'FPGA_REGISTER' },
+     '24': 
+      { tableName: 'FPGA-REGISTER',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 1,
+        filter: [],
+        action: 'FPGA_REGISTER' },
+     '25': 
+      { tableName: 'FPGA-REGISTER',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 1,
+        filter: [],
+        action: 'FPGA_REGISTER' },
+     '26': 
+      { tableName: 'FPGA-REGISTER',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 1,
+        filter: [],
+        action: 'FPGA_REGISTER' },
+     '27': 
+      { tableName: 'FPGA-REGISTER',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 1,
+        filter: [],
+        action: 'FPGA_REGISTER' },
+     '28': 
+      { tableName: 'FPGA-REGISTER',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 1,
+        filter: [],
+        action: 'FPGA_REGISTER' },
+     '29': 
+      { tableName: 'FPGA-REGISTER',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 1,
+        filter: [],
+        action: 'FPGA_REGISTER' },
+     '30': 
+      { tableName: 'FPGA-REGISTER',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 1,
+        filter: [],
+        action: 'FPGA_REGISTER' },
+     '31': 
+      { tableName: 'FPGA-REGISTER',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 1,
+        filter: [],
+        action: 'FPGA_REGISTER' },
+     '32': 
+      { tableName: 'FPGA-REGISTER',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 1,
+        filter: [],
+        action: 'FPGA_REGISTER' },
+     '33': 
+      { tableName: 'FPGA-REGISTER',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 1,
+        filter: [],
+        action: 'FPGA_REGISTER' },
+     '34': 
+      { tableName: 'FPGA-REGISTER',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 1,
+        filter: [],
+        action: 'FPGA_REGISTER' },
+     '35': 
+      { tableName: 'FPGA-REGISTER',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 1,
+        filter: [],
+        action: 'FPGA_REGISTER' },
+     '36': 
+      { tableName: 'FPGA-REGISTER',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 1,
+        filter: [],
+        action: 'FPGA_REGISTER' },
+     '37': 
+      { tableName: 'FPGA-REGISTER',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 1,
+        filter: [],
+        action: 'FPGA_REGISTER' },
+     '38': 
+      { tableName: 'FPGA-REGISTER',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 1,
+        filter: [],
+        action: 'FPGA_REGISTER' },
+     '39': 
+      { tableName: 'FPGA-REGISTER',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 1,
+        filter: [],
+        action: 'FPGA_REGISTER' },
+     '40': 
+      { tableName: 'FPGA-REGISTER',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 1,
+        filter: [],
+        action: 'FPGA_REGISTER' },
+     '41': 
+      { tableName: 'FPGA-REGISTER',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 1,
+        filter: [],
+        action: 'FPGA_REGISTER' },
+     '42': 
+      { tableName: 'FPGA-REGISTER',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 1,
+        filter: [],
+        action: 'FPGA_REGISTER' },
+     '43': 
+      { tableName: 'FPGA-REGISTER',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 1,
+        filter: [],
+        action: 'FPGA_REGISTER' },
+     '44': 
+      { tableName: 'FPGA-REGISTER',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 1,
+        filter: [],
+        action: 'FPGA_REGISTER' },
+     '45': 
+      { tableName: 'FPGA-REGISTER',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 1,
+        filter: [],
+        action: 'FPGA_REGISTER' },
+     '46': 
+      { tableName: 'FPGA-REGISTER',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 1,
+        filter: [],
+        action: 'FPGA_REGISTER' },
+     '47': 
+      { tableName: 'FPGA-REGISTER',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 1,
+        filter: [],
+        action: 'FPGA_REGISTER' },
+     '48': 
+      { tableName: 'FPGA-REGISTER',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 1,
+        filter: [],
+        action: 'FPGA_REGISTER' },
+     '49': 
+      { tableName: 'FPGA-REGISTER',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 1,
+        filter: [],
+        action: 'FPGA_REGISTER' },
+     '50': 
+      { tableName: 'FPGA-REGISTER',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 1,
+        filter: [],
+        action: 'FPGA_REGISTER' },
+     '51': 
+      { tableName: 'FPGA-REGISTER',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 1,
+        filter: [],
+        action: 'FPGA_REGISTER' },
+     '52': 
+      { tableName: 'FPGA-REGISTER',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 1,
+        filter: [],
+        action: 'FPGA_REGISTER' },
+     '53': 
+      { tableName: 'FPGA-REGISTER',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 1,
+        filter: [],
+        action: 'FPGA_REGISTER' },
+     '54': 
+      { tableName: 'FPGA-REGISTER',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 1,
+        filter: [],
+        action: 'FPGA_REGISTER' },
+     '55': 
+      { tableName: 'FPGA-REGISTER',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 1,
+        filter: [],
+        action: 'FPGA_REGISTER' },
+     '56': 
+      { tableName: 'FPGA-REGISTER',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 1,
+        filter: [],
+        action: 'FPGA_REGISTER' },
+     '57': 
+      { tableName: 'FPGA-REGISTER',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 1,
+        filter: [],
+        action: 'FPGA_REGISTER' },
+     '58': 
+      { tableName: 'FPGA-REGISTER',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 1,
+        filter: [],
+        action: 'FPGA_REGISTER' },
+     '59': 
+      { tableName: 'FPGA-REGISTER',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 1,
+        filter: [],
+        action: 'FPGA_REGISTER' },
+     '60': 
+      { tableName: 'FPGA-REGISTER',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 1,
+        filter: [],
+        action: 'FPGA_REGISTER' },
+     '61': 
+      { tableName: 'FPGA-REGISTER',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 1,
+        filter: [],
+        action: 'FPGA_REGISTER' },
+     '62': 
+      { tableName: 'FPGA-REGISTER',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 1,
+        filter: [],
+        action: 'FPGA_REGISTER' },
+     '63': 
+      { tableName: 'FPGA-REGISTER',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 1,
+        filter: [],
+        action: 'FPGA_REGISTER' },
+     '64': 
+      { tableName: 'FPGA-REGISTER',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 1,
+        filter: [],
+        action: 'FPGA_REGISTER' },
+     '65': 
+      { tableName: 'FPGA-REGISTER',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 1,
+        filter: [],
+        action: 'FPGA_REGISTER' },
+     '66': 
+      { tableName: 'FPGA-REGISTER',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 1,
+        filter: [],
+        action: 'FPGA_REGISTER' },
+     '67': 
+      { tableName: 'FPGA-REGISTER',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 1,
+        filter: [],
+        action: 'FPGA_REGISTER' },
+     '68': 
+      { tableName: 'FPGA-REGISTER',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 1,
+        filter: [],
+        action: 'FPGA_REGISTER' },
+     '69': 
+      { tableName: 'FPGA-REGISTER',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 1,
+        filter: [],
+        action: 'FPGA_REGISTER' },
+     '70': 
+      { tableName: 'FPGA-REGISTER',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 1,
+        filter: [],
+        action: 'FPGA_REGISTER' },
+     '71': 
+      { tableName: 'FPGA-REGISTER',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 1,
+        filter: [],
+        action: 'FPGA_REGISTER' },
+     '72': 
+      { tableName: 'FPGA-REGISTER',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 1,
+        filter: [],
+        action: 'FPGA_REGISTER' },
+     '73': 
+      { tableName: 'FPGA-REGISTER',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 1,
+        filter: [],
+        action: 'FPGA_REGISTER' },
+     '74': 
+      { tableName: 'FPGA-REGISTER',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 1,
+        filter: [],
+        action: 'FPGA_REGISTER' },
+     '75': 
+      { tableName: 'FPGA-REGISTER',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 1,
+        filter: [],
+        action: 'FPGA_REGISTER' },
+     '76': 
+      { tableName: 'FPGA-REGISTER',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 1,
+        filter: [],
+        action: 'FPGA_REGISTER' },
+     '77': 
+      { tableName: 'FPGA-REGISTER',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 1,
+        filter: [],
+        action: 'FPGA_REGISTER' },
+     '78': 
+      { tableName: 'FPGA-REGISTER',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 1,
+        filter: [],
+        action: 'FPGA_REGISTER' },
+     '79': 
+      { tableName: 'FPGA-REGISTER',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 1,
+        filter: [],
+        action: 'FPGA_REGISTER' },
+     '80': 
+      { tableName: 'FPGA-REGISTER',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 1,
+        filter: [],
+        action: 'FPGA_REGISTER' },
+     '81': 
+      { tableName: 'FPGA-REGISTER',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 1,
+        filter: [],
+        action: 'FPGA_REGISTER' },
+     '82': 
+      { tableName: 'FPGA-REGISTER',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 1,
+        filter: [],
+        action: 'FPGA_REGISTER' },
+     '83': 
+      { tableName: 'FPGA-REGISTER',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 1,
+        filter: [],
+        action: 'FPGA_REGISTER' },
+     '84': 
+      { tableName: 'FPGA-REGISTER',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 1,
+        filter: [],
+        action: 'FPGA_REGISTER' },
+     '85': 
+      { tableName: 'FPGA-REGISTER',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 1,
+        filter: [],
+        action: 'FPGA_REGISTER' },
+     '86': 
+      { tableName: 'FPGA-REGISTER',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 1,
+        filter: [],
+        action: 'FPGA_REGISTER' },
+     '87': 
+      { tableName: 'FPGA-REGISTER',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 1,
+        filter: [],
+        action: 'FPGA_REGISTER' },
+     '88': 
+      { tableName: 'FPGA-REGISTER',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 1,
+        filter: [],
+        action: 'FPGA_REGISTER' },
+     '89': 
+      { tableName: 'FPGA-REGISTER',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 1,
+        filter: [],
+        action: 'FPGA_REGISTER' },
+     '90': 
+      { tableName: 'FPGA-REGISTER',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 1,
+        filter: [],
+        action: 'FPGA_REGISTER' },
+     '91': 
+      { tableName: 'FPGA-REGISTER',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 1,
+        filter: [],
+        action: 'FPGA_REGISTER' },
+     '92': 
+      { tableName: 'FPGA-REGISTER',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 1,
+        filter: [],
+        action: 'FPGA_REGISTER' },
+     '93': 
+      { tableName: 'FPGA-REGISTER',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 1,
+        filter: [],
+        action: 'FPGA_REGISTER' },
+     '94': 
+      { tableName: 'FPGA-REGISTER',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 1,
+        filter: [],
+        action: 'FPGA_REGISTER' },
+     '95': 
+      { tableName: 'FPGA-REGISTER',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 1,
+        filter: [],
+        action: 'FPGA_REGISTER' },
+     '96': 
+      { tableName: 'FPGA-REGISTER',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 1,
+        filter: [],
+        action: 'FPGA_REGISTER' },
+     '97': 
+      { tableName: 'FPGA-REGISTER',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 1,
+        filter: [],
+        action: 'FPGA_REGISTER' },
+     '98': 
+      { tableName: 'FPGA-REGISTER',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 1,
+        filter: [],
+        action: 'FPGA_REGISTER' },
+     '99': 
+      { tableName: 'FPGA-REGISTER',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 1,
+        filter: [],
+        action: 'FPGA_REGISTER' },
+     '100': 
+      { tableName: 'FPGA-REGISTER',
+        method: [Object],
+        socket: [Object],
+        access: 'user',
+        socketFilter: 1,
+        filter: [],
+        action: 'FPGA_REGISTER' } } }
+JSON > uri_levels.js
+opcode_switch.js
+opcode_object.js

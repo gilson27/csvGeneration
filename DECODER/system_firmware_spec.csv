@@ -1,0 +1,8 @@
+system,firmware,fpga-version,value,1v0,tableName,SYSTEM_FIRMWARE,method,GET,1,access,user,socketFilter,0,filter,NONE,,,,,,,,,
+,,processor-version,value,1v1,tableName,SYSTEM_FIRMWARE,method,GET,2,access,user,socketFilter,0,filter,NONE,,,,,,,,,
+,,processor-field-upgrade,value,Dsp-image-name,tableName,SYSTEM_FIRMWARE,method,POST,3,access,user,socketFilter,0,filter,NONE,,,,,,,,,
+,,fpga-field-upgrade,value,Fpga-image-name,tableName,SYSTEM_FIRMWARE,method,POST,4,access,user,socketFilter,0,filter,NONE,,,,,,,,,
+,,fpga-upgrade-status,value,0,tableName,SYSTEM_FIRMWARE,method,GET,5,access,user,socketFilter,0,filter,NONE,,,,,,,,,
+,,processor-upgrade-status,value,0,tableName,SYSTEM_FIRMWARE,method,GET,6,access,user,socketFilter,0,filter,NONE,,,,,,,,,
+,,switch,value,1,tableName,SYSTEM_FIRMWARE,method,POST,7,access,user,socketFilter,0,filter,NONE,,,,,,,,,
+,,serial-no,value,AAA1BBB2CCC3DDD4,tableName,SYSTEM_FIRMWARE,method,GET,8,POST,9,access,admin,socketFilter,0,filter,TYPE,NONE,TYPE,Digits16,AlphaNum,,,

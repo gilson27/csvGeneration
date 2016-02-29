@@ -1,0 +1,2600 @@
+Fri May 22 13:41:04 IST 2015
+dsd
+done
+0
+39
+in case 0system
+in case 1firmware
+in value ------------------fpga-version
+in case 2fpga-version
+in value ------------------value
+in handle value 1
+1
+39
+in value ------------------processor-version
+in case 2processor-version
+in value ------------------value
+in handle value 2
+2
+39
+in value ------------------processor-field-upgrade
+in case 2processor-field-upgrade
+in value ------------------value
+in handle value 3
+3
+39
+in value ------------------fpga-field-upgrade
+in case 2fpga-field-upgrade
+in value ------------------value
+in handle value 4
+4
+39
+in value ------------------fpga-upgrade-status
+in case 2fpga-upgrade-status
+in value ------------------value
+in handle value 5
+5
+39
+in value ------------------processor-upgrade-status
+in case 2processor-upgrade-status
+in value ------------------value
+in handle value 6
+6
+39
+in value ------------------switch
+in case 2switch
+in value ------------------value
+in handle value 7
+7
+39
+in value ------------------serial-no
+in case 2serial-no
+in value ------------------value
+in handle value 8
+8
+39
+in case 1network
+in value ------------------ip-settings
+in case 2ip-settings
+in value ------------------value
+in handle value 9
+9
+39
+in value ------------------ip-addr
+in case 3ip-addr
+in value ------------------value
+in handle value 10
+10
+39
+in value ------------------subnet-mask
+in case 3subnet-mask
+in value ------------------value
+in handle value 11
+11
+39
+in value ------------------gateway
+in case 3gateway
+in value ------------------value
+in handle value 12
+12
+39
+in value ------------------tos
+in case 2tos
+in value ------------------value
+in handle value 13
+13
+39
+in value ------------------mtu-size
+in case 2mtu-size
+in value ------------------value
+in handle value 14
+14
+39
+in value ------------------mode
+in case 2mode
+in value ------------------value
+in handle value 15
+15
+39
+in value ------------------notify-ip-addr
+in case 2notify-ip-addr
+in value ------------------value
+in handle value 16
+16
+39
+in value ------------------port
+in case 2port
+in value ------------------value
+in handle value 17
+17
+39
+in case 1diagnostics
+in value ------------------hw-status
+in case 2hw-status
+in value ------------------value
+in handle value 18
+18
+39
+in value ------------------temperature
+in case 2temperature
+in value ------------------value
+in handle value 19
+19
+39
+in value ------------------device-log
+in case 2device-log
+in value ------------------value
+in handle value 20
+20
+39
+in value ------------------device-log-level
+in case 2device-log-level
+in value ------------------value
+in handle value 21
+21
+39
+in value ------------------device-log-facility
+in case 2device-log-facility
+in value ------------------value
+in handle value 22
+22
+39
+in value ------------------dev-log-ip-addr
+in case 2dev-log-ip-addr
+in value ------------------value
+in handle value 23
+23
+39
+in case 1splash-scrn
+in value ------------------enable
+in case 2enable
+in value ------------------value
+in handle value 24
+24
+39
+in value ------------------upload
+in case 2upload
+in value ------------------value
+in handle value 25
+25
+39
+in value ------------------get-name
+in case 2get-name
+in value ------------------value
+in handle value 26
+26
+39
+in case 1reset
+in value ------------------soft-reset
+in case 2soft-reset
+in value ------------------value
+in handle value 27
+27
+39
+in value ------------------configuration-reset
+in case 2configuration-reset
+in value ------------------value
+in handle value 28
+28
+39
+in value ------------------factory-reset
+in case 2factory-reset
+in value ------------------value
+in handle value 29
+29
+39
+in case 1reboot
+in value ------------------value
+in handle value 30
+30
+39
+in case 1authentication
+in value ------------------admin
+in case 2admin
+in value ------------------value
+in handle value 31
+31
+39
+in value ------------------admin-pwd
+in case 2admin-pwd
+in value ------------------value
+in handle value 32
+32
+39
+in value ------------------user
+in case 2user
+in value ------------------value
+in handle value 33
+33
+39
+in value ------------------user-pwd
+in case 2user-pwd
+in value ------------------value
+in handle value 34
+34
+39
+in case 1identification
+in value ------------------id
+in case 2id
+in value ------------------value
+in handle value 35
+35
+39
+in case 1video-mode
+in value ------------------enable-3d
+in case 2enable-3d
+in value ------------------value
+in handle value 36
+36
+39
+in case 1config-file
+in value ------------------upload
+in case 2upload
+in value ------------------value
+in handle value 37
+37
+39
+in value ------------------download
+in case 2download
+in value ------------------value
+in handle value 38
+38
+39
+in value ------------------delete
+in case 2delete
+in value ------------------value
+in handle value 39
+39
+39
+in value ------------------update
+in case 2update
+in value ------------------value
+in handle value 40
+40
+39
+in case 1misc
+in value ------------------board-type
+in case 2board-type
+in value ------------------value
+in handle value 41
+41
+39
+in value ------------------led-on-time
+in case 2led-on-time
+in value ------------------value
+in handle value 42
+42
+39
+in value ------------------led-off-time
+in case 2led-off-time
+in value ------------------value
+in handle value 43
+43
+39
+in value ------------------http-mode
+in case 2http-mode
+in value ------------------value
+in handle value 44
+44
+39
+in value ------------------enable-encryption
+in case 2enable-encryption
+in value ------------------value
+in handle value 45
+45
+39
+in case 1mdns
+in value ------------------add-key
+in case 2add-key
+in value ------------------value
+in handle value 46
+46
+39
+in value ------------------key
+in case 3key
+in value ------------------value
+in handle value 47
+47
+39
+in value ------------------data-value
+in case 3data-value
+in value ------------------value
+in handle value 48
+48
+39
+in value ------------------delete-key
+in case 2delete-key
+in value ------------------value
+in handle value 49
+49
+39
+in value ------------------read-key
+in case 2read-key
+in value ------------------value
+in handle value 50
+50
+39
+in value ------------------edit-key
+in case 2edit-key
+in value ------------------value
+in handle value 51
+51
+39
+in value ------------------key
+in case 3key
+in value ------------------value
+in handle value 52
+52
+39
+in value ------------------data-value
+in case 3data-value
+in value ------------------value
+in handle value 53
+53
+39
+in case 0video
+in case 1input
+in value ------------------streams
+in case 2streams
+in value ------------------value
+in handle value 54
+54
+39
+in value ------------------resolution
+in case 2resolution
+in value ------------------value
+in handle value 55
+55
+39
+in value ------------------frame-rate
+in case 2frame-rate
+in value ------------------value
+in handle value 56
+56
+39
+in value ------------------valid-input
+in case 2valid-input
+in value ------------------value
+in handle value 57
+57
+39
+in value ------------------cable-presence
+in case 2cable-presence
+in value ------------------value
+in handle value 58
+58
+39
+in value ------------------buffer-type
+in case 2buffer-type
+in value ------------------value
+in handle value 59
+59
+39
+in value ------------------buffer-delay
+in case 2buffer-delay
+in value ------------------value
+in handle value 60
+60
+39
+in value ------------------hqll-mult-ip-addr
+in case 2hqll-mult-ip-addr
+in value ------------------value
+in handle value 61
+61
+39
+in value ------------------ip-addr
+in case 3ip-addr
+in value ------------------value
+in handle value 62
+62
+39
+in value ------------------port
+in case 3port
+in value ------------------value
+in handle value 63
+63
+39
+in value ------------------es-mult-ip-addr
+in case 2es-mult-ip-addr
+in value ------------------value
+in handle value 64
+64
+39
+in value ------------------ip-addr
+in case 3ip-addr
+in value ------------------value
+in handle value 65
+65
+39
+in value ------------------port
+in case 3port
+in value ------------------value
+in handle value 66
+66
+39
+in value ------------------mute
+in case 2mute
+in value ------------------value
+in handle value 67
+67
+39
+in case 1output
+in value ------------------videos
+in case 2videos
+in value ------------------value
+in handle value 68
+68
+39
+in value ------------------resolution
+in case 2resolution
+in value ------------------value
+in handle value 69
+69
+39
+in value ------------------frame-rate
+in case 2frame-rate
+in value ------------------value
+in handle value 70
+70
+39
+in value ------------------edid
+in case 2edid
+in value ------------------value
+in handle value 71
+71
+39
+in case 0comp-layout
+in case 1feature-enable
+in value ------------------value
+in handle value 72
+72
+39
+in case 1available-layout
+in value ------------------value
+in handle value 73
+73
+39
+in case 1enable-pip
+in value ------------------value
+in handle value 74
+74
+39
+in case 1pip-loc
+in value ------------------value
+in handle value 75
+75
+39
+in value ------------------x_location
+in case 2x_location
+in value ------------------value
+in handle value 76
+76
+39
+in value ------------------y_location
+in case 2y_location
+in value ------------------value
+in handle value 77
+77
+39
+in case 1enable-pap
+in value ------------------value
+in handle value 78
+78
+39
+in case 1swap-pap
+in value ------------------value
+in handle value 79
+79
+39
+in case 0overlay
+in case 1feature-enable
+in value ------------------value
+in handle value 80
+80
+39
+in case 1max-images
+in value ------------------value
+in handle value 81
+81
+39
+in case 1enable
+in value ------------------value
+in handle value 82
+82
+39
+in case 1upload-image
+in value ------------------value
+in handle value 83
+83
+39
+in value ------------------file_name
+in case 2file_name
+in value ------------------value
+in handle value 84
+84
+39
+in value ------------------id
+in case 2id
+in value ------------------value
+in handle value 85
+85
+39
+in value ------------------height
+in case 2height
+in value ------------------value
+in handle value 86
+86
+39
+in value ------------------width
+in case 2width
+in value ------------------value
+in handle value 87
+87
+39
+in case 1upload-mute-image
+in value ------------------value
+in handle value 88
+88
+39
+in value ------------------file_name
+in case 2file_name
+in value ------------------value
+in handle value 89
+89
+39
+in value ------------------height
+in case 2height
+in value ------------------value
+in handle value 90
+90
+39
+in value ------------------width
+in case 2width
+in value ------------------value
+in handle value 91
+91
+39
+in case 1del-image
+in value ------------------value
+in handle value 92
+92
+39
+in value ------------------id
+in case 2id
+in value ------------------value
+in handle value 93
+93
+39
+in case 10
+in value ------------------image-params
+in case 2image-params
+in value ------------------value
+in handle value 94
+94
+39
+in value ------------------id
+in case 3id
+in value ------------------value
+in handle value 95
+95
+39
+in value ------------------x_location
+in case 3x_location
+in value ------------------value
+in handle value 96
+96
+39
+in value ------------------y_location
+in case 3y_location
+in value ------------------value
+in handle value 97
+97
+39
+in value ------------------enable
+in case 3enable
+in value ------------------value
+in handle value 98
+98
+39
+in value ------------------height
+in case 3height
+in value ------------------value
+in handle value 99
+99
+39
+in value ------------------width
+in case 3width
+in value ------------------value
+in handle value 100
+100
+39
+in case 11
+in value ------------------image-params
+in case 2image-params
+in value ------------------value
+in handle value 101
+101
+39
+in value ------------------id
+in case 3id
+in value ------------------value
+in handle value 102
+102
+39
+in value ------------------x_location
+in case 3x_location
+in value ------------------value
+in handle value 103
+103
+39
+in value ------------------y_location
+in case 3y_location
+in value ------------------value
+in handle value 104
+104
+39
+in value ------------------enable
+in case 3enable
+in value ------------------value
+in handle value 105
+105
+39
+in value ------------------height
+in case 3height
+in value ------------------value
+in handle value 106
+106
+39
+in value ------------------width
+in case 3width
+in value ------------------value
+in handle value 107
+107
+39
+in case 12
+in value ------------------image-params
+in case 2image-params
+in value ------------------value
+in handle value 108
+108
+39
+in value ------------------id
+in case 3id
+in value ------------------value
+in handle value 109
+109
+39
+in value ------------------x_location
+in case 3x_location
+in value ------------------value
+in handle value 110
+110
+39
+in value ------------------y_location
+in case 3y_location
+in value ------------------value
+in handle value 111
+111
+39
+in value ------------------enable
+in case 3enable
+in value ------------------value
+in handle value 112
+112
+39
+in value ------------------height
+in case 3height
+in value ------------------value
+in handle value 113
+113
+39
+in value ------------------width
+in case 3width
+in value ------------------value
+in handle value 114
+114
+39
+in case 13
+in value ------------------image-params
+in case 2image-params
+in value ------------------value
+in handle value 115
+115
+39
+in value ------------------id
+in case 3id
+in value ------------------value
+in handle value 116
+116
+39
+in value ------------------x_location
+in case 3x_location
+in value ------------------value
+in handle value 117
+117
+39
+in value ------------------y_location
+in case 3y_location
+in value ------------------value
+in handle value 118
+118
+39
+in value ------------------enable
+in case 3enable
+in value ------------------value
+in handle value 119
+119
+39
+in value ------------------height
+in case 3height
+in value ------------------value
+in handle value 120
+120
+39
+in value ------------------width
+in case 3width
+in value ------------------value
+in handle value 121
+121
+39
+in case 14
+in value ------------------image-params
+in case 2image-params
+in value ------------------value
+in handle value 122
+122
+39
+in value ------------------id
+in case 3id
+in value ------------------value
+in handle value 123
+123
+39
+in value ------------------x_location
+in case 3x_location
+in value ------------------value
+in handle value 124
+124
+39
+in value ------------------y_location
+in case 3y_location
+in value ------------------value
+in handle value 125
+125
+39
+in value ------------------enable
+in case 3enable
+in value ------------------value
+in handle value 126
+126
+39
+in value ------------------height
+in case 3height
+in value ------------------value
+in handle value 127
+127
+39
+in value ------------------width
+in case 3width
+in value ------------------value
+in handle value 128
+128
+39
+in case 15
+in value ------------------image-params
+in case 2image-params
+in value ------------------value
+in handle value 129
+129
+39
+in value ------------------id
+in case 3id
+in value ------------------value
+in handle value 130
+130
+39
+in value ------------------x_location
+in case 3x_location
+in value ------------------value
+in handle value 131
+131
+39
+in value ------------------y_location
+in case 3y_location
+in value ------------------value
+in handle value 132
+132
+39
+in value ------------------enable
+in case 3enable
+in value ------------------value
+in handle value 133
+133
+39
+in value ------------------height
+in case 3height
+in value ------------------value
+in handle value 134
+134
+39
+in value ------------------width
+in case 3width
+in value ------------------value
+in handle value 135
+135
+39
+in case 16
+in value ------------------image-params
+in case 2image-params
+in value ------------------value
+in handle value 136
+136
+39
+in value ------------------id
+in case 3id
+in value ------------------value
+in handle value 137
+137
+39
+in value ------------------x_location
+in case 3x_location
+in value ------------------value
+in handle value 138
+138
+39
+in value ------------------y_location
+in case 3y_location
+in value ------------------value
+in handle value 139
+139
+39
+in value ------------------enable
+in case 3enable
+in value ------------------value
+in handle value 140
+140
+39
+in value ------------------height
+in case 3height
+in value ------------------value
+in handle value 141
+141
+39
+in value ------------------width
+in case 3width
+in value ------------------value
+in handle value 142
+142
+39
+in case 17
+in value ------------------image-params
+in case 2image-params
+in value ------------------value
+in handle value 143
+143
+39
+in value ------------------id
+in case 3id
+in value ------------------value
+in handle value 144
+144
+39
+in value ------------------x_location
+in case 3x_location
+in value ------------------value
+in handle value 145
+145
+39
+in value ------------------y_location
+in case 3y_location
+in value ------------------value
+in handle value 146
+146
+39
+in value ------------------enable
+in case 3enable
+in value ------------------value
+in handle value 147
+147
+39
+in value ------------------height
+in case 3height
+in value ------------------value
+in handle value 148
+148
+39
+in value ------------------width
+in case 3width
+in value ------------------value
+in handle value 149
+149
+39
+in case 0audio
+in case 1input
+in value ------------------valid-input
+in case 2valid-input
+in value ------------------value
+in handle value 150
+150
+39
+in value ------------------enable-rx
+in case 2enable-rx
+in value ------------------value
+in handle value 151
+151
+39
+in value ------------------fine-gain
+in case 2fine-gain
+in value ------------------value
+in handle value 152
+152
+39
+in value ------------------coarse-gain
+in case 2coarse-gain
+in value ------------------value
+in handle value 153
+153
+39
+in value ------------------mute
+in case 2mute
+in value ------------------value
+in handle value 154
+154
+39
+in value ------------------loop-back
+in case 2loop-back
+in value ------------------value
+in handle value 155
+155
+39
+in value ------------------rx-mult-ip-addr
+in case 2rx-mult-ip-addr
+in value ------------------value
+in handle value 156
+156
+39
+in value ------------------ip-addr
+in case 3ip-addr
+in value ------------------value
+in handle value 157
+157
+39
+in value ------------------port
+in case 3port
+in value ------------------value
+in handle value 158
+158
+39
+in case 1output
+in value ------------------enable-tx
+in case 2enable-tx
+in value ------------------value
+in handle value 159
+159
+39
+in value ------------------tx-mult-ip-addr
+in case 2tx-mult-ip-addr
+in value ------------------value
+in handle value 160
+160
+39
+in value ------------------ip-addr
+in case 3ip-addr
+in value ------------------value
+in handle value 161
+161
+39
+in value ------------------port
+in case 3port
+in value ------------------value
+in handle value 162
+162
+39
+in value ------------------fine-gain
+in case 2fine-gain
+in value ------------------value
+in handle value 163
+163
+39
+in value ------------------coarse-gain
+in case 2coarse-gain
+in value ------------------value
+in handle value 164
+164
+39
+in value ------------------mute
+in case 2mute
+in value ------------------value
+in handle value 165
+165
+39
+in value ------------------fade
+in case 2fade
+in value ------------------value
+in handle value 166
+166
+39
+in case 0kvm
+in case 1feature-enable
+in value ------------------value
+in handle value 167
+167
+39
+in case 1usb-link-status
+in value ------------------value
+in handle value 168
+168
+39
+in case 1enable
+in value ------------------value
+in handle value 169
+169
+39
+in case 1encoder
+in value ------------------value
+in handle value 170
+170
+39
+in case 1default-encoder
+in value ------------------value
+in handle value 171
+171
+39
+in case 1key-code
+in value ------------------value
+in handle value 172
+172
+39
+in case 0rs232
+in case 1feature-enable
+in value ------------------value
+in handle value 173
+173
+39
+in case 1get-devices
+in value ------------------value
+in handle value 174
+174
+39
+in case 1open-connection
+in value ------------------value
+in handle value 175
+175
+39
+in case 1close-connection
+in value ------------------value
+in handle value 176
+176
+39
+in case 1flush
+in value ------------------value
+in handle value 177
+177
+40
+in case 10
+in value ------------------params
+in case 2params
+in value ------------------value
+in handle value 178
+178
+39
+in value ------------------baud_rate
+in case 3baud_rate
+in value ------------------value
+in handle value 179
+179
+39
+in value ------------------data_bits
+in case 3data_bits
+in value ------------------value
+in handle value 180
+180
+39
+in value ------------------parity
+in case 3parity
+in value ------------------value
+in handle value 181
+181
+39
+in value ------------------stop_bit
+in case 3stop_bit
+in value ------------------value
+in handle value 182
+182
+39
+in value ------------------flow_control
+in case 3flow_control
+in value ------------------value
+in handle value 183
+183
+39
+in value ------------------port
+in case 3port
+in value ------------------value
+in handle value 184
+184
+39
+in value ------------------send
+in case 2send
+in value ------------------value
+in handle value 185
+185
+39
+in value ------------------data
+in case 3data
+in value ------------------value
+in handle value 186
+186
+39
+in value ------------------port
+in case 3port
+in value ------------------value
+in handle value 187
+187
+40
+in case 11
+in value ------------------params
+in case 2params
+in value ------------------value
+in handle value 188
+188
+39
+in value ------------------baud_rate
+in case 3baud_rate
+in value ------------------value
+in handle value 189
+189
+39
+in value ------------------data_bits
+in case 3data_bits
+in value ------------------value
+in handle value 190
+190
+39
+in value ------------------parity
+in case 3parity
+in value ------------------value
+in handle value 191
+191
+39
+in value ------------------stop_bit
+in case 3stop_bit
+in value ------------------value
+in handle value 192
+192
+39
+in value ------------------flow_control
+in case 3flow_control
+in value ------------------value
+in handle value 193
+193
+39
+in value ------------------port
+in case 3port
+in value ------------------value
+in handle value 194
+194
+39
+in value ------------------send
+in case 2send
+in value ------------------value
+in handle value 195
+195
+39
+in value ------------------data
+in case 3data
+in value ------------------value
+in handle value 196
+196
+39
+in value ------------------port
+in case 3port
+in value ------------------value
+in handle value 197
+197
+39
+in case 1data-in-notification
+in value ------------------value
+in handle value 198
+198
+39
+in case 1read-existing
+in value ------------------value
+in handle value 199
+199
+39
+in case 1read-line
+in value ------------------value
+in handle value 200
+200
+39
+in case 0fpga-register
+in case 10
+in value ------------------value
+in handle value 201
+201
+39
+in case 11
+in value ------------------value
+in handle value 202
+202
+39
+in case 12
+in value ------------------value
+in handle value 203
+203
+39
+in case 13
+in value ------------------value
+in handle value 204
+204
+39
+in case 14
+in value ------------------value
+in handle value 205
+205
+39
+in case 15
+in value ------------------value
+in handle value 206
+206
+39
+in case 16
+in value ------------------value
+in handle value 207
+207
+39
+in case 17
+in value ------------------value
+in handle value 208
+208
+39
+in case 18
+in value ------------------value
+in handle value 209
+209
+39
+in case 19
+in value ------------------value
+in handle value 210
+210
+39
+in case 110
+in value ------------------value
+in handle value 211
+211
+39
+in case 111
+in value ------------------value
+in handle value 212
+212
+39
+in case 112
+in value ------------------value
+in handle value 213
+213
+39
+in case 113
+in value ------------------value
+in handle value 214
+214
+39
+in case 114
+in value ------------------value
+in handle value 215
+215
+39
+in case 115
+in value ------------------value
+in handle value 216
+216
+39
+in case 116
+in value ------------------value
+in handle value 217
+217
+39
+in case 117
+in value ------------------value
+in handle value 218
+218
+39
+in case 118
+in value ------------------value
+in handle value 219
+219
+39
+in case 119
+in value ------------------value
+in handle value 220
+220
+39
+in case 120
+in value ------------------value
+in handle value 221
+221
+39
+in case 121
+in value ------------------value
+in handle value 222
+222
+39
+in case 122
+in value ------------------value
+in handle value 223
+223
+39
+in case 123
+in value ------------------value
+in handle value 224
+224
+39
+in case 124
+in value ------------------value
+in handle value 225
+225
+39
+in case 125
+in value ------------------value
+in handle value 226
+226
+39
+in case 126
+in value ------------------value
+in handle value 227
+227
+39
+in case 127
+in value ------------------value
+in handle value 228
+228
+39
+in case 128
+in value ------------------value
+in handle value 229
+229
+39
+in case 129
+in value ------------------value
+in handle value 230
+230
+39
+in case 130
+in value ------------------value
+in handle value 231
+231
+39
+in case 131
+in value ------------------value
+in handle value 232
+232
+39
+in case 132
+in value ------------------value
+in handle value 233
+233
+39
+in case 133
+in value ------------------value
+in handle value 234
+234
+39
+in case 134
+in value ------------------value
+in handle value 235
+235
+39
+in case 135
+in value ------------------value
+in handle value 236
+236
+39
+in case 136
+in value ------------------value
+in handle value 237
+237
+39
+in case 137
+in value ------------------value
+in handle value 238
+238
+39
+in case 138
+in value ------------------value
+in handle value 239
+239
+39
+in case 139
+in value ------------------value
+in handle value 240
+240
+39
+in case 140
+in value ------------------value
+in handle value 241
+241
+39
+in case 141
+in value ------------------value
+in handle value 242
+242
+39
+in case 142
+in value ------------------value
+in handle value 243
+243
+39
+in case 143
+in value ------------------value
+in handle value 244
+244
+39
+in case 144
+in value ------------------value
+in handle value 245
+245
+39
+in case 145
+in value ------------------value
+in handle value 246
+246
+39
+in case 146
+in value ------------------value
+in handle value 247
+247
+39
+in case 147
+in value ------------------value
+in handle value 248
+248
+39
+in case 148
+in value ------------------value
+in handle value 249
+249
+39
+in case 149
+in value ------------------value
+in handle value 250
+250
+39
+in case 150
+in value ------------------value
+in handle value 251
+251
+39
+in case 151
+in value ------------------value
+in handle value 252
+252
+39
+in case 152
+in value ------------------value
+in handle value 253
+253
+39
+in case 153
+in value ------------------value
+in handle value 254
+254
+39
+in case 154
+in value ------------------value
+in handle value 255
+255
+39
+in case 155
+in value ------------------value
+in handle value 256
+256
+39
+in case 156
+in value ------------------value
+in handle value 257
+257
+39
+in case 157
+in value ------------------value
+in handle value 258
+258
+39
+in case 158
+in value ------------------value
+in handle value 259
+259
+39
+in case 159
+in value ------------------value
+in handle value 260
+260
+39
+in case 160
+in value ------------------value
+in handle value 261
+261
+39
+in case 161
+in value ------------------value
+in handle value 262
+262
+39
+in case 162
+in value ------------------value
+in handle value 263
+263
+39
+in case 163
+in value ------------------value
+in handle value 264
+264
+39
+in case 164
+in value ------------------value
+in handle value 265
+265
+39
+in case 165
+in value ------------------value
+in handle value 266
+266
+39
+in case 166
+in value ------------------value
+in handle value 267
+267
+39
+in case 167
+in value ------------------value
+in handle value 268
+268
+39
+in case 168
+in value ------------------value
+in handle value 269
+269
+39
+in case 169
+in value ------------------value
+in handle value 270
+270
+39
+in case 170
+in value ------------------value
+in handle value 271
+271
+39
+in case 171
+in value ------------------value
+in handle value 272
+272
+39
+in case 172
+in value ------------------value
+in handle value 273
+273
+39
+in case 173
+in value ------------------value
+in handle value 274
+274
+39
+in case 174
+in value ------------------value
+in handle value 275
+275
+39
+in case 175
+in value ------------------value
+in handle value 276
+276
+39
+in case 176
+in value ------------------value
+in handle value 277
+277
+39
+in case 177
+in value ------------------value
+in handle value 278
+278
+39
+in case 178
+in value ------------------value
+in handle value 279
+279
+39
+in case 179
+in value ------------------value
+in handle value 280
+280
+39
+in case 180
+in value ------------------value
+in handle value 281
+281
+39
+in case 181
+in value ------------------value
+in handle value 282
+282
+39
+in case 182
+in value ------------------value
+in handle value 283
+283
+39
+in case 183
+in value ------------------value
+in handle value 284
+284
+39
+in case 184
+in value ------------------value
+in handle value 285
+285
+39
+in case 185
+in value ------------------value
+in handle value 286
+286
+39
+in case 186
+in value ------------------value
+in handle value 287
+287
+39
+in case 187
+in value ------------------value
+in handle value 288
+288
+39
+in case 188
+in value ------------------value
+in handle value 289
+289
+39
+in case 189
+in value ------------------value
+in handle value 290
+290
+39
+in case 190
+in value ------------------value
+in handle value 291
+291
+39
+in case 191
+in value ------------------value
+in handle value 292
+292
+39
+in case 192
+in value ------------------value
+in handle value 293
+293
+39
+in case 193
+in value ------------------value
+in handle value 294
+294
+39
+in case 194
+in value ------------------value
+in handle value 295
+295
+39
+in case 195
+in value ------------------value
+in handle value 296
+296
+39
+in case 196
+in value ------------------value
+in handle value 297
+297
+39
+in case 197
+in value ------------------value
+in handle value 298
+298
+39
+in case 198
+in value ------------------value
+in handle value 299
+299
+39
+in case 199
+in value ------------------value
+in handle value 300
+300
+39
+in case 1100
+in value ------------------value
+in handle value 301
+createDb chain
+[ 1, 'fpga-version', '1v0', 'SYSTEM_FIRMWARE', 1, 0, 'user', 0 ]
+[ 2, 'processor-version', '1v1', 'SYSTEM_FIRMWARE', 2, 0, 'user', 0 ]
+[ 3,
+  'processor-field-upgrade',
+  'Dsp-image-name',
+  'SYSTEM_FIRMWARE',
+  0,
+  3,
+  'user',
+  0 ]
+[ 4,
+  'fpga-field-upgrade',
+  'Fpga-image-name',
+  'SYSTEM_FIRMWARE',
+  0,
+  4,
+  'user',
+  0 ]
+[ 5, 'fpga-upgrade-status', '0', 'SYSTEM_FIRMWARE', 5, 0, 'user', 0 ]
+[ 6,
+  'processor-upgrade-status',
+  '0',
+  'SYSTEM_FIRMWARE',
+  6,
+  0,
+  'user',
+  0 ]
+[ 7, 'switch', '1', 'SYSTEM_FIRMWARE', 0, 7, 'user', 0 ]
+[ 8,
+  'serial-no',
+  'AAA1BBB2CCC3DDD4',
+  'SYSTEM_FIRMWARE',
+  8,
+  9,
+  'admin',
+  0 ]
+[ 9,
+  'ip-settings',
+  '192.168.0.1',
+  'SYSTEM_NETWORK_IP-SETTINGS',
+  10,
+  11,
+  'user',
+  0 ]
+[ 10,
+  'ip-addr',
+  '192.168.0.1',
+  'SYSTEM_NETWORK_IP-SETTINGS',
+  12,
+  13,
+  'user',
+  0 ]
+[ 11,
+  'subnet-mask',
+  '255.255.255.0',
+  'SYSTEM_NETWORK_IP-SETTINGS',
+  14,
+  15,
+  'user',
+  0 ]
+[ 12,
+  'gateway',
+  '0.0.0.0',
+  'SYSTEM_NETWORK_IP-SETTINGS',
+  16,
+  17,
+  'user',
+  0 ]
+[ 13, 'tos', '7', 'SYSTEM_NETWORK', 18, 19, 'user', 0 ]
+[ 14, 'mtu-size', '1500', 'SYSTEM_NETWORK', 20, 21, 'user', 0 ]
+[ 15, 'mode', '1', 'SYSTEM_NETWORK', 22, 23, 'user', 0 ]
+[ 16,
+  'notify-ip-addr',
+  '192.168.0.77',
+  'SYSTEM_NETWORK',
+  0,
+  0,
+  'user',
+  1 ]
+[ 17, 'port', '9999', 'SYSTEM_NETWORK', 0, 0, 'user', 1 ]
+[ 18, 'hw-status', '1', 'SYSTEM_DIAGNOSTICS', 28, 0, 'user', 0 ]
+[ 19, 'temperature', '25', 'SYSTEM_DIAGNOSTICS', 29, 0, 'user', 0 ]
+[ 20,
+  'device-log',
+  'SUCCESS',
+  'SYSTEM_DIAGNOSTICS',
+  30,
+  0,
+  'user',
+  0 ]
+[ 21,
+  'device-log-level',
+  '7',
+  'SYSTEM_DIAGNOSTICS',
+  31,
+  32,
+  'admin',
+  0 ]
+[ 22,
+  'device-log-facility',
+  '1',
+  'SYSTEM_DIAGNOSTICS',
+  33,
+  34,
+  'admin',
+  0 ]
+[ 23,
+  'dev-log-ip-addr',
+  '192.168.0.88',
+  'SYSTEM_DIAGNOSTICS',
+  35,
+  36,
+  'admin',
+  0 ]
+[ 24, 'enable', '0', 'SYSTEM_SPLASH-SCRN', 37, 38, 'admin', 0 ]
+[ 25, 'upload', 'image.jpg', 'SYSTEM_SPLASH-SCRN', 0, 39, 'user', 0 ]
+[ 26,
+  'get-name',
+  'image.jpg',
+  'SYSTEM_SPLASH-SCRN',
+  40,
+  0,
+  'user',
+  0 ]
+[ 27, 'soft-reset', '1', 'SYSTEM_RESET', 0, 41, 'user', 0 ]
+[ 28, 'configuration-reset', '1', 'SYSTEM_RESET', 0, 42, 'user', 0 ]
+[ 29, 'factory-reset', '1', 'SYSTEM_RESET', 0, 43, 'user', 0 ]
+[ 30, 'reboot', '1', 'SYSTEM', 0, 44, 'admin', 0 ]
+[ 31, 'admin', 'admin', 'SYSTEM_AUTHENTICATION', 0, 0, 'admin', 1 ]
+[ 32,
+  'admin-pwd',
+  'Admin1234',
+  'SYSTEM_AUTHENTICATION',
+  0,
+  0,
+  'user',
+  1 ]
+[ 33, 'user', 'user', 'SYSTEM_AUTHENTICATION', 0, 0, 'user', 1 ]
+[ 34,
+  'user-pwd',
+  'User1234',
+  'SYSTEM_AUTHENTICATION',
+  0,
+  0,
+  'user',
+  1 ]
+[ 35, 'id', 'DECODER001', 'SYSTEM_IDENTIFICATION', 45, 0, 'user', 0 ]
+[ 36, 'enable-3d', '0', 'SYSTEM_VIDEO-MODE', 46, 47, 'admin', 0 ]
+[ 37, 'upload', 'config.csv', 'SYSTEM_CONFIG-FILE', 48, 0, 'user', 0 ]
+[ 38, 'download', 'SUCCESS', 'SYSTEM_CONFIG-FILE', 0, 49, 'user', 0 ]
+[ 39, 'delete', 'config.csv', 'SYSTEM_CONFIG-FILE', 0, 50, 'user', 0 ]
+[ 40, 'update', '1', 'SYSTEM_CONFIG-FILE', 0, 51, 'user', 0 ]
+[ 41, 'board-type', '11', 'SYSTEM_MISC', 52, 0, 'user', 0 ]
+[ 42, 'led-on-time', '50', 'SYSTEM_MISC', 53, 54, 'admin', 0 ]
+[ 43, 'led-off-time', '50', 'SYSTEM_MISC', 55, 56, 'admin', 0 ]
+[ 44, 'http-mode', '1', 'SYSTEM_MISC', 0, 0, 'admin', 1 ]
+[ 45, 'enable-encryption', '0', 'SYSTEM_MISC', 0, 0, 'admin', 1 ]
+[ 46, 'add-key', 'id', 'SYSTEM_MDNS', 0, 0, 'user', 1 ]
+[ 47, 'key', 'id', 'SYSTEM_MDNS_ADD-KEY', 0, 0, 'user', 1 ]
+[ 48,
+  'data-value',
+  'DECODER002',
+  'SYSTEM_MDNS_ADD-KEY',
+  0,
+  0,
+  'user',
+  1 ]
+[ 49, 'delete-key', 'id', 'SYSTEM_MDNS', 0, 0, 'user', 1 ]
+[ 50, 'read-key', 'id', 'SYSTEM_MDNS', 0, 0, 'user', 1 ]
+[ 51, 'edit-key', 'id', 'SYSTEM_MDNS', 0, 0, 'user', 1 ]
+[ 52, 'key', 'id', 'SYSTEM_MDNS_EDIT-KEY', 0, 0, 'user', 1 ]
+[ 53,
+  'data-value',
+  'DECODER001',
+  'SYSTEM_MDNS_EDIT-KEY',
+  0,
+  0,
+  'user',
+  1 ]
+[ 54, 'streams', '2', 'VIDEO_INPUT', 101, 0, 'user', 0 ]
+[ 55, 'resolution', '1080p', 'VIDEO_INPUT', 102, 0, 'user', 0 ]
+[ 56, 'frame-rate', '30', 'VIDEO_INPUT', 103, 0, 'user', 0 ]
+[ 57, 'valid-input', '1', 'VIDEO_INPUT', 104, 0, 'user', 0 ]
+[ 58, 'cable-presence', '0', 'VIDEO_INPUT', 105, 0, 'user', 0 ]
+[ 59, 'buffer-type', '1', 'VIDEO_INPUT', 106, 107, 'admin', 0 ]
+[ 60, 'buffer-delay', '500', 'VIDEO_INPUT', 108, 109, 'admin', 0 ]
+[ 61,
+  'hqll-mult-ip-addr',
+  '232.0.5.1',
+  'VIDEO_INPUT',
+  110,
+  111,
+  'admin',
+  0 ]
+[ 62,
+  'ip-addr',
+  '232.0.5.1',
+  'VIDEO_INPUT_HQLL-MULTI-IP-ADDR',
+  112,
+  113,
+  'admin',
+  0 ]
+[ 63,
+  'port',
+  '12100',
+  'VIDEO_INPUT_HQLL-MULTI-IP-ADDR',
+  114,
+  115,
+  'admin',
+  0 ]
+[ 64,
+  'es-mult-ip-addr',
+  '232.0.5.2',
+  'VIDEO_INPUT',
+  116,
+  117,
+  'admin',
+  0 ]
+[ 65,
+  'ip-addr',
+  '232.0.5.1',
+  'VIDEO_INPUT_ES-MULTI-IP-ADDR',
+  118,
+  119,
+  'admin',
+  0 ]
+[ 66,
+  'port',
+  '12200',
+  'VIDEO_INPUT_ES-MULTI-IP-ADDR',
+  120,
+  121,
+  'admin',
+  0 ]
+[ 67, 'mute', '0', 'VIDEO_INPUT', 122, 123, 'admin', 0 ]
+[ 68, 'videos', '1', 'VIDEO_OUTPUT', 124, 0, 'user', 0 ]
+[ 69, 'resolution', '720p', 'VIDEO_OUTPUT', 125, 0, 'user', 0 ]
+[ 70, 'frame-rate', '30', 'VIDEO_OUTPUT', 126, 0, 'user', 0 ]
+[ 71, 'edid', '77AABBCCDDEEFF', 'VIDEO_OUTPUT', 127, 0, 'user', 0 ]
+[ 72, 'feature-enable', '1', 'COMP-LAYOUT', 151, 152, 'admin', 0 ]
+[ 73, 'available-layout', '1', 'COMP-LAYOUT', 153, 0, 'user', 0 ]
+[ 74, 'enable-pip', '0', 'COMP-LAYOUT', 154, 155, 'admin', 0 ]
+[ 75, 'pip-loc', '100', 'COMP-LAYOUT', 156, 157, 'admin' ]
+[ 76, 'x_location', '100', 'COMP-LAYOUT', 158, 159, 'admin', 0 ]
+[ 77, 'y_location', '100', 'COMP-LAYOUT', 160, 161, 'admin', 0 ]
+[ 78, 'enable-pap', '0', 'COMP-LAYOUT', 162, 163, 'admin', 0 ]
+[ 79, 'swap-pap', '0', 'COMP-LAYOUT', 0, 164, 'user', 0 ]
+[ 80, 'feature-enable', '1', 'OVERLAY', 201, 202, 'admin', 0 ]
+[ 81, 'max-images', '5', 'OVERLAY', 203, 204, 'admin', 0 ]
+[ 82, 'enable', '1', 'OVERLAY', 205, 206, 'admin', 0 ]
+[ 83, 'upload-image', 'mute.jpg', 'OVERLAY', 0, 207, 'admin', 0 ]
+[ 84,
+  'file_name',
+  'overlay.jpg',
+  'OVERLAY_UPLOAD-IMAGE',
+  0,
+  208,
+  'admin',
+  0 ]
+[ 85, 'id', 'overlay001', 'OVERLAY_UPLOAD-IMAGE', 0, 209, 'admin', 0 ]
+[ 86, 'height', '100', 'OVERLAY_UPLOAD-IMAGE', 0, 210, 'admin', 0 ]
+[ 87, 'width', '100', 'OVERLAY_UPLOAD-IMAGE', 0, 211, 'admin', 0 ]
+[ 88, 'upload-mute-image', 'mute.jpg', 'OVERLAY', 0, 212, 'admin', 0 ]
+[ 89,
+  'file_name',
+  'mute.jpg',
+  'OVERLAY_UPLOAD-MUTE-IMAGE',
+  0,
+  213,
+  'admin',
+  0 ]
+[ 90,
+  'height',
+  '100',
+  'OVERLAY_UPLOAD-MUTE-IMAGE',
+  0,
+  214,
+  'admin',
+  0 ]
+[ 91,
+  'width',
+  '100',
+  'OVERLAY_UPLOAD-MUTE-IMAGE',
+  0,
+  215,
+  'admin',
+  0 ]
+[ 92, 'del-image', 'overlay001', 'OVERLAY', 0, 216, 'admin', 0 ]
+[ 93, 'id', '0', 'OVERLAY', 0, 217, 'admin', 0 ]
+[ 94, 'image-params', 'OVERLAY_0', 'OVERLAY_0', 218, 219, 'admin', 0 ]
+[ 95, 'id', '0', 'OVERLAY_0', 220, 221, 'admin', 0 ]
+[ 96, 'x_location', '100', 'OVERLAY_0', 222, 223, 'admin', 0 ]
+[ 97, 'y_location', '100', 'OVERLAY_0', 224, 225, 'admin', 0 ]
+[ 98, 'enable', '0', 'OVERLAY_0', 226, 227, 'admin', 0 ]
+[ 99, 'height', '200', 'OVERLAY_0', 228, 229, 'admin', 0 ]
+[ 100, 'width', '200', 'OVERLAY_0', 230, 231, 'admin', 0 ]
+[ 101, 'image-params', '1', 'OVERLAY_1', 232, 233, 'admin', 0 ]
+[ 102, 'id', '1', 'OVERLAY_1', 234, 235, 'admin', 0 ]
+[ 103, 'x_location', '100', 'OVERLAY_1', 236, 237, 'admin', 0 ]
+[ 104, 'y_location', '100', 'OVERLAY_1', 238, 239, 'admin', 0 ]
+[ 105, 'enable', '1', 'OVERLAY_1', 240, 241, 'admin', 0 ]
+[ 106, 'height', '200', 'OVERLAY_1', 242, 243, 'admin', 0 ]
+[ 107, 'width', '200', 'OVERLAY_1', 244, 245, 'admin', 0 ]
+[ 108, 'image-params', '2', 'OVERLAY_2', 246, 247, 'admin', 0 ]
+[ 109, 'id', '2', 'OVERLAY_2', 248, 249, 'admin', 0 ]
+[ 110, 'x_location', '100', 'OVERLAY_2', 250, 251, 'admin', 0 ]
+[ 111, 'y_location', '100', 'OVERLAY_2', 252, 253, 'admin', 0 ]
+[ 112, 'enable', '1', 'OVERLAY_2', 254, 255, 'admin', 0 ]
+[ 113, 'height', '200', 'OVERLAY_2', 256, 257, 'admin', 0 ]
+[ 114, 'width', '200', 'OVERLAY_2', 258, 259, 'admin', 0 ]
+[ 115, 'image-params', '3', 'OVERLAY_3', 260, 261, 'admin', 0 ]
+[ 116, 'id', '3', 'OVERLAY_3', 262, 263, 'admin', 0 ]
+[ 117, 'x_location', '100', 'OVERLAY_3', 264, 265, 'admin', 0 ]
+[ 118, 'y_location', '100', 'OVERLAY_3', 266, 267, 'admin', 0 ]
+[ 119, 'enable', '1', 'OVERLAY_3', 268, 269, 'admin', 0 ]
+[ 120, 'height', '200', 'OVERLAY_3', 270, 271, 'admin', 0 ]
+[ 121, 'width', '200', 'OVERLAY_3', 272, 273, 'admin', 0 ]
+[ 122, 'image-params', '4', 'OVERLAY_4', 274, 275, 'admin', 0 ]
+[ 123, 'id', '4', 'OVERLAY_4', 276, 277, 'admin', 0 ]
+[ 124, 'x_location', '100', 'OVERLAY_4', 278, 279, 'admin', 0 ]
+[ 125, 'y_location', '100', 'OVERLAY_4', 280, 281, 'admin', 0 ]
+[ 126, 'enable', '1', 'OVERLAY_4', 282, 283, 'admin', 0 ]
+[ 127, 'height', '200', 'OVERLAY_4', 284, 285, 'admin', 0 ]
+[ 128, 'width', '200', 'OVERLAY_4', 286, 287, 'admin', 0 ]
+[ 129, 'image-params', '5', 'OVERLAY_5', 288, 289, 'admin', 0 ]
+[ 130, 'id', '5', 'OVERLAY_5', 290, 291, 'admin', 0 ]
+[ 131, 'x_location', '100', 'OVERLAY_5', 292, 293, 'admin', 0 ]
+[ 132, 'y_location', '100', 'OVERLAY_5', 294, 295, 'admin', 0 ]
+[ 133, 'enable', '1', 'OVERLAY_5', 296, 297, 'admin', 0 ]
+[ 134, 'height', '200', 'OVERLAY_5', 298, 299, 'admin', 0 ]
+[ 135, 'width', '200', 'OVERLAY_5', 300, 301, 'admin', 0 ]
+[ 136, 'image-params', '6', 'OVERLAY_6', 302, 303, 'admin', 0 ]
+[ 137, 'id', '6', 'OVERLAY_6', 304, 305, 'admin', 0 ]
+[ 138, 'x_location', '100', 'OVERLAY_6', 306, 307, 'admin', 0 ]
+[ 139, 'y_location', '100', 'OVERLAY_6', 308, 309, 'admin', 0 ]
+[ 140, 'enable', '1', 'OVERLAY_6', 310, 311, 'admin', 0 ]
+[ 141, 'height', '200', 'OVERLAY_6', 312, 313, 'admin', 0 ]
+[ 142, 'width', '200', 'OVERLAY_6', 314, 315, 'admin', 0 ]
+[ 143, 'image-params', '7', 'OVERLAY_7', 316, 317, 'admin', 0 ]
+[ 144, 'id', '7', 'OVERLAY_7', 318, 319, 'admin', 0 ]
+[ 145, 'x_location', '100', 'OVERLAY_7', 320, 322, 'admin', 0 ]
+[ 146, 'y_location', '100', 'OVERLAY_7', 323, 324, 'admin', 0 ]
+[ 147, 'enable', '1', 'OVERLAY_7', 325, 326, 'admin', 0 ]
+[ 148, 'height', '200', 'OVERLAY_7', 327, 328, 'admin', 0 ]
+[ 149, 'width', '200', 'OVERLAY_7', 329, 330, 'admin', 0 ]
+[ 150, 'valid-input', '1', 'AUDIO_INPUT', 351, 0, 'user', 0 ]
+[ 151, 'enable-rx', '1', 'AUDIO_INPUT', 352, 353, 'user', 0 ]
+[ 152, 'fine-gain', '2', 'AUDIO_INPUT', 354, 355, 'user', 0 ]
+[ 153, 'coarse-gain', '25', 'AUDIO_INPUT', 356, 357, 'user', 0 ]
+[ 154, 'mute', '0', 'AUDIO_INPUT', 358, 359, 'user', 0 ]
+[ 155, 'loop-back', '0', 'AUDIO_INPUT', 360, 361, 'user', 0 ]
+[ 156,
+  'rx-mult-ip-addr',
+  '235.0.5.3',
+  'AUDIO_INPUT',
+  362,
+  363,
+  'user',
+  0 ]
+[ 157,
+  'ip-addr',
+  '232.0.5.1',
+  'AUDIO_OUTPUT_RX-MULT-IP-ADDR',
+  364,
+  365,
+  'user',
+  0 ]
+[ 158,
+  'port',
+  '13100',
+  'AUDIO_OUTPUT_RX-MULT-IP-ADDR',
+  366,
+  367,
+  'user',
+  0 ]
+[ 159, 'enable-tx', '1', 'AUDIO_OUTPUT', 368, 369, 'user', 0 ]
+[ 160,
+  'tx-mult-ip-addr',
+  '235.0.5.4',
+  'AUDIO_OUTPUT',
+  370,
+  371,
+  'user',
+  0 ]
+[ 161,
+  'ip-addr',
+  '232.0.5.1',
+  'AUDIO_OUTPUT_TX-MULT-IP-ADDR',
+  372,
+  373,
+  'user',
+  0 ]
+[ 162,
+  'port',
+  '13200',
+  'AUDIO_OUTPUT_TX-MULT-IP-ADDR',
+  374,
+  375,
+  'user',
+  0 ]
+[ 163, 'fine-gain', '2', 'AUDIO_OUTPUT', 376, 377, 'user', 0 ]
+[ 164, 'coarse-gain', '25', 'AUDIO_OUTPUT', 378, 379, 'user', 0 ]
+[ 165, 'mute', '0', 'AUDIO_OUTPUT', 380, 381, 'user', 0 ]
+[ 166, 'fade', '0', 'AUDIO_OUTPUT', 382, 383, 'user', 0 ]
+[ 167, 'feature-enable', '1', 'KVM', 401, 402, 'user', 0 ]
+[ 168, 'usb-link-status', '1', 'KVM', 403, 404, 'user', 0 ]
+[ 169, 'enable', '1', 'KVM', 405, 406, 'user', 0 ]
+[ 170, 'encoder', 'ENCODER-001', 'KVM', 407, 408, 'user', 0 ]
+[ 171, 'default-encoder', 'ENCODER-001', 'KVM', 409, 410, 'user', 0 ]
+[ 172, 'key-code', '256', 'KVM', 411, 412, 'user', 0 ]
+[ 173, 'feature-enable', '1', 'RS232', 451, 452, 'user', 0 ]
+[ 174, 'get-devices', 'database_name', 'RS232', 453, 454, 'user', 0 ]
+[ 175, 'open-connection', 'TTY0', 'RS232', 455, 456, 'user', 0 ]
+[ 176, 'close-connection', 'TTY1', 'RS232', 457, 458, 'user', 0 ]
+[ 177, 'flush', 'TTY2', 'RS232', 459, 460, 'user', 0 ]
+[ 178, 'params', '115200', 'RS232_0_PARAMS', 461, 462, 'user', 0 ]
+[ 179, 'baud_rate', '115200', 'RS232_0_PARAMS', 463, 464, 'user', 0 ]
+[ 180, 'data_bits', '8', 'RS232_0_PARAMS', 465, 466, 'user', 0 ]
+[ 181, 'parity', 'even', 'RS232_0_PARAMS', 467, 468, 'user', 0 ]
+[ 182, 'stop_bit', '1080p', 'RS232_0_PARAMS', 469, 470, 'user', 0 ]
+[ 183,
+  'flow_control',
+  'Hardware',
+  'RS232_0_PARAMS',
+  471,
+  472,
+  'user',
+  0 ]
+[ 184, 'port', 'TTY0', 'RS232_0_PARAMS', 473, 474, 'user', 0 ]
+[ 185, 'send', 'RS232', 'RS232_0_SEND', 475, 476, 'user', 0 ]
+[ 186, 'data', 'read_register', 'RS232_0_SEND', 477, 478, 'user', 0 ]
+[ 187, 'port', 'TTY0', 'RS232_0_SEND', 479, 480, 'user', 0 ]
+[ 188, 'params', '115200', 'RS232_1_PARAMS', 481, 482, 'user', 0 ]
+[ 189, 'baud_rate', '115200', 'RS232_1_PARAMS', 483, 484, 'user', 0 ]
+[ 190, 'data_bits', '8', 'RS232_1_PARAMS', 485, 486, 'user', 0 ]
+[ 191, 'parity', 'even', 'RS232_1_PARAMS', 487, 488, 'user', 0 ]
+[ 192, 'stop_bit', '1080p', 'RS232_1_PARAMS', 489, 490, 'user', 0 ]
+[ 193,
+  'flow_control',
+  'Hardware',
+  'RS232_1_PARAMS',
+  491,
+  492,
+  'user',
+  0 ]
+[ 194, 'port', 'TTY0', 'RS232_1_PARAMS', 493, 494, 'user', 0 ]
+[ 195, 'send', 'RS232', 'RS232_1_SEND', 495, 496, 'user', 0 ]
+[ 196, 'data', 'read_register', 'RS232_1_SEND', 497, 498, 'user', 0 ]
+[ 197, 'port', 'TTY0', 'RS232_1_SEND', 499, 500, 'user', 0 ]
+[ 198,
+  'data-in-notification',
+  'database_name',
+  'RS232',
+  501,
+  502,
+  'user',
+  0 ]
+[ 199, 'read-existing', 'database_name', 'RS232', 503, 0, 'user', 0 ]
+[ 200, 'read-line', 'database_name', 'RS232', 504, 0, 'user', 0 ]
+[ 201, '0', '0', 'FPGA-REGISTER', 701, 702, 'user', 1 ]
+[ 202, '1', '1', 'FPGA-REGISTER', 701, 702, 'user', 1 ]
+[ 203, '2', '2', 'FPGA-REGISTER', 701, 702, 'user', 1 ]
+[ 204, '3', '3', 'FPGA-REGISTER', 701, 702, 'user', 1 ]
+[ 205, '4', '4', 'FPGA-REGISTER', 701, 702, 'user', 1 ]
+[ 206, '5', '5', 'FPGA-REGISTER', 701, 702, 'user', 1 ]
+[ 207, '6', '6', 'FPGA-REGISTER', 701, 702, 'user', 1 ]
+[ 208, '7', '7', 'FPGA-REGISTER', 701, 702, 'user', 1 ]
+[ 209, '8', '8', 'FPGA-REGISTER', 701, 702, 'user', 1 ]
+[ 210, '9', '9', 'FPGA-REGISTER', 701, 702, 'user', 1 ]
+[ 211, '10', '10', 'FPGA-REGISTER', 701, 702, 'user', 1 ]
+[ 212, '11', '11', 'FPGA-REGISTER', 701, 702, 'user', 1 ]
+[ 213, '12', '12', 'FPGA-REGISTER', 701, 702, 'user', 1 ]
+[ 214, '13', '13', 'FPGA-REGISTER', 701, 702, 'user', 1 ]
+[ 215, '14', '14', 'FPGA-REGISTER', 701, 702, 'user', 1 ]
+[ 216, '15', '15', 'FPGA-REGISTER', 701, 702, 'user', 1 ]
+[ 217, '16', '16', 'FPGA-REGISTER', 701, 702, 'user', 1 ]
+[ 218, '17', '17', 'FPGA-REGISTER', 701, 702, 'user', 1 ]
+[ 219, '18', '18', 'FPGA-REGISTER', 701, 702, 'user', 1 ]
+[ 220, '19', '19', 'FPGA-REGISTER', 701, 702, 'user', 1 ]
+[ 221, '20', '20', 'FPGA-REGISTER', 701, 702, 'user', 1 ]
+[ 222, '21', '21', 'FPGA-REGISTER', 701, 702, 'user', 1 ]
+[ 223, '22', '22', 'FPGA-REGISTER', 701, 702, 'user', 1 ]
+[ 224, '23', '23', 'FPGA-REGISTER', 701, 702, 'user', 1 ]
+[ 225, '24', '24', 'FPGA-REGISTER', 701, 702, 'user', 1 ]
+[ 226, '25', '25', 'FPGA-REGISTER', 701, 702, 'user', 1 ]
+[ 227, '26', '26', 'FPGA-REGISTER', 701, 702, 'user', 1 ]
+[ 228, '27', '27', 'FPGA-REGISTER', 701, 702, 'user', 1 ]
+[ 229, '28', '28', 'FPGA-REGISTER', 701, 702, 'user', 1 ]
+[ 230, '29', '29', 'FPGA-REGISTER', 701, 702, 'user', 1 ]
+[ 231, '30', '30', 'FPGA-REGISTER', 701, 702, 'user', 1 ]
+[ 232, '31', '31', 'FPGA-REGISTER', 701, 702, 'user', 1 ]
+[ 233, '32', '32', 'FPGA-REGISTER', 701, 702, 'user', 1 ]
+[ 234, '33', '33', 'FPGA-REGISTER', 701, 702, 'user', 1 ]
+[ 235, '34', '34', 'FPGA-REGISTER', 701, 702, 'user', 1 ]
+[ 236, '35', '35', 'FPGA-REGISTER', 701, 702, 'user', 1 ]
+[ 237, '36', '36', 'FPGA-REGISTER', 701, 702, 'user', 1 ]
+[ 238, '37', '37', 'FPGA-REGISTER', 701, 702, 'user', 1 ]
+[ 239, '38', '38', 'FPGA-REGISTER', 701, 702, 'user', 1 ]
+[ 240, '39', '39', 'FPGA-REGISTER', 701, 702, 'user', 1 ]
+[ 241, '40', '40', 'FPGA-REGISTER', 701, 702, 'user', 1 ]
+[ 242, '41', '41', 'FPGA-REGISTER', 701, 702, 'user', 1 ]
+[ 243, '42', '42', 'FPGA-REGISTER', 701, 702, 'user', 1 ]
+[ 244, '43', '43', 'FPGA-REGISTER', 701, 702, 'user', 1 ]
+[ 245, '44', '44', 'FPGA-REGISTER', 701, 702, 'user', 1 ]
+[ 246, '45', '45', 'FPGA-REGISTER', 701, 702, 'user', 1 ]
+[ 247, '46', '46', 'FPGA-REGISTER', 701, 702, 'user', 1 ]
+[ 248, '47', '47', 'FPGA-REGISTER', 701, 702, 'user', 1 ]
+[ 249, '48', '48', 'FPGA-REGISTER', 701, 702, 'user', 1 ]
+[ 250, '49', '49', 'FPGA-REGISTER', 701, 702, 'user', 1 ]
+[ 251, '50', '50', 'FPGA-REGISTER', 701, 702, 'user', 1 ]
+[ 252, '51', '51', 'FPGA-REGISTER', 701, 702, 'user', 1 ]
+[ 253, '52', '52', 'FPGA-REGISTER', 701, 702, 'user', 1 ]
+[ 254, '53', '53', 'FPGA-REGISTER', 701, 702, 'user', 1 ]
+[ 255, '54', '54', 'FPGA-REGISTER', 701, 702, 'user', 1 ]
+[ 256, '55', '55', 'FPGA-REGISTER', 701, 702, 'user', 1 ]
+[ 257, '56', '56', 'FPGA-REGISTER', 701, 702, 'user', 1 ]
+[ 258, '57', '57', 'FPGA-REGISTER', 701, 702, 'user', 1 ]
+[ 259, '58', '58', 'FPGA-REGISTER', 701, 702, 'user', 1 ]
+[ 260, '59', '59', 'FPGA-REGISTER', 701, 702, 'user', 1 ]
+[ 261, '60', '60', 'FPGA-REGISTER', 701, 702, 'user', 1 ]
+[ 262, '61', '61', 'FPGA-REGISTER', 701, 702, 'user', 1 ]
+[ 263, '62', '62', 'FPGA-REGISTER', 701, 702, 'user', 1 ]
+[ 264, '63', '63', 'FPGA-REGISTER', 701, 702, 'user', 1 ]
+[ 265, '64', '64', 'FPGA-REGISTER', 701, 702, 'user', 1 ]
+[ 266, '65', '65', 'FPGA-REGISTER', 701, 702, 'user', 1 ]
+[ 267, '66', '66', 'FPGA-REGISTER', 701, 702, 'user', 1 ]
+[ 268, '67', '67', 'FPGA-REGISTER', 701, 702, 'user', 1 ]
+[ 269, '68', '68', 'FPGA-REGISTER', 701, 702, 'user', 1 ]
+[ 270, '69', '69', 'FPGA-REGISTER', 701, 702, 'user', 1 ]
+[ 271, '70', '70', 'FPGA-REGISTER', 701, 702, 'user', 1 ]
+[ 272, '71', '71', 'FPGA-REGISTER', 701, 702, 'user', 1 ]
+[ 273, '72', '72', 'FPGA-REGISTER', 701, 702, 'user', 1 ]
+[ 274, '73', '73', 'FPGA-REGISTER', 701, 702, 'user', 1 ]
+[ 275, '74', '74', 'FPGA-REGISTER', 701, 702, 'user', 1 ]
+[ 276, '75', '75', 'FPGA-REGISTER', 701, 702, 'user', 1 ]
+[ 277, '76', '76', 'FPGA-REGISTER', 701, 702, 'user', 1 ]
+[ 278, '77', '77', 'FPGA-REGISTER', 701, 702, 'user', 1 ]
+[ 279, '78', '78', 'FPGA-REGISTER', 701, 702, 'user', 1 ]
+[ 280, '79', '79', 'FPGA-REGISTER', 701, 702, 'user', 1 ]
+[ 281, '80', '80', 'FPGA-REGISTER', 701, 702, 'user', 1 ]
+[ 282, '81', '81', 'FPGA-REGISTER', 701, 702, 'user', 1 ]
+[ 283, '82', '82', 'FPGA-REGISTER', 701, 702, 'user', 1 ]
+[ 284, '83', '83', 'FPGA-REGISTER', 701, 702, 'user', 1 ]
+[ 285, '84', '84', 'FPGA-REGISTER', 701, 702, 'user', 1 ]
+[ 286, '85', '85', 'FPGA-REGISTER', 701, 702, 'user', 1 ]
+[ 287, '86', '86', 'FPGA-REGISTER', 701, 702, 'user', 1 ]
+[ 288, '87', '87', 'FPGA-REGISTER', 701, 702, 'user', 1 ]
+[ 289, '88', '88', 'FPGA-REGISTER', 701, 702, 'user', 1 ]
+[ 290, '89', '89', 'FPGA-REGISTER', 701, 702, 'user', 1 ]
+[ 291, '90', '90', 'FPGA-REGISTER', 701, 702, 'user', 1 ]
+[ 292, '91', '91', 'FPGA-REGISTER', 701, 702, 'user', 1 ]
+[ 293, '92', '92', 'FPGA-REGISTER', 701, 702, 'user', 1 ]
+[ 294, '93', '93', 'FPGA-REGISTER', 701, 702, 'user', 1 ]
+[ 295, '94', '94', 'FPGA-REGISTER', 701, 702, 'user', 1 ]
+[ 296, '95', '95', 'FPGA-REGISTER', 701, 702, 'user', 1 ]
+[ 297, '96', '96', 'FPGA-REGISTER', 701, 702, 'user', 1 ]
+[ 298, '97', '97', 'FPGA-REGISTER', 701, 702, 'user', 1 ]
+[ 299, '98', '98', 'FPGA-REGISTER', 701, 702, 'user', 1 ]
+[ 300, '99', '99', 'FPGA-REGISTER', 701, 702, 'user', 1 ]
+[ 301, '100', '100', 'FPGA-REGISTER', 701, 702, 'user', 1 ]
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+createTable 
+insertRows 
+insertRows 
+insertRows 
+insertRows 
+insertRows 
+insertRows 
+insertRows 
+insertRows 
+insertRows 
+insertRows 
+insertRows 
+insertRows 
+insertRows 
+insertRows 
+insertRows 
+insertRows 
+insertRows 
+insertRows 
+insertRows 
+insertRows 
+insertRows 
+insertRows 
+insertRows 
+insertRows 

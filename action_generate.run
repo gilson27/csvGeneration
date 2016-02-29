@@ -1,0 +1,7 @@
+#!/bin/sh
+date
+CSV_ROOT=$(pwd)
+cd $CSV_ROOT/DECODER/
+$CSV_ROOT/DECODER/decoder_automate.run
+cd $CSV_ROOT/ENCODER/
+$CSV_ROOT/ENCODER/encoder_automate.run

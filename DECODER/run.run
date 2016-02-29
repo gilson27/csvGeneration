@@ -1,0 +1,11 @@
+#!/bin/sh
+DECODER_GENERATOR = $(pwd)
+pwd
+cp -f $DECODER_GENERATOR/uri_levels.js  /home/gilly/Desktop/ARM_APP/DECODER/API/alpha/routes/
+cp -f $DECODER_GENERATOR/decoder.db  /home/gilly/Desktop/ARM_APP/DECODER/API/alpha/
+cp -f $DECODER_GENERATOR/opcode_switch.js /home/gilly/Desktop/ARM_APP/DECODER/API/verification/socket_emulation/
+cp -f $DECODER_GENERATOR/opcode_object.js /home/gilly/Desktop/ARM_APP/DECODER/API/verification/socket_emulation/
+
+
+
+

@@ -1,0 +1,5504 @@
+Fri Feb 26 12:34:22 IST 2016
+Let's Begin
+done
+0
+44
+in case 0system
+in value ------------------firmware
+in case 1firmware
+in value ------------------fpga-version
+in case 2fpga-version
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+dataType
+l=======================2
+1
+44
+in value ------------------processor-version
+in case 2processor-version
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+dataType
+l=======================2
+2
+44
+in value ------------------system-version
+in case 2system-version
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+dataType
+l=======================2
+3
+44
+in value ------------------hw-version
+in case 2hw-version
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+dataType
+l=======================2
+4
+44
+in value ------------------processor-field-upgrade
+in case 2processor-field-upgrade
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+5
+44
+in value ------------------file_name
+in case 3file_name
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+dataType
+l=======================2
+6
+44
+in value ------------------location
+in case 3location
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+dataType
+l=======================2
+7
+44
+in value ------------------fpga-field-upgrade
+in case 2fpga-field-upgrade
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+8
+44
+in value ------------------file_name
+in case 3file_name
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+dataType
+l=======================2
+9
+44
+in value ------------------location
+in case 3location
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+dataType
+l=======================2
+10
+44
+in value ------------------fpga-upgrade-status
+in case 2fpga-upgrade-status
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+dataType
+l=======================2
+11
+44
+in value ------------------processor-upgrade-status
+in case 2processor-upgrade-status
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+dataType
+l=======================2
+12
+44
+in value ------------------switch
+in case 2switch
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+LIST
+dataType
+l=======================3
+13
+44
+in value ------------------serial-no
+in case 2serial-no
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+TYPE
+dataType
+l=======================3
+14
+44
+in value ------------------network
+in case 1network
+in value ------------------ip-settings
+in case 2ip-settings
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+15
+44
+in value ------------------ip-addr
+in case 3ip-addr
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+TYPE
+dataType
+l=======================3
+16
+44
+in value ------------------subnet-mask
+in case 3subnet-mask
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+TYPE
+dataType
+l=======================3
+17
+44
+in value ------------------gateway
+in case 3gateway
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+TYPE
+dataType
+l=======================3
+18
+44
+in value ------------------tos
+in case 2tos
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+19
+44
+in value ------------------mtu-size
+in case 2mtu-size
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+20
+44
+in value ------------------mode
+in case 2mode
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+LIST
+dataType
+l=======================3
+21
+44
+in value ------------------notify-ip-addr
+in case 2notify-ip-addr
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+TYPE
+dataType
+l=======================3
+22
+44
+in value ------------------notify-port
+in case 2notify-port
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+23
+44
+in value ------------------port
+in case 3port
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+dataType
+l=======================2
+24
+44
+in value ------------------image-server-ip-addr
+in case 2image-server-ip-addr
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+TYPE
+dataType
+l=======================3
+25
+44
+in value ------------------eth-interfaces
+in case 2eth-interfaces
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+dataType
+l=======================2
+26
+44
+in value ------------------diagnostics
+in case 1diagnostics
+in value ------------------hw-status
+in case 2hw-status
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+LIST
+dataType
+l=======================3
+27
+44
+in value ------------------temperature-threshold
+in case 2temperature-threshold
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+dataType
+l=======================2
+28
+44
+in value ------------------temperature
+in case 2temperature
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+dataType
+l=======================2
+29
+44
+in value ------------------device-log
+in case 2device-log
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+dataType
+l=======================2
+30
+44
+in value ------------------device-log-level
+in case 2device-log-level
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+31
+44
+in value ------------------device-log-facility
+in case 2device-log-facility
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+32
+44
+in value ------------------dev-log-ip-addr
+in case 2dev-log-ip-addr
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+TYPE
+dataType
+l=======================3
+33
+44
+in value ------------------splash-scrn
+in case 1splash-scrn
+in value ------------------enable
+in case 2enable
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+34
+44
+in value ------------------upload
+in case 2upload
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+35
+44
+in value ------------------file_name
+in case 3file_name
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+dataType
+l=======================2
+36
+44
+in value ------------------location
+in case 3location
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+dataType
+l=======================2
+37
+44
+in value ------------------get-name
+in case 2get-name
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+dataType
+l=======================2
+38
+44
+in value ------------------reset
+in case 1reset
+in value ------------------soft-reset
+in case 2soft-reset
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+LIST
+dataType
+l=======================3
+39
+44
+in value ------------------configuration-reset
+in case 2configuration-reset
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+LIST
+dataType
+l=======================3
+40
+44
+in value ------------------factory-reset
+in case 2factory-reset
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+LIST
+dataType
+l=======================3
+41
+44
+in value ------------------reboot
+in case 1reboot
+in value ------------------value
+in handle value 2
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+LIST
+dataType
+l=======================3
+42
+44
+in value ------------------authentication
+in case 1authentication
+in value ------------------user
+in case 2user
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+dataType
+l=======================2
+43
+44
+in value ------------------user-pwd
+in case 2user-pwd
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+dataType
+l=======================2
+44
+44
+in value ------------------admin
+in case 2admin
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+dataType
+l=======================2
+45
+44
+in value ------------------admin-pwd
+in case 2admin-pwd
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+dataType
+l=======================2
+46
+44
+in value ------------------identification
+in case 1identification
+in value ------------------id
+in case 2id
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+dataType
+l=======================2
+47
+44
+in value ------------------video-mode
+in case 1video-mode
+in value ------------------enable-3d
+in case 2enable-3d
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+48
+44
+in value ------------------config-file
+in case 1config-file
+in value ------------------upload
+in case 2upload
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+49
+44
+in value ------------------file-name
+in case 3file-name
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+dataType
+l=======================2
+50
+44
+in value ------------------location
+in case 3location
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+dataType
+l=======================2
+51
+44
+in value ------------------download
+in case 2download
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+dataType
+l=======================2
+52
+44
+in value ------------------delete
+in case 2delete
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+53
+44
+in value ------------------file-name
+in case 3file-name
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+dataType
+l=======================2
+54
+44
+in value ------------------update
+in case 2update
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+dataType
+l=======================2
+55
+44
+in value ------------------mdns
+in case 1mdns
+in value ------------------add-key
+in case 2add-key
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+56
+44
+in value ------------------key
+in case 3key
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+dataType
+l=======================2
+57
+44
+in value ------------------data-value
+in case 3data-value
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+dataType
+l=======================2
+58
+44
+in value ------------------delete-key
+in case 2delete-key
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+dataType
+l=======================2
+59
+44
+in value ------------------read-key
+in case 2read-key
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+dataType
+l=======================2
+60
+44
+in value ------------------edit-key
+in case 2edit-key
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+61
+44
+in value ------------------key
+in case 3key
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+dataType
+l=======================2
+62
+44
+in value ------------------data-value
+in case 3data-value
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+dataType
+l=======================2
+63
+44
+in value ------------------misc
+in case 1misc
+in value ------------------board-type
+in case 2board-type
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+LIST
+dataType
+l=======================3
+64
+44
+in value ------------------led-on-time
+in case 2led-on-time
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+65
+44
+in value ------------------led-off-time
+in case 2led-off-time
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+66
+44
+in value ------------------http-mode
+in case 2http-mode
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+67
+44
+in value ------------------enable-encryption
+in case 2enable-encryption
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+68
+44
+in value ------------------rtc
+in case 2rtc
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+69
+44
+in value ------------------year
+in case 3year
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+70
+44
+in value ------------------month
+in case 3month
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+71
+44
+in value ------------------day
+in case 3day
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+72
+44
+in value ------------------hour
+in case 3hour
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+73
+44
+in value ------------------min
+in case 3min
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+74
+44
+in value ------------------sec
+in case 3sec
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+75
+44
+in value ------------------ftp-mode
+in case 2ftp-mode
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+76
+44
+in value ------------------ftp-auth
+in case 2ftp-auth
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+77
+44
+in value ------------------username
+in case 3username
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+dataType
+l=======================2
+78
+44
+in value ------------------password
+in case 3password
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+dataType
+l=======================2
+79
+44
+in value ------------------acc-debounce-time
+in case 2acc-debounce-time
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+80
+44
+in value ------------------acc1-reaction
+in case 2acc1-reaction
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+LIST
+dataType
+l=======================3
+81
+44
+in value ------------------acc2-reaction
+in case 2acc2-reaction
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+LIST
+dataType
+l=======================3
+82
+44
+in value ------------------acc1-notify
+in case 2acc1-notify
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+83
+44
+in value ------------------acc2-notify
+in case 2acc2-notify
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+84
+44
+in case 0video
+in value ------------------input
+in case 1input
+in value ------------------videos
+in case 2videos
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+dataType
+l=======================2
+85
+44
+in value ------------------resolution
+in case 2resolution
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+dataType
+l=======================2
+86
+44
+in value ------------------frame-rate
+in case 2frame-rate
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+dataType
+l=======================2
+87
+44
+in value ------------------valid-input
+in case 2valid-input
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+dataType
+l=======================2
+88
+44
+in value ------------------cable-presence
+in case 2cable-presence
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+dataType
+l=======================2
+89
+44
+in value ------------------analog-video
+in case 2analog-video
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+90
+44
+in value ------------------video-interface
+in case 2video-interface
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+91
+44
+in value ------------------enable-color-bar
+in case 2enable-color-bar
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+92
+44
+in value ------------------enable-manual-rx-phy-settings
+in case 2enable-manual-rx-phy-settings
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+93
+44
+in value ------------------rx-phy-parameters
+in case 2rx-phy-parameters
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+94
+44
+in value ------------------y-dc-bias
+in case 3y-dc-bias
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+95
+44
+in value ------------------cr-dc-bias
+in case 3cr-dc-bias
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+96
+44
+in value ------------------cb-dc-bias
+in case 3cb-dc-bias
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+97
+44
+in value ------------------video-gain
+in case 3video-gain
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+98
+44
+in value ------------------chroma-gain
+in case 3chroma-gain
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+99
+44
+in value ------------------hue
+in case 3hue
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+100
+44
+in value ------------------pedestal-enable
+in case 3pedestal-enable
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+101
+44
+in value ------------------y-gain
+in case 3y-gain
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+102
+44
+in value ------------------cr-gain
+in case 3cr-gain
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+103
+44
+in value ------------------cb-gain
+in case 3cb-gain
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+104
+44
+in value ------------------internal-video-generator-enable
+in case 3internal-video-generator-enable
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+105
+44
+in value ------------------output
+in case 1output
+in value ------------------streams
+in case 2streams
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+106
+44
+in value ------------------frame-rate
+in case 2frame-rate
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+107
+44
+in value ------------------hqll-tx-status
+in case 2hqll-tx-status
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+108
+44
+in value ------------------pes-tx-status
+in case 2pes-tx-status
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+109
+44
+in value ------------------ses-tx-status
+in case 2ses-tx-status
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+110
+44
+in value ------------------enable-hqll-tx
+in case 2enable-hqll-tx
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+111
+44
+in value ------------------enable-pes-tx
+in case 2enable-pes-tx
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+112
+44
+in value ------------------enable-ses-tx
+in case 2enable-ses-tx
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+113
+44
+in value ------------------pes-resolution
+in case 2pes-resolution
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+LIST
+dataType
+l=======================3
+114
+44
+in value ------------------ses-resolution
+in case 2ses-resolution
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+LIST
+dataType
+l=======================3
+115
+44
+in value ------------------pes-bitrate
+in case 2pes-bitrate
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+116
+44
+in value ------------------ses-bitrate
+in case 2ses-bitrate
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+117
+44
+in value ------------------hqll-mult-ip-addr
+in case 2hqll-mult-ip-addr
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+118
+44
+in value ------------------ip-addr
+in case 3ip-addr
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+TYPE
+dataType
+l=======================3
+119
+44
+in value ------------------port
+in case 3port
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+dataType
+l=======================2
+120
+44
+in value ------------------pes-mult-ip-addr
+in case 2pes-mult-ip-addr
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+121
+44
+in value ------------------ip-addr
+in case 3ip-addr
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+TYPE
+dataType
+l=======================3
+122
+44
+in value ------------------port
+in case 3port
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+dataType
+l=======================2
+123
+44
+in value ------------------ses-mult-ip-addr
+in case 2ses-mult-ip-addr
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+124
+44
+in value ------------------ip-addr
+in case 3ip-addr
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+TYPE
+dataType
+l=======================3
+125
+44
+in value ------------------port
+in case 3port
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+dataType
+l=======================2
+126
+44
+in value ------------------pes-rtp-mode
+in case 2pes-rtp-mode
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+127
+44
+in value ------------------enable-pes-msg-auth
+in case 2enable-pes-msg-auth
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+128
+44
+in value ------------------ses-rtp-mode
+in case 2ses-rtp-mode
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+129
+44
+in value ------------------enable-ses-msg-auth
+in case 2enable-ses-msg-auth
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+130
+44
+in value ------------------mute
+in case 2mute
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+131
+44
+in case 0still-capture
+in value ------------------feature-enable
+in case 1feature-enable
+in value ------------------value
+in handle value 2
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+132
+44
+in value ------------------capture-image
+in case 1capture-image
+in value ------------------value
+in handle value 2
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+133
+44
+in value ------------------enable-pip
+in case 1enable-pip
+in value ------------------value
+in handle value 2
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+134
+44
+in value ------------------ip-addr
+in case 1ip-addr
+in value ------------------value
+in handle value 2
+in method
+access
+in socket filter flags flags
+flags
+in flags
+135
+44
+in value ------------------ip_addr
+in case 2ip_addr
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+TYPE
+dataType
+l=======================3
+136
+44
+in value ------------------location
+in case 2location
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+dataType
+l=======================2
+137
+44
+in value ------------------pip-loc
+in case 1pip-loc
+in value ------------------value
+in handle value 2
+in method
+access
+in socket filter flags flags
+flags
+in flags
+138
+44
+in value ------------------x-location
+in case 2x-location
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+139
+44
+in value ------------------y-location
+in case 2y-location
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+140
+44
+in value ------------------pip-time
+in case 1pip-time
+in value ------------------value
+in handle value 2
+in method
+access
+in socket filter flags flags
+flags
+in flags
+141
+44
+in value ------------------time
+in case 2time
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+142
+44
+in value ------------------enable-transfer
+in case 1enable-transfer
+in value ------------------value
+in handle value 2
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+143
+44
+in value ------------------auto-transfer
+in case 1auto-transfer
+in value ------------------value
+in handle value 2
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+144
+44
+in value ------------------transfer
+in case 1transfer
+in value ------------------value
+in handle value 2
+in method
+access
+in socket filter flags flags
+flags
+in flags
+145
+44
+in value ------------------image-id
+in case 2image-id
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+dataType
+l=======================2
+146
+44
+in value ------------------jpeg-quality
+in case 1jpeg-quality
+in value ------------------value
+in handle value 2
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+147
+44
+in case 0overlay
+in value ------------------feature-enable
+in case 1feature-enable
+in value ------------------value
+in handle value 2
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+148
+44
+in value ------------------max-images
+in case 1max-images
+in value ------------------value
+in handle value 2
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+149
+44
+in value ------------------max-upload-images
+in case 1max-upload-images
+in value ------------------value
+in handle value 2
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+150
+44
+in value ------------------enable
+in case 1enable
+in value ------------------value
+in handle value 2
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+151
+44
+in value ------------------upload-image
+in case 1upload-image
+in value ------------------value
+in handle value 2
+in method
+access
+in socket filter flags flags
+flags
+in flags
+152
+44
+in value ------------------file-name
+in case 2file-name
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+dataType
+l=======================2
+153
+44
+in value ------------------location
+in case 2location
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+dataType
+l=======================2
+154
+44
+in value ------------------id
+in case 2id
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+155
+44
+in value ------------------height
+in case 2height
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+TYPE
+dataType
+l=======================5
+156
+44
+in value ------------------width
+in case 2width
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+TYPE
+dataType
+l=======================5
+157
+44
+in value ------------------upload-mute-image
+in case 1upload-mute-image
+in value ------------------value
+in handle value 2
+in method
+access
+in socket filter flags flags
+flags
+in flags
+158
+44
+in value ------------------file-name
+in case 2file-name
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+dataType
+l=======================2
+159
+44
+in value ------------------location
+in case 2location
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+dataType
+l=======================2
+160
+44
+in value ------------------height
+in case 2height
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+TYPE
+dataType
+l=======================5
+161
+44
+in value ------------------width
+in case 2width
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+TYPE
+dataType
+l=======================5
+162
+44
+in value ------------------del-image
+in case 1del-image
+in value ------------------value
+in handle value 2
+in method
+access
+in socket filter flags flags
+flags
+in flags
+163
+44
+in value ------------------id
+in case 2id
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+dataType
+l=======================2
+164
+44
+in value ------------------1
+in case 11
+in value ------------------image-params
+in case 2image-params
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+165
+44
+in value ------------------transparency
+in case 3transparency
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+166
+44
+in value ------------------x-location
+in case 3x-location
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+TYPE
+dataType
+l=======================5
+167
+44
+in value ------------------y-location
+in case 3y-location
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+TYPE
+dataType
+l=======================5
+168
+44
+in value ------------------enable
+in case 3enable
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+169
+44
+in value ------------------height
+in case 3height
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+170
+44
+in value ------------------width
+in case 3width
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+171
+44
+in value ------------------file-name
+in case 3file-name
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+dataType
+l=======================2
+172
+44
+in value ------------------2
+in case 12
+in value ------------------image-params
+in case 2image-params
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+173
+44
+in value ------------------transparency
+in case 3transparency
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+174
+44
+in value ------------------x-location
+in case 3x-location
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+TYPE
+dataType
+l=======================5
+175
+44
+in value ------------------y-location
+in case 3y-location
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+TYPE
+dataType
+l=======================5
+176
+44
+in value ------------------enable
+in case 3enable
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+177
+44
+in value ------------------height
+in case 3height
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+178
+44
+in value ------------------width
+in case 3width
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+179
+44
+in value ------------------file-name
+in case 3file-name
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+dataType
+l=======================2
+180
+44
+in value ------------------3
+in case 13
+in value ------------------image-params
+in case 2image-params
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+181
+44
+in value ------------------transparency
+in case 3transparency
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+182
+44
+in value ------------------x-location
+in case 3x-location
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+TYPE
+dataType
+l=======================5
+183
+44
+in value ------------------y-location
+in case 3y-location
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+TYPE
+dataType
+l=======================5
+184
+44
+in value ------------------enable
+in case 3enable
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+185
+44
+in value ------------------height
+in case 3height
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+186
+44
+in value ------------------width
+in case 3width
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+187
+44
+in value ------------------file-name
+in case 3file-name
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+dataType
+l=======================2
+188
+44
+in value ------------------4
+in case 14
+in value ------------------image-params
+in case 2image-params
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+189
+44
+in value ------------------transparency
+in case 3transparency
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+190
+44
+in value ------------------x-location
+in case 3x-location
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+TYPE
+dataType
+l=======================5
+191
+44
+in value ------------------y-location
+in case 3y-location
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+TYPE
+dataType
+l=======================5
+192
+44
+in value ------------------enable
+in case 3enable
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+193
+44
+in value ------------------height
+in case 3height
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+194
+44
+in value ------------------width
+in case 3width
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+195
+44
+in value ------------------file-name
+in case 3file-name
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+dataType
+l=======================2
+196
+44
+in value ------------------5
+in case 15
+in value ------------------image-params
+in case 2image-params
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+197
+44
+in value ------------------transparency
+in case 3transparency
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+198
+44
+in value ------------------x-location
+in case 3x-location
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+TYPE
+dataType
+l=======================5
+199
+44
+in value ------------------y-location
+in case 3y-location
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+TYPE
+dataType
+l=======================5
+200
+44
+in value ------------------enable
+in case 3enable
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+201
+44
+in value ------------------height
+in case 3height
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+202
+44
+in value ------------------width
+in case 3width
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+203
+44
+in value ------------------file-name
+in case 3file-name
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+dataType
+l=======================2
+204
+44
+in value ------------------6
+in case 16
+in value ------------------image-params
+in case 2image-params
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+205
+44
+in value ------------------transparency
+in case 3transparency
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+206
+44
+in value ------------------x-location
+in case 3x-location
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+TYPE
+dataType
+l=======================5
+207
+44
+in value ------------------y-location
+in case 3y-location
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+TYPE
+dataType
+l=======================5
+208
+44
+in value ------------------enable
+in case 3enable
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+209
+44
+in value ------------------height
+in case 3height
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+210
+44
+in value ------------------width
+in case 3width
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+211
+44
+in value ------------------file-name
+in case 3file-name
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+dataType
+l=======================2
+212
+44
+in value ------------------7
+in case 17
+in value ------------------image-params
+in case 2image-params
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+213
+44
+in value ------------------transparency
+in case 3transparency
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+214
+44
+in value ------------------x-location
+in case 3x-location
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+TYPE
+dataType
+l=======================5
+215
+44
+in value ------------------y-location
+in case 3y-location
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+TYPE
+dataType
+l=======================5
+216
+44
+in value ------------------enable
+in case 3enable
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+217
+44
+in value ------------------height
+in case 3height
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+218
+44
+in value ------------------width
+in case 3width
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+219
+44
+in value ------------------file-name
+in case 3file-name
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+dataType
+l=======================2
+220
+44
+in value ------------------8
+in case 18
+in value ------------------image-params
+in case 2image-params
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+221
+44
+in value ------------------transparency
+in case 3transparency
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+222
+44
+in value ------------------x-location
+in case 3x-location
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+TYPE
+dataType
+l=======================5
+223
+44
+in value ------------------y-location
+in case 3y-location
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+TYPE
+dataType
+l=======================5
+224
+44
+in value ------------------enable
+in case 3enable
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+225
+44
+in value ------------------height
+in case 3height
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+226
+44
+in value ------------------width
+in case 3width
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+227
+44
+in value ------------------file-name
+in case 3file-name
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+dataType
+l=======================2
+228
+44
+in value ------------------video-mute-image-params
+in case 1video-mute-image-params
+in value ------------------value
+in handle value 2
+in method
+access
+in socket filter flags flags
+flags
+in flags
+229
+44
+in value ------------------x-location
+in case 2x-location
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+TYPE
+dataType
+l=======================5
+230
+44
+in value ------------------y-location
+in case 2y-location
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+TYPE
+dataType
+l=======================5
+231
+44
+in value ------------------height
+in case 2height
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+232
+44
+in value ------------------width
+in case 2width
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+233
+44
+in case 0audio
+in value ------------------input
+in case 1input
+in value ------------------valid-input
+in case 2valid-input
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+234
+44
+in value ------------------enable-rx
+in case 2enable-rx
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+235
+44
+in value ------------------coarse-gain
+in case 2coarse-gain
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+236
+44
+in value ------------------mute
+in case 2mute
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+237
+44
+in value ------------------loopback
+in case 2loopback
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+238
+44
+in value ------------------rx-mult-ip-addr
+in case 2rx-mult-ip-addr
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+239
+44
+in value ------------------ip-addr
+in case 3ip-addr
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+TYPE
+dataType
+l=======================3
+240
+44
+in value ------------------port
+in case 3port
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+dataType
+l=======================2
+241
+44
+in value ------------------output
+in case 1output
+in value ------------------enable-tx
+in case 2enable-tx
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+242
+44
+in value ------------------tx-mult-ip-addr
+in case 2tx-mult-ip-addr
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+243
+44
+in value ------------------ip-addr
+in case 3ip-addr
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+TYPE
+dataType
+l=======================3
+244
+44
+in value ------------------port
+in case 3port
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+dataType
+l=======================2
+245
+44
+in value ------------------fine-gain
+in case 2fine-gain
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+246
+44
+in value ------------------coarse-gain
+in case 2coarse-gain
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+247
+44
+in value ------------------mute
+in case 2mute
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+248
+44
+in value ------------------fade
+in case 2fade
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+249
+44
+in case 0kvm
+in value ------------------feature-enable
+in case 1feature-enable
+in value ------------------value
+in handle value 2
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+250
+44
+in value ------------------usb-link-status
+in case 1usb-link-status
+in value ------------------value
+in handle value 2
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+LIST
+dataType
+l=======================3
+251
+44
+in case 0rs232
+in value ------------------feature-enable
+in case 1feature-enable
+in value ------------------value
+in handle value 2
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+LIST
+dataType
+l=======================3
+252
+44
+in value ------------------get-devices
+in case 1get-devices
+in value ------------------value
+in handle value 2
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+dataType
+l=======================2
+253
+44
+in value ------------------0
+in case 10
+in value ------------------open-connection
+in case 2open-connection
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+LIST
+dataType
+l=======================3
+254
+44
+in value ------------------close-connection
+in case 2close-connection
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+LIST
+dataType
+l=======================3
+255
+44
+in value ------------------flush
+in case 2flush
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+LIST
+dataType
+l=======================3
+256
+44
+in value ------------------params
+in case 2params
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+257
+45
+in value ------------------baud-rate
+in case 3baud-rate
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+LIST
+dataType
+l=======================3
+258
+44
+in value ------------------data-bits
+in case 3data-bits
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+MIN
+MAX
+dataType
+l=======================4
+259
+44
+in value ------------------parity
+in case 3parity
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+LIST
+dataType
+l=======================3
+260
+44
+in value ------------------stop-bit
+in case 3stop-bit
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+LIST
+dataType
+l=======================3
+261
+44
+in value ------------------flow-control
+in case 3flow-control
+in value ------------------value
+in handle value 4
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+LIST
+dataType
+l=======================3
+262
+44
+in value ------------------send
+in case 2send
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+dataType
+l=======================2
+263
+44
+in value ------------------data-in-notification
+in case 2data-in-notification
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+LIST
+dataType
+l=======================3
+264
+44
+in value ------------------read-existing
+in case 2read-existing
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+dataType
+l=======================2
+265
+44
+in value ------------------read-line
+in case 2read-line
+in value ------------------value
+in handle value 3
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+dataType
+l=======================2
+266
+44
+in case 0fpga-registers
+in value ------------------value
+in handle value 1
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+dataType
+l=======================2
+267
+44
+in case 0i2c-registers
+in value ------------------value
+in handle value 1
+in method
+access
+in socket filter flags flags
+flags
+in flags
+in filterfilter
+dataType
+l=======================2
+{ '1': 
+   { columnName: 'fpga-version',
+     tableName: 'SYSTEM_FIRMWARE',
+     method: 'GET' },
+  '2': 
+   { columnName: 'processor-version',
+     tableName: 'SYSTEM_FIRMWARE',
+     method: 'GET' },
+  '3': 
+   { columnName: 'system-version',
+     tableName: 'SYSTEM_FIRMWARE',
+     method: 'GET' },
+  '4': 
+   { columnName: 'hw-version',
+     tableName: 'SYSTEM_FIRMWARE',
+     method: 'GET' },
+  '5': 
+   { columnName: 'location',
+     tableName: 'SYSTEM_FIRMWARE_PROCESSOR-FIELD-UPGRADE',
+     method: 'POST' },
+  '6': 
+   { columnName: 'location',
+     tableName: 'SYSTEM_FIRMWARE_FPGA-FIELD-UPGRADE',
+     method: 'POST' },
+  '7': 
+   { columnName: 'fpga-upgrade-status',
+     tableName: 'SYSTEM_FIRMWARE',
+     method: 'GET' },
+  '8': 
+   { columnName: 'processor-upgrade-status',
+     tableName: 'SYSTEM_FIRMWARE',
+     method: 'GET' },
+  '9': 
+   { columnName: 'switch',
+     tableName: 'SYSTEM_FIRMWARE',
+     method: 'POST' },
+  '10': 
+   { columnName: 'serial-no',
+     tableName: 'SYSTEM_FIRMWARE',
+     method: 'GET' },
+  '11': 
+   { columnName: 'serial-no',
+     tableName: 'SYSTEM_FIRMWARE',
+     method: 'POST' },
+  '12': 
+   { columnName: 'gateway',
+     tableName: 'SYSTEM_NETWORK_IP-SETTINGS',
+     method: 'GET' },
+  '13': 
+   { columnName: 'gateway',
+     tableName: 'SYSTEM_NETWORK_IP-SETTINGS',
+     method: 'POST' },
+  '14': { columnName: 'tos', tableName: 'SYSTEM_NETWORK', method: 'GET' },
+  '15': 
+   { columnName: 'tos',
+     tableName: 'SYSTEM_NETWORK',
+     method: 'POST' },
+  '16': 
+   { columnName: 'mtu-size',
+     tableName: 'SYSTEM_NETWORK',
+     method: 'GET' },
+  '17': 
+   { columnName: 'mtu-size',
+     tableName: 'SYSTEM_NETWORK',
+     method: 'POST' },
+  '18': 
+   { columnName: 'mode',
+     tableName: 'SYSTEM_NETWORK',
+     method: 'GET' },
+  '19': 
+   { columnName: 'mode',
+     tableName: 'SYSTEM_NETWORK',
+     method: 'POST' },
+  '20': 
+   { columnName: 'notify-ip-addr',
+     tableName: 'SYSTEM_NETWORK',
+     method: 'GET' },
+  '21': 
+   { columnName: 'notify-ip-addr',
+     tableName: 'SYSTEM_NETWORK',
+     method: 'POST' },
+  '22': 
+   { columnName: 'port',
+     tableName: 'SYSTEM_NETWORK_NOTIFY-PORT',
+     method: 'GET' },
+  '23': 
+   { columnName: 'port',
+     tableName: 'SYSTEM_NETWORK_NOTIFY-PORT',
+     method: 'POST' },
+  '24': 
+   { columnName: 'image-server-ip-addr',
+     tableName: 'SYSTEM_NETWORK',
+     method: 'GET' },
+  '25': 
+   { columnName: 'image-server-ip-addr',
+     tableName: 'SYSTEM_NETWORK',
+     method: 'POST' },
+  '26': 
+   { columnName: 'eth-interfaces',
+     tableName: 'SYSTEM_NETWORK',
+     method: 'GET' },
+  '27': 
+   { columnName: 'hw-status',
+     tableName: 'SYSTEM_DIAGNOSTICS',
+     method: 'GET' },
+  '28': 
+   { columnName: 'temperature',
+     tableName: 'SYSTEM_DIAGNOSTICS',
+     method: 'GET' },
+  '29': 
+   { columnName: 'device-log',
+     tableName: 'SYSTEM_DIAGNOSTICS',
+     method: 'GET' },
+  '30': 
+   { columnName: 'device-log-level',
+     tableName: 'SYSTEM_DIAGNOSTICS',
+     method: 'GET' },
+  '31': 
+   { columnName: 'device-log-level',
+     tableName: 'SYSTEM_DIAGNOSTICS',
+     method: 'POST' },
+  '32': 
+   { columnName: 'device-log-facility',
+     tableName: 'SYSTEM_DIAGNOSTICS',
+     method: 'GET' },
+  '33': 
+   { columnName: 'device-log-facility',
+     tableName: 'SYSTEM_DIAGNOSTICS',
+     method: 'POST' },
+  '34': 
+   { columnName: 'dev-log-ip-addr',
+     tableName: 'SYSTEM_DIAGNOSTICS',
+     method: 'GET' },
+  '35': 
+   { columnName: 'dev-log-ip-addr',
+     tableName: 'SYSTEM_DIAGNOSTICS',
+     method: 'POST' },
+  '36': 
+   { columnName: 'enable',
+     tableName: 'SYSTEM_SPLASH-SCRN',
+     method: 'GET' },
+  '37': 
+   { columnName: 'enable',
+     tableName: 'SYSTEM_SPLASH-SCRN',
+     method: 'POST' },
+  '38': 
+   { columnName: 'location',
+     tableName: 'SYSTEM_SPLASH-SCRN_UPLOAD',
+     method: 'POST' },
+  '39': 
+   { columnName: 'get-name',
+     tableName: 'SYSTEM_SPLASH-SCRN',
+     method: 'GET' },
+  '40': 
+   { columnName: 'soft-reset',
+     tableName: 'SYSTEM_RESET',
+     method: 'POST' },
+  '41': 
+   { columnName: 'configuration-reset',
+     tableName: 'SYSTEM_RESET',
+     method: 'POST' },
+  '42': 
+   { columnName: 'factory-reset',
+     tableName: 'SYSTEM_RESET',
+     method: 'POST' },
+  '43': { columnName: 'reboot', tableName: 'SYSTEM', method: 'POST' },
+  '44': 
+   { columnName: 'user',
+     tableName: 'SYSTEM_AUTHENTICATION',
+     method: 'GET' },
+  '45': 
+   { columnName: 'user',
+     tableName: 'SYSTEM_AUTHENTICATION',
+     method: 'POST' },
+  '46': 
+   { columnName: 'user-pwd',
+     tableName: 'SYSTEM_AUTHENTICATION',
+     method: 'POST' },
+  '47': 
+   { columnName: 'admin',
+     tableName: 'SYSTEM_AUTHENTICATION',
+     method: 'GET' },
+  '48': 
+   { columnName: 'admin',
+     tableName: 'SYSTEM_AUTHENTICATION',
+     method: 'POST' },
+  '49': 
+   { columnName: 'admin-pwd',
+     tableName: 'SYSTEM_AUTHENTICATION',
+     method: 'POST' },
+  '50': 
+   { columnName: 'id',
+     tableName: 'SYSTEM_IDENTIFICATION',
+     method: 'GET' },
+  '51': 
+   { columnName: 'enable-3d',
+     tableName: 'SYSTEM_VIDEO-MODE',
+     method: 'GET' },
+  '52': 
+   { columnName: 'enable-3d',
+     tableName: 'SYSTEM_VIDEO-MODE',
+     method: 'POST' },
+  '53': 
+   { columnName: 'location',
+     tableName: 'SYSTEM_CONFIG-FILE_UPLOAD',
+     method: 'POST' },
+  '54': 
+   { columnName: 'download',
+     tableName: 'SYSTEM_CONFIG-FILE',
+     method: 'GET' },
+  '55': 
+   { columnName: 'file-name',
+     tableName: 'SYSTEM_CONFIG-FILE_DELETE',
+     method: 'POST' },
+  '56': 
+   { columnName: 'update',
+     tableName: 'SYSTEM_CONFIG-FILE',
+     method: 'POST' },
+  '57': 
+   { columnName: 'data-value',
+     tableName: 'SYSTEM_MDNS_ADD-KEY',
+     method: 'POST' },
+  '58': 
+   { columnName: 'delete-key',
+     tableName: 'SYSTEM_MDNS',
+     method: 'POST' },
+  '59': 
+   { columnName: 'read-key',
+     tableName: 'SYSTEM_MDNS',
+     method: 'GET' },
+  '60': 
+   { columnName: 'data-value',
+     tableName: 'SYSTEM_MDNS_EDIT-KEY',
+     method: 'POST' },
+  '61': 
+   { columnName: 'board-type',
+     tableName: 'SYSTEM_MISC',
+     method: 'GET' },
+  '62': 
+   { columnName: 'led-on-time',
+     tableName: 'SYSTEM_MISC',
+     method: 'GET' },
+  '63': 
+   { columnName: 'led-on-time',
+     tableName: 'SYSTEM_MISC',
+     method: 'POST' },
+  '64': 
+   { columnName: 'led-off-time',
+     tableName: 'SYSTEM_MISC',
+     method: 'GET' },
+  '65': 
+   { columnName: 'led-off-time',
+     tableName: 'SYSTEM_MISC',
+     method: 'POST' },
+  '66': 
+   { columnName: 'http-mode',
+     tableName: 'SYSTEM_MISC',
+     method: 'GET' },
+  '67': 
+   { columnName: 'http-mode',
+     tableName: 'SYSTEM_MISC',
+     method: 'POST' },
+  '68': 
+   { columnName: 'enable-encryption',
+     tableName: 'SYSTEM_MISC',
+     method: 'GET' },
+  '69': 
+   { columnName: 'enable-encryption',
+     tableName: 'SYSTEM_MISC',
+     method: 'POST' },
+  '70': 
+   { columnName: 'sec',
+     tableName: 'SYSTEM_MISC_RTC',
+     method: 'GET' },
+  '71': 
+   { columnName: 'sec',
+     tableName: 'SYSTEM_MISC_RTC',
+     method: 'POST' },
+  '72': 
+   { columnName: 'ftp-mode',
+     tableName: 'SYSTEM_MISC',
+     method: 'GET' },
+  '73': 
+   { columnName: 'ftp-mode',
+     tableName: 'SYSTEM_MISC',
+     method: 'POST' },
+  '74': 
+   { columnName: 'acc-debounce-time',
+     tableName: 'SYSTEM_MISC',
+     method: 'GET' },
+  '75': 
+   { columnName: 'acc-debounce-time',
+     tableName: 'SYSTEM_MISC',
+     method: 'POST' },
+  '76': 
+   { columnName: 'acc1-reaction',
+     tableName: 'SYSTEM_MISC',
+     method: 'GET' },
+  '77': 
+   { columnName: 'acc1-reaction',
+     tableName: 'SYSTEM_MISC',
+     method: 'POST' },
+  '78': 
+   { columnName: 'acc2-reaction',
+     tableName: 'SYSTEM_MISC',
+     method: 'GET' },
+  '79': 
+   { columnName: 'acc2-reaction',
+     tableName: 'SYSTEM_MISC',
+     method: 'POST' },
+  '80': 
+   { columnName: 'acc1-notify',
+     tableName: 'SYSTEM_MISC',
+     method: 'GET' },
+  '81': 
+   { columnName: 'acc1-notify',
+     tableName: 'SYSTEM_MISC',
+     method: 'POST' },
+  '82': 
+   { columnName: 'acc2-notify',
+     tableName: 'SYSTEM_MISC',
+     method: 'GET' },
+  '83': 
+   { columnName: 'acc2-notify',
+     tableName: 'SYSTEM_MISC',
+     method: 'POST' },
+  '84': 
+   { columnName: 'temperature-threshold',
+     tableName: 'SYSTEM_DIAGNOSTICS',
+     method: 'GET' },
+  '85': 
+   { columnName: 'temperature-threshold',
+     tableName: 'SYSTEM_DIAGNOSTICS',
+     method: 'POST' },
+  '86': 
+   { columnName: 'id',
+     tableName: 'SYSTEM_IDENTIFICATION',
+     method: 'POST' },
+  '87': 
+   { columnName: 'password',
+     tableName: 'SYSTEM_MISC_FTP-AUTH',
+     method: 'GET' },
+  '88': 
+   { columnName: 'password',
+     tableName: 'SYSTEM_MISC_FTP-AUTH',
+     method: 'POST' },
+  '101': { columnName: 'videos', tableName: 'VIDEO_INPUT', method: 'GET' },
+  '102': 
+   { columnName: 'resolution',
+     tableName: 'VIDEO_INPUT',
+     method: 'GET' },
+  '103': 
+   { columnName: 'frame-rate',
+     tableName: 'VIDEO_INPUT',
+     method: 'GET' },
+  '104': 
+   { columnName: 'valid-input',
+     tableName: 'VIDEO_INPUT',
+     method: 'GET' },
+  '105': 
+   { columnName: 'cable-presence',
+     tableName: 'VIDEO_INPUT',
+     method: 'GET' },
+  '106': 
+   { columnName: 'analog-video',
+     tableName: 'VIDEO_INPUT',
+     method: 'POST' },
+  '107': 
+   { columnName: 'video-interface',
+     tableName: 'VIDEO_INPUT',
+     method: 'GET' },
+  '108': 
+   { columnName: 'enable-color-bar',
+     tableName: 'VIDEO_INPUT',
+     method: 'GET' },
+  '109': 
+   { columnName: 'enable-color-bar',
+     tableName: 'VIDEO_INPUT',
+     method: 'POST' },
+  '110': 
+   { columnName: 'internal-video-generator-enable',
+     tableName: 'VIDEO_INPUT_RX-PHY-PARAMETERS',
+     method: 'GET' },
+  '111': 
+   { columnName: 'internal-video-generator-enable',
+     tableName: 'VIDEO_INPUT_RX-PHY-PARAMETERS',
+     method: 'POST' },
+  '112': 
+   { columnName: 'streams',
+     tableName: 'VIDEO_OUTPUT',
+     method: 'GET' },
+  '113': 
+   { columnName: 'frame-rate',
+     tableName: 'VIDEO_OUTPUT',
+     method: 'GET' },
+  '114': 
+   { columnName: 'frame-rate',
+     tableName: 'VIDEO_OUTPUT',
+     method: 'POST' },
+  '115': 
+   { columnName: 'hqll-tx-status',
+     tableName: 'VIDEO_OUTPUT',
+     method: 'GET' },
+  '116': 
+   { columnName: 'pes-tx-status',
+     tableName: 'VIDEO_OUTPUT',
+     method: 'GET' },
+  '117': 
+   { columnName: 'ses-tx-status',
+     tableName: 'VIDEO_OUTPUT',
+     method: 'GET' },
+  '118': 
+   { columnName: 'enable-hqll-tx',
+     tableName: 'VIDEO_OUTPUT',
+     method: 'POST' },
+  '119': 
+   { columnName: 'enable-pes-tx',
+     tableName: 'VIDEO_OUTPUT',
+     method: 'POST' },
+  '120': 
+   { columnName: 'enable-ses-tx',
+     tableName: 'VIDEO_OUTPUT',
+     method: 'POST' },
+  '121': 
+   { columnName: 'pes-resolution',
+     tableName: 'VIDEO_OUTPUT',
+     method: 'GET' },
+  '122': 
+   { columnName: 'pes-resolution',
+     tableName: 'VIDEO_OUTPUT',
+     method: 'POST' },
+  '123': 
+   { columnName: 'ses-resolution',
+     tableName: 'VIDEO_OUTPUT',
+     method: 'GET' },
+  '124': 
+   { columnName: 'ses-resolution',
+     tableName: 'VIDEO_OUTPUT',
+     method: 'POST' },
+  '125': 
+   { columnName: 'pes-bitrate',
+     tableName: 'VIDEO_OUTPUT',
+     method: 'GET' },
+  '126': 
+   { columnName: 'pes-bitrate',
+     tableName: 'VIDEO_OUTPUT',
+     method: 'POST' },
+  '127': 
+   { columnName: 'ses-bitrate',
+     tableName: 'VIDEO_OUTPUT',
+     method: 'GET' },
+  '128': 
+   { columnName: 'ses-bitrate',
+     tableName: 'VIDEO_OUTPUT',
+     method: 'POST' },
+  '129': 
+   { columnName: 'port',
+     tableName: 'VIDEO_OUTPUT_HQLL-MULT-IP-ADDR',
+     method: 'GET' },
+  '130': 
+   { columnName: 'port',
+     tableName: 'VIDEO_OUTPUT_HQLL-MULT-IP-ADDR',
+     method: 'POST' },
+  '131': 
+   { columnName: 'port',
+     tableName: 'VIDEO_OUTPUT_PES-MULT-IP-ADDR',
+     method: 'GET' },
+  '132': 
+   { columnName: 'port',
+     tableName: 'VIDEO_OUTPUT_PES-MULT-IP-ADDR',
+     method: 'POST' },
+  '133': 
+   { columnName: 'port',
+     tableName: 'VIDEO_OUTPUT_SES-MULT-IP-ADDR',
+     method: 'GET' },
+  '134': 
+   { columnName: 'port',
+     tableName: 'VIDEO_OUTPUT_SES-MULT-IP-ADDR',
+     method: 'POST' },
+  '135': 
+   { columnName: 'pes-rtp-mode',
+     tableName: 'VIDEO_OUTPUT',
+     method: 'GET' },
+  '136': 
+   { columnName: 'pes-rtp-mode',
+     tableName: 'VIDEO_OUTPUT',
+     method: 'POST' },
+  '137': 
+   { columnName: 'enable-pes-msg-auth',
+     tableName: 'VIDEO_OUTPUT',
+     method: 'GET' },
+  '138': 
+   { columnName: 'enable-pes-msg-auth',
+     tableName: 'VIDEO_OUTPUT',
+     method: 'POST' },
+  '141': 
+   { columnName: 'ses-rtp-mode',
+     tableName: 'VIDEO_OUTPUT',
+     method: 'GET' },
+  '142': 
+   { columnName: 'ses-rtp-mode',
+     tableName: 'VIDEO_OUTPUT',
+     method: 'POST' },
+  '143': 
+   { columnName: 'enable-ses-msg-auth',
+     tableName: 'VIDEO_OUTPUT',
+     method: 'GET' },
+  '144': 
+   { columnName: 'enable-ses-msg-auth',
+     tableName: 'VIDEO_OUTPUT',
+     method: 'POST' },
+  '147': { columnName: 'mute', tableName: 'VIDEO_OUTPUT', method: 'GET' },
+  '148': { columnName: 'mute', tableName: 'VIDEO_OUTPUT', method: 'POST' },
+  '149': 
+   { columnName: 'enable-manual-rx-phy-settings',
+     tableName: 'VIDEO_INPUT',
+     method: 'GET' },
+  '150': 
+   { columnName: 'enable-manual-rx-phy-settings',
+     tableName: 'VIDEO_INPUT',
+     method: 'POST' },
+  '201': 
+   { columnName: 'feature-enable',
+     tableName: 'STILL-CAPTURE',
+     method: 'GET' },
+  '202': 
+   { columnName: 'feature-enable',
+     tableName: 'STILL-CAPTURE',
+     method: 'POST' },
+  '203': 
+   { columnName: 'capture-image',
+     tableName: 'STILL-CAPTURE',
+     method: 'POST' },
+  '204': 
+   { columnName: 'enable-pip',
+     tableName: 'STILL-CAPTURE',
+     method: 'GET' },
+  '205': 
+   { columnName: 'enable-pip',
+     tableName: 'STILL-CAPTURE',
+     method: 'POST' },
+  '206': 
+   { columnName: 'location',
+     tableName: 'STILL-CAPTURE_IP-ADDR',
+     method: 'GET' },
+  '207': 
+   { columnName: 'location',
+     tableName: 'STILL-CAPTURE_IP-ADDR',
+     method: 'POST' },
+  '208': 
+   { columnName: 'y-location',
+     tableName: 'STILL-CAPTURE_PIP-LOC',
+     method: 'GET' },
+  '209': 
+   { columnName: 'y-location',
+     tableName: 'STILL-CAPTURE_PIP-LOC',
+     method: 'POST' },
+  '210': 
+   { columnName: 'time',
+     tableName: 'STILL-CAPTURE_PIP-TIME',
+     method: 'GET' },
+  '211': 
+   { columnName: 'time',
+     tableName: 'STILL-CAPTURE_PIP-TIME',
+     method: 'POST' },
+  '212': 
+   { columnName: 'enable-transfer',
+     tableName: 'STILL-CAPTURE',
+     method: 'GET' },
+  '213': 
+   { columnName: 'enable-transfer',
+     tableName: 'STILL-CAPTURE',
+     method: 'POST' },
+  '214': 
+   { columnName: 'auto-transfer',
+     tableName: 'STILL-CAPTURE',
+     method: 'GET' },
+  '215': 
+   { columnName: 'auto-transfer',
+     tableName: 'STILL-CAPTURE',
+     method: 'POST' },
+  '216': 
+   { columnName: 'image-id',
+     tableName: 'STILL-CAPTURE_IMAGE-ID',
+     method: 'POST' },
+  '217': 
+   { columnName: 'jpeg-quality',
+     tableName: 'STILL-CAPTURE',
+     method: 'GET' },
+  '218': 
+   { columnName: 'jpeg-quality',
+     tableName: 'STILL-CAPTURE',
+     method: 'POST' },
+  '301': 
+   { columnName: 'feature-enable',
+     tableName: 'OVERLAY',
+     method: 'GET' },
+  '302': 
+   { columnName: 'feature-enable',
+     tableName: 'OVERLAY',
+     method: 'POST' },
+  '303': { columnName: 'max-images', tableName: 'OVERLAY', method: 'GET' },
+  '304': 
+   { columnName: 'max-images',
+     tableName: 'OVERLAY',
+     method: 'POST' },
+  '305': 
+   { columnName: 'max-upload-images',
+     tableName: 'OVERLAY',
+     method: 'GET' },
+  '306': 
+   { columnName: 'max-upload-images',
+     tableName: 'OVERLAY',
+     method: 'POST' },
+  '307': { columnName: 'enable', tableName: 'OVERLAY', method: 'GET' },
+  '308': { columnName: 'enable', tableName: 'OVERLAY', method: 'POST' },
+  '309': 
+   { columnName: 'width',
+     tableName: 'OVERLAY_IMAGE',
+     method: 'POST' },
+  '310': 
+   { columnName: 'width',
+     tableName: 'OVERLAY_IMAGE',
+     method: 'POST' },
+  '311': 
+   { columnName: 'id',
+     tableName: 'OVERLAY_DEL-IMAGE',
+     method: 'POST' },
+  '312': 
+   { columnName: 'file-name',
+     tableName: 'OVERLAY_IMAGE',
+     method: 'GET' },
+  '313': 
+   { columnName: 'enable',
+     tableName: 'OVERLAY_IMAGE',
+     method: 'POST' },
+  '314': 
+   { columnName: 'file-name',
+     tableName: 'OVERLAY_IMAGE',
+     method: 'GET' },
+  '315': 
+   { columnName: 'enable',
+     tableName: 'OVERLAY_IMAGE',
+     method: 'POST' },
+  '316': 
+   { columnName: 'file-name',
+     tableName: 'OVERLAY_IMAGE',
+     method: 'GET' },
+  '317': 
+   { columnName: 'enable',
+     tableName: 'OVERLAY_IMAGE',
+     method: 'POST' },
+  '318': 
+   { columnName: 'file-name',
+     tableName: 'OVERLAY_IMAGE',
+     method: 'GET' },
+  '319': 
+   { columnName: 'enable',
+     tableName: 'OVERLAY_IMAGE',
+     method: 'POST' },
+  '320': 
+   { columnName: 'file-name',
+     tableName: 'OVERLAY_IMAGE',
+     method: 'GET' },
+  '321': 
+   { columnName: 'enable',
+     tableName: 'OVERLAY_IMAGE',
+     method: 'POST' },
+  '322': 
+   { columnName: 'file-name',
+     tableName: 'OVERLAY_IMAGE',
+     method: 'GET' },
+  '323': 
+   { columnName: 'enable',
+     tableName: 'OVERLAY_IMAGE',
+     method: 'POST' },
+  '324': 
+   { columnName: 'file-name',
+     tableName: 'OVERLAY_IMAGE',
+     method: 'GET' },
+  '325': 
+   { columnName: 'enable',
+     tableName: 'OVERLAY_IMAGE',
+     method: 'POST' },
+  '326': 
+   { columnName: 'file-name',
+     tableName: 'OVERLAY_IMAGE',
+     method: 'GET' },
+  '327': 
+   { columnName: 'enable',
+     tableName: 'OVERLAY_IMAGE',
+     method: 'POST' },
+  '328': 
+   { columnName: 'width',
+     tableName: 'OVERLAY_IMAGE',
+     method: 'GET' },
+  '329': 
+   { columnName: 'y-location',
+     tableName: 'OVERLAY_IMAGE',
+     method: 'POST' },
+  '401': 
+   { columnName: 'valid-input',
+     tableName: 'AUDIO_INPUT',
+     method: 'GET' },
+  '402': 
+   { columnName: 'enable-rx',
+     tableName: 'AUDIO_INPUT',
+     method: 'GET' },
+  '403': 
+   { columnName: 'enable-rx',
+     tableName: 'AUDIO_INPUT',
+     method: 'POST' },
+  '406': 
+   { columnName: 'coarse-gain',
+     tableName: 'AUDIO_INPUT',
+     method: 'GET' },
+  '407': 
+   { columnName: 'coarse-gain',
+     tableName: 'AUDIO_INPUT',
+     method: 'POST' },
+  '408': { columnName: 'mute', tableName: 'AUDIO_INPUT', method: 'GET' },
+  '409': { columnName: 'mute', tableName: 'AUDIO_INPUT', method: 'POST' },
+  '410': 
+   { columnName: 'loopback',
+     tableName: 'AUDIO_INPUT',
+     method: 'GET' },
+  '411': 
+   { columnName: 'loopback',
+     tableName: 'AUDIO_INPUT',
+     method: 'POST' },
+  '412': 
+   { columnName: 'port',
+     tableName: 'AUDIO_INPUT_RX-MULT-IP-ADDR',
+     method: 'GET' },
+  '413': 
+   { columnName: 'port',
+     tableName: 'AUDIO_INPUT_RX-MULT-IP-ADDR',
+     method: 'POST' },
+  '414': 
+   { columnName: 'enable-tx',
+     tableName: 'AUDIO_OUTPUT',
+     method: 'GET' },
+  '415': 
+   { columnName: 'enable-tx',
+     tableName: 'AUDIO_OUTPUT',
+     method: 'POST' },
+  '416': 
+   { columnName: 'port',
+     tableName: 'AUDIO_OUTPUT_TX-MULT-IP-ADDR',
+     method: 'GET' },
+  '417': 
+   { columnName: 'port',
+     tableName: 'AUDIO_OUTPUT_TX-MULT-IP-ADDR',
+     method: 'POST' },
+  '418': 
+   { columnName: 'fine-gain',
+     tableName: 'AUDIO_OUTPUT',
+     method: 'GET' },
+  '419': 
+   { columnName: 'fine-gain',
+     tableName: 'AUDIO_OUTPUT',
+     method: 'POST' },
+  '420': 
+   { columnName: 'coarse-gain',
+     tableName: 'AUDIO_OUTPUT',
+     method: 'GET' },
+  '421': 
+   { columnName: 'coarse-gain',
+     tableName: 'AUDIO_OUTPUT',
+     method: 'POST' },
+  '422': { columnName: 'mute', tableName: 'AUDIO_OUTPUT', method: 'GET' },
+  '423': { columnName: 'mute', tableName: 'AUDIO_OUTPUT', method: 'POST' },
+  '424': { columnName: 'fade', tableName: 'AUDIO_OUTPUT', method: 'GET' },
+  '425': { columnName: 'fade', tableName: 'AUDIO_OUTPUT', method: 'POST' },
+  '501': { columnName: 'feature-enable', tableName: 'KVM', method: 'GET' },
+  '502': 
+   { columnName: 'feature-enable',
+     tableName: 'KVM',
+     method: 'POST' },
+  '503': 
+   { columnName: 'usb-link-status',
+     tableName: 'KVM',
+     method: 'GET' },
+  '601': 
+   { columnName: 'feature-enable',
+     tableName: 'RS232',
+     method: 'GET' },
+  '602': 
+   { columnName: 'feature-enable',
+     tableName: 'RS232',
+     method: 'POST' },
+  '603': { columnName: 'get-devices', tableName: 'RS232', method: 'GET' },
+  '604': 
+   { columnName: 'open-connection',
+     tableName: 'RS232_0',
+     method: 'POST' },
+  '605': 
+   { columnName: 'close-connection',
+     tableName: 'RS232_0',
+     method: 'POST' },
+  '606': { columnName: 'flush', tableName: 'RS232_0', method: 'POST' },
+  '607': 
+   { columnName: 'flow-control',
+     tableName: 'RS232_0_PARAMS',
+     method: 'GET' },
+  '608': 
+   { columnName: 'flow-control',
+     tableName: 'RS232_0_PARAMS',
+     method: 'POST' },
+  '609': { columnName: 'send', tableName: 'RS232_0', method: 'POST' },
+  '610': 
+   { columnName: 'data-in-notification',
+     tableName: 'RS232_0',
+     method: 'GET' },
+  '611': 
+   { columnName: 'data-in-notification',
+     tableName: 'RS232_0',
+     method: 'POST' },
+  '612': 
+   { columnName: 'read-existing',
+     tableName: 'RS232_0',
+     method: 'GET' },
+  '613': { columnName: 'read-line', tableName: 'RS232_0', method: 'GET' },
+  '701': 
+   { columnName: 'fpga-registers',
+     tableName: 'FPGA-REGISTERS',
+     method: 'GET',
+     socketAction: 'FPGA_REGISTER' },
+  '702': 
+   { columnName: 'fpga-registers',
+     tableName: 'FPGA-REGISTERS',
+     method: 'POST',
+     socketAction: 'FPGA_REGISTER' },
+  '801': 
+   { columnName: 'i2c-registers',
+     tableName: 'I2C-REGISTERS',
+     method: 'GET',
+     socketAction: 'I2C_REGISTER' },
+  '802': 
+   { columnName: 'i2c-registers',
+     tableName: 'I2C-REGISTERS',
+     method: 'POST',
+     socketAction: 'I2C_REGISTER' } }
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+77
+78
+79
+80
+81
+82
+83
+84
+85
+86
+87
+88
+101
+102
+103
+104
+105
+106
+107
+108
+109
+110
+111
+112
+113
+114
+115
+116
+117
+118
+119
+120
+121
+122
+123
+124
+125
+126
+127
+128
+129
+130
+131
+132
+133
+134
+135
+136
+137
+138
+141
+142
+143
+144
+147
+148
+149
+150
+201
+202
+203
+204
+205
+206
+207
+208
+209
+210
+211
+212
+213
+214
+215
+216
+217
+218
+301
+302
+303
+304
+305
+306
+307
+308
+309
+310
+311
+312
+313
+314
+315
+316
+317
+318
+319
+320
+321
+322
+323
+324
+325
+326
+327
+328
+329
+401
+402
+403
+406
+407
+408
+409
+410
+411
+412
+413
+414
+415
+416
+417
+418
+419
+420
+421
+422
+423
+424
+425
+501
+502
+503
+601
+602
+603
+604
+605
+606
+607
+608
+609
+610
+611
+612
+613
+701
+socket action
+FPGA_REGISTER
+702
+801
+socket action
+802
+{"system":{"firmware":{"fpga-version":{"tableName":"SYSTEM_FIRMWARE","method":["GET"],"socket":{"GET":"1"},"access":{"GET":"user"},"socketFilter":0,"flags":{"GET":"0"},"filter":["dataType"],"dataType":"STR"},"processor-version":{"tableName":"SYSTEM_FIRMWARE","method":["GET"],"socket":{"GET":"2"},"access":{"GET":"user"},"socketFilter":0,"flags":{"GET":"0"},"filter":["dataType"],"dataType":"STR"},"system-version":{"tableName":"SYSTEM_FIRMWARE","method":["GET"],"socket":{"GET":"3"},"access":{"GET":"user"},"socketFilter":0,"flags":{"GET":"0"},"filter":["dataType"],"dataType":"STR"},"hw-version":{"tableName":"SYSTEM_FIRMWARE","method":["GET"],"socket":{"GET":"4"},"access":{"GET":"user"},"socketFilter":0,"flags":{"GET":"0"},"filter":["dataType"],"dataType":"STR"},"processor-field-upgrade":{"tableName":"SYSTEM_FIRMWARE","method":["POST"],"socket":{"POST":"5"},"access":{"POST":"admin"},"socketFilter":0,"flags":{"POST":"3"},"array":["file_name","location"],"file_name":{"tableName":"SYSTEM_FIRMWARE_PROCESSOR-FIELD-UPGRADE","method":["POST"],"socket":{"POST":"5"},"access":{"POST":"admin"},"socketFilter":0,"flags":{"POST":"1"},"filter":["dataType"],"dataType":"STR"},"location":{"tableName":"SYSTEM_FIRMWARE_PROCESSOR-FIELD-UPGRADE","method":["POST"],"socket":{"POST":"5"},"access":{"POST":"admin"},"socketFilter":0,"flags":{"POST":"2"},"filter":["dataType"],"dataType":"STR"}},"fpga-field-upgrade":{"tableName":"SYSTEM_FIRMWARE","method":["POST"],"socket":{"POST":"6"},"access":{"POST":"admin"},"socketFilter":0,"flags":{"POST":"3"},"array":["file_name","location"],"file_name":{"tableName":"SYSTEM_FIRMWARE_FPGA-FIELD-UPGRADE","method":["POST"],"socket":{"POST":"6"},"access":{"POST":"admin"},"socketFilter":0,"flags":{"POST":"1"},"filter":["dataType"],"dataType":"STR"},"location":{"tableName":"SYSTEM_FIRMWARE_FPGA-FIELD-UPGRADE","method":["POST"],"socket":{"POST":"6"},"access":{"POST":"admin"},"socketFilter":0,"flags":{"POST":"2"},"filter":["dataType"],"dataType":"STR"}},"fpga-upgrade-status":{"tableName":"SYSTEM_FIRMWARE","method":["GET"],"socket":{"GET":"7"},"access":{"GET":"user"},"socketFilter":0,"flags":{"GET":"0"},"filter":["dataType"],"dataType":"INTEGER"},"processor-upgrade-status":{"tableName":"SYSTEM_FIRMWARE","method":["GET"],"socket":{"GET":"8"},"access":{"GET":"user"},"socketFilter":0,"flags":{"GET":"0"},"filter":["dataType"],"dataType":"INTEGER"},"switch":{"tableName":"SYSTEM_FIRMWARE","method":["POST"],"socket":{"POST":"9"},"access":{"POST":"user"},"socketFilter":1,"flags":{"POST":"0"},"filter":["LIST","dataType"],"LIST":["0","1"],"dataType":"INTEGER","action":"SWITCH"},"serial-no":{"tableName":"SYSTEM_FIRMWARE","method":["GET","POST"],"socket":{"GET":"10","POST":"11"},"access":{"GET":"user","POST":"admin"},"socketFilter":0,"flags":{"GET":"0","POST":"0"},"filter":["TYPE","dataType"],"TYPE":["LENGTH16"],"dataType":"STR"}},"network":{"ip-settings":{"tableName":"SYSTEM_NETWORK","method":["GET","POST"],"socket":{"GET":"12","POST":"13"},"access":{"GET":"user","POST":"user"},"socketFilter":0,"flags":{"GET":"7","POST":"7"},"array":["ip-addr","subnet-mask","gateway"],"ip-addr":{"tableName":"SYSTEM_NETWORK_IP-SETTINGS","method":["GET","POST"],"socket":{"GET":"12","POST":"13"},"access":{"GET":"user","POST":"user"},"socketFilter":0,"flags":{"GET":"1","POST":"1"},"filter":["TYPE","dataType"],"TYPE":["IPAddress"],"dataType":"STR"},"subnet-mask":{"tableName":"SYSTEM_NETWORK_IP-SETTINGS","method":["GET","POST"],"socket":{"GET":"12","POST":"13"},"access":{"GET":"user","POST":"user"},"socketFilter":0,"flags":{"GET":"2","POST":"2"},"filter":["TYPE","dataType"],"TYPE":["IPAddress"],"dataType":"STR"},"gateway":{"tableName":"SYSTEM_NETWORK_IP-SETTINGS","method":["GET","POST"],"socket":{"GET":"12","POST":"13"},"access":{"GET":"user","POST":"user"},"socketFilter":0,"flags":{"GET":"4","POST":"4"},"filter":["TYPE","dataType"],"TYPE":["IPAddress"],"dataType":"STR"}},"tos":{"tableName":"SYSTEM_NETWORK","method":["GET","POST"],"socket":{"GET":"14","POST":"15"},"access":{"GET":"user","POST":"user"},"socketFilter":0,"flags":{"GET":"0","POST":"0"},"filter":["MIN","MAX","dataType"],"MIN":0,"MAX":63,"dataType":"INTEGER"},"mtu-size":{"tableName":"SYSTEM_NETWORK","method":["GET","POST"],"socket":{"GET":"16","POST":"17"},"access":{"GET":"user","POST":"user"},"socketFilter":0,"flags":{"GET":"0","POST":"0"},"filter":["MIN","MAX","dataType"],"MIN":64,"MAX":1500,"dataType":"INTEGER"},"mode":{"tableName":"SYSTEM_NETWORK","method":["GET","POST"],"socket":{"GET":"18","POST":"19"},"access":{"GET":"user","POST":"user"},"socketFilter":0,"flags":{"GET":"0","POST":"0"},"filter":["LIST","dataType"],"LIST":["1","2","3"],"dataType":"INTEGER"},"notify-ip-addr":{"tableName":"SYSTEM_NETWORK","method":["GET","POST"],"socket":{"GET":"20","POST":"21"},"access":{"GET":"user","POST":"user"},"socketFilter":1,"flags":{"GET":"0","POST":"0"},"filter":["TYPE","dataType"],"TYPE":["IPAddress"],"dataType":"STR","action":"NOTIFY_IP"},"notify-port":{"tableName":"SYSTEM_NETWORK","method":["GET","POST"],"socket":{"GET":"22","POST":"23"},"access":{"GET":"user","POST":"user"},"socketFilter":1,"flags":{"GET":"1","POST":"1"},"array":["port"],"action":"NOTIFY_PORT","port":{"tableName":"SYSTEM_NETWORK_NOTIFY-PORT","method":["GET","POST"],"socket":{"GET":"22","POST":"23"},"access":{"GET":"user","POST":"user"},"socketFilter":1,"flags":{"GET":"1","POST":"1"},"filter":["dataType"],"dataType":"INTEGER","action":"NOTIFY_PORT"}},"image-server-ip-addr":{"tableName":"SYSTEM_NETWORK","method":["GET","POST"],"socket":{"GET":"24","POST":"25"},"access":{"GET":"user","POST":"user"},"socketFilter":0,"flags":{"GET":"0","POST":"0"},"filter":["TYPE","dataType"],"TYPE":["IPAddress"],"dataType":"STR"},"eth-interfaces":{"tableName":"SYSTEM_NETWORK","method":["GET"],"socket":{"GET":"26"},"access":{"GET":"user"},"socketFilter":0,"flags":{"GET":"0"},"filter":["dataType"],"dataType":"INTEGER"}},"diagnostics":{"hw-status":{"tableName":"SYSTEM_DIAGNOSTICS","method":["GET"],"socket":{"GET":"27"},"access":{"GET":"user"},"socketFilter":0,"flags":{"GET":"0"},"filter":["LIST","dataType"],"LIST":["0","1"],"dataType":"INTEGER"},"temperature-threshold":{"tableName":"SYSTEM_DIAGNOSTICS","method":["GET","POST"],"socket":{"GET":"84","POST":"85"},"access":{"GET":"user","POST":"user"},"socketFilter":0,"flags":{"GET":"0","POST":"0"},"filter":["dataType"],"dataType":"INTEGER"},"temperature":{"tableName":"SYSTEM_DIAGNOSTICS","method":["GET"],"socket":{"GET":"28"},"access":{"GET":"user"},"socketFilter":0,"flags":{"GET":"0"},"filter":["dataType"],"dataType":"DOUBLE"},"device-log":{"tableName":"SYSTEM_DIAGNOSTICS","method":["GET"],"socket":{"GET":"29"},"access":{"GET":"user"},"socketFilter":0,"flags":{"GET":"0"},"filter":["dataType"],"dataType":"STR"},"device-log-level":{"tableName":"SYSTEM_DIAGNOSTICS","method":["GET","POST"],"socket":{"GET":"30","POST":"31"},"access":{"GET":"user","POST":"user"},"socketFilter":1,"flags":{"GET":"0","POST":"0"},"filter":["MIN","MAX","dataType"],"MIN":0,"MAX":7,"dataType":"INTEGER","action":"LOG_LEVEL"},"device-log-facility":{"tableName":"SYSTEM_DIAGNOSTICS","method":["GET","POST"],"socket":{"GET":"32","POST":"33"},"access":{"GET":"user","POST":"user"},"socketFilter":1,"flags":{"GET":"0","POST":"0"},"filter":["MIN","MAX","dataType"],"MIN":0,"MAX":3,"dataType":"INTEGER","action":"LOG_FACILITY"},"dev-log-ip-addr":{"tableName":"SYSTEM_DIAGNOSTICS","method":["GET","POST"],"socket":{"GET":"34","POST":"35"},"access":{"GET":"user","POST":"user"},"socketFilter":1,"flags":{"GET":"0","POST":"0"},"filter":["TYPE","dataType"],"TYPE":["IPAddress"],"dataType":"STR","action":"LOG_IP_ADDRESS"}},"splash-scrn":{"enable":{"tableName":"SYSTEM_SPLASH-SCRN","method":["GET","POST"],"socket":{"GET":"36","POST":"37"},"access":{"GET":"user","POST":"user"},"socketFilter":0,"flags":{"GET":"0","POST":"0"},"filter":["MIN","MAX","dataType"],"MIN":0,"MAX":1,"dataType":"INTEGER"},"upload":{"tableName":"SYSTEM_SPLASH-SCRN","method":["POST"],"socket":{"POST":"38"},"access":{"POST":"user"},"socketFilter":1,"flags":{"POST":"3"},"array":["file_name","location"],"action":"SPLASH_SCREEN_UPLOAD","file_name":{"tableName":"SYSTEM_SPLASH-SCRN_UPLOAD","method":["POST"],"socket":{"POST":"38"},"access":{"POST":"user"},"socketFilter":1,"flags":{"POST":"1"},"filter":["dataType"],"dataType":"STR","action":"SPLASH_SCREEN_UPLOAD"},"location":{"tableName":"SYSTEM_SPLASH-SCRN_UPLOAD","method":["POST"],"socket":{"POST":"38"},"access":{"POST":"user"},"socketFilter":1,"flags":{"POST":"2"},"filter":["dataType"],"dataType":"STR","action":"SPLASH_SCREEN_UPLOAD"}},"get-name":{"tableName":"SYSTEM_SPLASH-SCRN","method":["GET"],"socket":{"GET":"39"},"access":{"GET":"user"},"socketFilter":0,"flags":{"GET":"0"},"filter":["dataType"],"dataType":"STR"}},"reset":{"soft-reset":{"tableName":"SYSTEM_RESET","method":["POST"],"socket":{"POST":"40"},"access":{"POST":"user"},"socketFilter":0,"flags":{"POST":"0"},"filter":["LIST","dataType"],"LIST":["1"],"dataType":"INTEGER"},"configuration-reset":{"tableName":"SYSTEM_RESET","method":["POST"],"socket":{"POST":"41"},"access":{"POST":"user"},"socketFilter":1,"flags":{"POST":"0"},"filter":["LIST","dataType"],"LIST":["1"],"dataType":"INTEGER","action":"FACTORY_RESET"},"factory-reset":{"tableName":"SYSTEM_RESET","method":["POST"],"socket":{"POST":"42"},"access":{"POST":"user"},"socketFilter":1,"flags":{"POST":"0"},"filter":["LIST","dataType"],"LIST":["1"],"dataType":"INTEGER","action":"CONFIG_RESET"}},"reboot":{"tableName":"SYSTEM","method":["POST"],"socket":{"POST":"43"},"access":{"POST":"user"},"socketFilter":1,"flags":{"POST":"0"},"filter":["LIST","dataType"],"LIST":["1"],"dataType":"INTEGER","action":"REBOOT"},"authentication":{"user":{"tableName":"SYSTEM_AUTHENTICATION","method":["GET","POST"],"socket":{"GET":"44","POST":"45"},"access":{"GET":"user","POST":"user"},"socketFilter":1,"flags":{"GET":"0","POST":"0"},"filter":["dataType"],"dataType":"STR","action":"USER_NAME"},"user-pwd":{"tableName":"SYSTEM_AUTHENTICATION","method":["POST"],"socket":{"POST":"46"},"access":{"POST":"user"},"socketFilter":1,"flags":{"POST":"0"},"filter":["dataType"],"dataType":"STR","action":"USER_PWD"},"admin":{"tableName":"SYSTEM_AUTHENTICATION","method":["GET","POST"],"socket":{"GET":"47","POST":"48"},"access":{"GET":"admin","POST":"admin"},"socketFilter":1,"flags":{"GET":"0","POST":"0"},"filter":["dataType"],"dataType":"STR","action":"ADMIN_NAME"},"admin-pwd":{"tableName":"SYSTEM_AUTHENTICATION","method":["POST"],"socket":{"POST":"49"},"access":{"POST":"admin"},"socketFilter":1,"flags":{"POST":"0"},"filter":["dataType"],"dataType":"STR","action":"ADMIN_PWD"}},"identification":{"id":{"tableName":"SYSTEM_IDENTIFICATION","method":["GET","POST"],"socket":{"GET":"50","POST":"86"},"access":{"GET":"user","POST":"admin"},"socketFilter":0,"flags":{"GET":"0","POST":"0"},"filter":["dataType"],"dataType":"STR","action":"ID"}},"video-mode":{"enable-3d":{"tableName":"SYSTEM_VIDEO-MODE","method":["GET","POST"],"socket":{"GET":"51","POST":"52"},"access":{"GET":"user","POST":"user"},"socketFilter":0,"flags":{"GET":"0","POST":"0"},"filter":["MIN","MAX","dataType"],"MIN":0,"MAX":1,"dataType":"INTEGER"}},"config-file":{"upload":{"tableName":"SYSTEM_CONFIG-FILE","method":["POST"],"socket":{"POST":"53"},"access":{"POST":"admin"},"socketFilter":0,"flags":{"POST":"3"},"array":["file-name","location"],"file-name":{"tableName":"SYSTEM_CONFIG-FILE_UPLOAD","method":["POST"],"socket":{"POST":"53"},"access":{"POST":"admin"},"socketFilter":0,"flags":{"POST":"1"},"filter":["dataType"],"dataType":"STR"},"location":{"tableName":"SYSTEM_CONFIG-FILE_UPLOAD","method":["POST"],"socket":{"POST":"53"},"access":{"POST":"admin"},"socketFilter":0,"flags":{"POST":"2"},"filter":["dataType"],"dataType":"STR"}},"download":{"tableName":"SYSTEM_CONFIG-FILE","method":["GET"],"socket":{"GET":"54"},"access":{"GET":"user"},"socketFilter":0,"flags":{"GET":"0"},"filter":["dataType"],"dataType":"STR"},"delete":{"tableName":"SYSTEM_CONFIG-FILE","method":["POST"],"socket":{"POST":"55"},"access":{"POST":"admin"},"socketFilter":0,"flags":{"POST":"1"},"array":["file-name"],"file-name":{"tableName":"SYSTEM_CONFIG-FILE_DELETE","method":["POST"],"socket":{"POST":"55"},"access":{"POST":"admin"},"socketFilter":0,"flags":{"POST":"1"},"filter":["dataType"],"dataType":"STR"}},"update":{"tableName":"SYSTEM_CONFIG-FILE","method":["POST"],"socket":{"POST":"56"},"access":{"POST":"admin"},"socketFilter":1,"flags":{"POST":"0"},"filter":["dataType"],"dataType":"STR","action":"CONFIG_UPDATE"}},"mdns":{"add-key":{"tableName":"SYSTEM_MDNS","method":["POST"],"socket":{"POST":"57"},"access":{"POST":"user"},"socketFilter":1,"flags":{"POST":"0"},"array":["key","data-value"],"action":"ADD_RECORD","key":{"tableName":"SYSTEM_MDNS_ADD-KEY","method":["POST"],"socket":{"POST":"57"},"access":{"POST":"user"},"socketFilter":1,"flags":{"POST":"0"},"filter":["dataType"],"dataType":"STR","action":"ADD_RECORD"},"data-value":{"tableName":"SYSTEM_MDNS_ADD-KEY","method":["POST"],"socket":{"POST":"57"},"access":{"POST":"user"},"socketFilter":1,"flags":{"POST":"0"},"filter":["dataType"],"dataType":"STR","action":"ADD_RECORD"}},"delete-key":{"tableName":"SYSTEM_MDNS","method":["POST"],"socket":{"POST":"58"},"access":{"POST":"user"},"socketFilter":1,"flags":{"POST":"0"},"filter":["dataType"],"dataType":"STR","action":"DELETE_RECORD"},"read-key":{"tableName":"SYSTEM_MDNS","method":["GET"],"socket":{"GET":"59"},"access":{"GET":"user"},"socketFilter":1,"flags":{"GET":"0"},"filter":["dataType"],"dataType":"STR","action":"READ_RECORD"},"edit-key":{"tableName":"SYSTEM_MDNS","method":["POST"],"socket":{"POST":"60"},"access":{"POST":"user"},"socketFilter":1,"flags":{"POST":"0"},"array":["key","data-value"],"action":"EDIT_RECORD","key":{"tableName":"SYSTEM_MDNS_EDIT-KEY","method":["POST"],"socket":{"POST":"60"},"access":{"POST":"user"},"socketFilter":1,"flags":{"POST":"0"},"filter":["dataType"],"dataType":"STR","action":"EDIT_RECORD"},"data-value":{"tableName":"SYSTEM_MDNS_EDIT-KEY","method":["POST"],"socket":{"POST":"60"},"access":{"POST":"user"},"socketFilter":1,"flags":{"POST":"0"},"filter":["dataType"],"dataType":"STR","action":"EDIT_RECORD"}}},"misc":{"board-type":{"tableName":"SYSTEM_MISC","method":["GET"],"socket":{"GET":"61"},"access":{"GET":"user"},"socketFilter":0,"flags":{"GET":"0"},"filter":["LIST","dataType"],"LIST":["0","1","3","4"],"dataType":"INTEGER"},"led-on-time":{"tableName":"SYSTEM_MISC","method":["GET","POST"],"socket":{"GET":"62","POST":"63"},"access":{"GET":"user","POST":"user"},"socketFilter":0,"flags":{"GET":"0","POST":"0"},"filter":["MIN","MAX","dataType"],"MIN":1,"MAX":60,"dataType":"INTEGER"},"led-off-time":{"tableName":"SYSTEM_MISC","method":["GET","POST"],"socket":{"GET":"64","POST":"65"},"access":{"GET":"user","POST":"user"},"socketFilter":0,"flags":{"GET":"0","POST":"0"},"filter":["MIN","MAX","dataType"],"MIN":1,"MAX":60,"dataType":"INTEGER"},"http-mode":{"tableName":"SYSTEM_MISC","method":["GET","POST"],"socket":{"GET":"66","POST":"67"},"access":{"GET":"user","POST":"user"},"socketFilter":1,"flags":{"GET":"0","POST":"0"},"filter":["MIN","MAX","dataType"],"MIN":1,"MAX":2,"dataType":"INTEGER","action":"HTTP_SWITCH"},"enable-encryption":{"tableName":"SYSTEM_MISC","method":["GET","POST"],"socket":{"GET":"68","POST":"69"},"access":{"GET":"user","POST":"user"},"socketFilter":1,"flags":{"GET":"0","POST":"0"},"filter":["MIN","MAX","dataType"],"MIN":0,"MAX":1,"dataType":"INTEGER","action":"ENCRYPT_DECRYPT"},"rtc":{"tableName":"SYSTEM_MISC","method":["GET","POST"],"socket":{"GET":"70","POST":"71"},"access":{"GET":"user","POST":"user"},"socketFilter":0,"flags":{"GET":"63","POST":"63"},"array":["year","month","day","hour","min","sec"],"year":{"tableName":"SYSTEM_MISC_RTC","method":["GET","POST"],"socket":{"GET":"70","POST":"71"},"access":{"GET":"user","POST":"user"},"socketFilter":0,"flags":{"GET":"1","POST":"1"},"filter":["MIN","MAX","dataType"],"MIN":1970,"MAX":2050,"dataType":"INTEGER"},"month":{"tableName":"SYSTEM_MISC_RTC","method":["GET","POST"],"socket":{"GET":"70","POST":"71"},"access":{"GET":"user","POST":"user"},"socketFilter":0,"flags":{"GET":"2","POST":"2"},"filter":["MIN","MAX","dataType"],"MIN":1,"MAX":12,"dataType":"INTEGER"},"day":{"tableName":"SYSTEM_MISC_RTC","method":["GET","POST"],"socket":{"GET":"70","POST":"71"},"access":{"GET":"user","POST":"user"},"socketFilter":0,"flags":{"GET":"4","POST":"4"},"filter":["MIN","MAX","dataType"],"MIN":1,"MAX":31,"dataType":"INTEGER"},"hour":{"tableName":"SYSTEM_MISC_RTC","method":["GET","POST"],"socket":{"GET":"70","POST":"71"},"access":{"GET":"user","POST":"user"},"socketFilter":0,"flags":{"GET":"8","POST":"8"},"filter":["MIN","MAX","dataType"],"MIN":0,"MAX":23,"dataType":"INTEGER"},"min":{"tableName":"SYSTEM_MISC_RTC","method":["GET","POST"],"socket":{"GET":"70","POST":"71"},"access":{"GET":"user","POST":"user"},"socketFilter":0,"flags":{"GET":"16","POST":"16"},"filter":["MIN","MAX","dataType"],"MIN":0,"MAX":59,"dataType":"INTEGER"},"sec":{"tableName":"SYSTEM_MISC_RTC","method":["GET","POST"],"socket":{"GET":"70","POST":"71"},"access":{"GET":"user","POST":"user"},"socketFilter":0,"flags":{"GET":"32","POST":"32"},"filter":["MIN","MAX","dataType"],"MIN":0,"MAX":59,"dataType":"INTEGER"}},"ftp-mode":{"tableName":"SYSTEM_MISC","method":["GET","POST"],"socket":{"GET":"72","POST":"73"},"access":{"GET":"user","POST":"user"},"socketFilter":0,"flags":{"GET":"0","POST":"0"},"filter":["MIN","MAX","dataType"],"MIN":1,"MAX":2,"dataType":"INTEGER"},"ftp-auth":{"tableName":"SYSTEM_MISC","method":["GET","POST"],"socket":{"GET":"87","POST":"88"},"access":{"GET":"admin","POST":"admin"},"socketFilter":0,"flags":{"GET":"3","POST":"3"},"array":["username","password"],"username":{"tableName":"SYSTEM_MISC_FTP-AUTH","method":["GET","POST"],"socket":{"GET":"87","POST":"88"},"access":{"GET":"admin","POST":"admin"},"socketFilter":1,"flags":{"GET":"0","POST":"0"},"filter":["dataType"],"dataType":"STR"},"password":{"tableName":"SYSTEM_MISC_FTP-AUTH","method":["GET","POST"],"socket":{"GET":"87","POST":"88"},"access":{"GET":"admin","POST":"admin"},"socketFilter":2,"flags":{"GET":"0","POST":"0"},"filter":["dataType"],"dataType":"STR"}},"acc-debounce-time":{"tableName":"SYSTEM_MISC","method":["GET","POST"],"socket":{"GET":"74","POST":"75"},"access":{"GET":"user","POST":"user"},"socketFilter":0,"flags":{"GET":"0","POST":"0"},"filter":["MIN","MAX","dataType"],"MIN":1,"MAX":10000,"dataType":"INTEGER"},"acc1-reaction":{"tableName":"SYSTEM_MISC","method":["GET","POST"],"socket":{"GET":"76","POST":"77"},"access":{"GET":"user","POST":"user"},"socketFilter":0,"flags":{"GET":"0","POST":"0"},"filter":["LIST","dataType"],"LIST":["1","2","3"],"dataType":"INTEGER"},"acc2-reaction":{"tableName":"SYSTEM_MISC","method":["GET","POST"],"socket":{"GET":"78","POST":"79"},"access":{"GET":"user","POST":"user"},"socketFilter":0,"flags":{"GET":"0","POST":"0"},"filter":["LIST","dataType"],"LIST":["1","2","3"],"dataType":"INTEGER"},"acc1-notify":{"tableName":"SYSTEM_MISC","method":["GET","POST"],"socket":{"GET":"80","POST":"81"},"access":{"GET":"user","POST":"user"},"socketFilter":0,"flags":{"GET":"0","POST":"0"},"filter":["MIN","MAX","dataType"],"MIN":0,"MAX":1,"dataType":"INTEGER"},"acc2-notify":{"tableName":"SYSTEM_MISC","method":["GET","POST"],"socket":{"GET":"82","POST":"83"},"access":{"GET":"user","POST":"user"},"socketFilter":0,"flags":{"GET":"0","POST":"0"},"filter":["MIN","MAX","dataType"],"MIN":0,"MAX":1,"dataType":"INTEGER"}}},"video":{"input":{"videos":{"tableName":"VIDEO_INPUT","method":["GET"],"socket":{"GET":"101"},"access":{"GET":"user"},"socketFilter":0,"flags":{"GET":"0"},"filter":["dataType"],"dataType":"INTEGER"},"resolution":{"tableName":"VIDEO_INPUT","method":["GET"],"socket":{"GET":"102"},"access":{"GET":"user"},"socketFilter":0,"flags":{"GET":"0"},"filter":["dataType"],"dataType":"STR"},"frame-rate":{"tableName":"VIDEO_INPUT","method":["GET"],"socket":{"GET":"103"},"access":{"GET":"user"},"socketFilter":0,"flags":{"GET":"0"},"filter":["dataType"],"dataType":"INTEGER"},"valid-input":{"tableName":"VIDEO_INPUT","method":["GET"],"socket":{"GET":"104"},"access":{"GET":"user"},"socketFilter":0,"flags":{"GET":"0"},"filter":["dataType"],"dataType":"INTEGER"},"cable-presence":{"tableName":"VIDEO_INPUT","method":["GET"],"socket":{"GET":"105"},"access":{"GET":"user"},"socketFilter":0,"flags":{"GET":"0"},"filter":["dataType"],"dataType":"INTEGER"},"analog-video":{"tableName":"VIDEO_INPUT","method":["POST"],"socket":{"POST":"106"},"access":{"POST":"user"},"socketFilter":0,"flags":{"POST":"0"},"filter":["MIN","MAX","dataType"],"MIN":0,"MAX":3,"dataType":"INTEGER"},"video-interface":{"tableName":"VIDEO_INPUT","method":["GET"],"socket":{"GET":"107"},"access":{"GET":"user"},"socketFilter":0,"flags":{"GET":"0"},"filter":["MIN","MAX","dataType"],"MIN":0,"MAX":5,"dataType":"INTEGER"},"enable-color-bar":{"tableName":"VIDEO_INPUT","method":["GET","POST"],"socket":{"GET":"108","POST":"109"},"access":{"GET":"user","POST":"user"},"socketFilter":0,"flags":{"GET":"0","POST":"0"},"filter":["MIN","MAX","dataType"],"MIN":0,"MAX":1,"dataType":"INTEGER"},"enable-manual-rx-phy-settings":{"tableName":"VIDEO_INPUT","method":["GET","POST"],"socket":{"GET":"149","POST":"150"},"access":{"GET":"user","POST":"user"},"socketFilter":0,"flags":{"GET":"0","POST":"0"},"filter":["MIN","MAX","dataType"],"MIN":0,"MAX":1,"dataType":"INTEGER"},"rx-phy-parameters":{"tableName":"VIDEO_INPUT","method":["GET","POST"],"socket":{"GET":"110","POST":"111"},"access":{"GET":"user","POST":"user"},"socketFilter":0,"flags":{"GET":"2047","POST":"2047"},"array":["y-dc-bias","cr-dc-bias","cb-dc-bias","video-gain","chroma-gain","hue","pedestal-enable","y-gain","cr-gain","cb-gain","internal-video-generator-enable"],"y-dc-bias":{"tableName":"VIDEO_INPUT_RX-PHY-PARAMETERS","method":["GET","POST"],"socket":{"GET":"110","POST":"111"},"access":{"GET":"user","POST":"user"},"socketFilter":0,"flags":{"GET":"1","POST":"1"},"filter":["MIN","MAX","dataType"],"MIN":0,"MAX":4095,"dataType":"INTEGER"},"cr-dc-bias":{"tableName":"VIDEO_INPUT_RX-PHY-PARAMETERS","method":["GET","POST"],"socket":{"GET":"110","POST":"111"},"access":{"GET":"user","POST":"user"},"socketFilter":0,"flags":{"GET":"2","POST":"2"},"filter":["MIN","MAX","dataType"],"MIN":0,"MAX":4095,"dataType":"INTEGER"},"cb-dc-bias":{"tableName":"VIDEO_INPUT_RX-PHY-PARAMETERS","method":["GET","POST"],"socket":{"GET":"110","POST":"111"},"access":{"GET":"user","POST":"user"},"socketFilter":0,"flags":{"GET":"4","POST":"4"},"filter":["MIN","MAX","dataType"],"MIN":0,"MAX":4095,"dataType":"INTEGER"},"video-gain":{"tableName":"VIDEO_INPUT_RX-PHY-PARAMETERS","method":["GET","POST"],"socket":{"GET":"110","POST":"111"},"access":{"GET":"user","POST":"user"},"socketFilter":0,"flags":{"GET":"8","POST":"8"},"filter":["MIN","MAX","dataType"],"MIN":512,"MAX":4095,"dataType":"INTEGER"},"chroma-gain":{"tableName":"VIDEO_INPUT_RX-PHY-PARAMETERS","method":["GET","POST"],"socket":{"GET":"110","POST":"111"},"access":{"GET":"user","POST":"user"},"socketFilter":0,"flags":{"GET":"16","POST":"16"},"filter":["MIN","MAX","dataType"],"MIN":512,"MAX":8191,"dataType":"INTEGER"},"hue":{"tableName":"VIDEO_INPUT_RX-PHY-PARAMETERS","method":["GET","POST"],"socket":{"GET":"110","POST":"111"},"access":{"GET":"user","POST":"user"},"socketFilter":0,"flags":{"GET":"32","POST":"32"},"filter":["MIN","MAX","dataType"],"MIN":0,"MAX":1023,"dataType":"INTEGER"},"pedestal-enable":{"tableName":"VIDEO_INPUT_RX-PHY-PARAMETERS","method":["GET","POST"],"socket":{"GET":"110","POST":"111"},"access":{"GET":"user","POST":"user"},"socketFilter":0,"flags":{"GET":"64","POST":"64"},"filter":["MIN","MAX","dataType"],"MIN":0,"MAX":1,"dataType":"INTEGER"},"y-gain":{"tableName":"VIDEO_INPUT_RX-PHY-PARAMETERS","method":["GET","POST"],"socket":{"GET":"110","POST":"111"},"access":{"GET":"user","POST":"user"},"socketFilter":0,"flags":{"GET":"128","POST":"128"},"filter":["MIN","MAX","dataType"],"MIN":0,"MAX":1023,"dataType":"INTEGER"},"cr-gain":{"tableName":"VIDEO_INPUT_RX-PHY-PARAMETERS","method":["GET","POST"],"socket":{"GET":"110","POST":"111"},"access":{"GET":"user","POST":"user"},"socketFilter":0,"flags":{"GET":"256","POST":"256"},"filter":["MIN","MAX","dataType"],"MIN":0,"MAX":1023,"dataType":"INTEGER"},"cb-gain":{"tableName":"VIDEO_INPUT_RX-PHY-PARAMETERS","method":["GET","POST"],"socket":{"GET":"110","POST":"111"},"access":{"GET":"user","POST":"user"},"socketFilter":0,"flags":{"GET":"512","POST":"512"},"filter":["MIN","MAX","dataType"],"MIN":0,"MAX":1023,"dataType":"INTEGER"},"internal-video-generator-enable":{"tableName":"VIDEO_INPUT_RX-PHY-PARAMETERS","method":["GET","POST"],"socket":{"GET":"110","POST":"111"},"access":{"GET":"user","POST":"user"},"socketFilter":0,"flags":{"GET":"1024","POST":"1024"},"filter":["MIN","MAX","dataType"],"MIN":0,"MAX":1,"dataType":"INTEGER"}}},"output":{"streams":{"tableName":"VIDEO_OUTPUT","method":["GET"],"socket":{"GET":"112"},"access":{"GET":"user"},"socketFilter":0,"flags":{"GET":"0"},"filter":["MIN","MAX","dataType"],"MIN":0,"MAX":3,"dataType":"INTEGER"},"frame-rate":{"tableName":"VIDEO_OUTPUT","method":["GET","POST"],"socket":{"GET":"113","POST":"114"},"access":{"GET":"user","POST":"user"},"socketFilter":0,"flags":{"GET":"0","POST":"0"},"filter":["MIN","MAX","dataType"],"MIN":0,"MAX":1,"dataType":"INTEGER"},"hqll-tx-status":{"tableName":"VIDEO_OUTPUT","method":["GET"],"socket":{"GET":"115"},"access":{"GET":"user"},"socketFilter":0,"flags":{"GET":"0"},"filter":["MIN","MAX","dataType"],"MIN":0,"MAX":1,"dataType":"INTEGER"},"pes-tx-status":{"tableName":"VIDEO_OUTPUT","method":["GET"],"socket":{"GET":"116"},"access":{"GET":"user"},"socketFilter":0,"flags":{"GET":"0"},"filter":["MIN","MAX","dataType"],"MIN":0,"MAX":1,"dataType":"INTEGER"},"ses-tx-status":{"tableName":"VIDEO_OUTPUT","method":["GET"],"socket":{"GET":"117"},"access":{"GET":"user"},"socketFilter":0,"flags":{"GET":"0"},"filter":["MIN","MAX","dataType"],"MIN":0,"MAX":1,"dataType":"INTEGER"},"enable-hqll-tx":{"tableName":"VIDEO_OUTPUT","method":["POST"],"socket":{"POST":"118"},"access":{"POST":"user"},"socketFilter":0,"flags":{"POST":"0"},"filter":["MIN","MAX","dataType"],"MIN":0,"MAX":1,"dataType":"INTEGER"},"enable-pes-tx":{"tableName":"VIDEO_OUTPUT","method":["POST"],"socket":{"POST":"119"},"access":{"POST":"user"},"socketFilter":0,"flags":{"POST":"0"},"filter":["MIN","MAX","dataType"],"MIN":0,"MAX":1,"dataType":"INTEGER"},"enable-ses-tx":{"tableName":"VIDEO_OUTPUT","method":["POST"],"socket":{"POST":"120"},"access":{"POST":"user"},"socketFilter":0,"flags":{"POST":"0"},"filter":["MIN","MAX","dataType"],"MIN":0,"MAX":1,"dataType":"INTEGER"},"pes-resolution":{"tableName":"VIDEO_OUTPUT","method":["GET","POST"],"socket":{"GET":"121","POST":"122"},"access":{"GET":"user","POST":"user"},"socketFilter":0,"flags":{"GET":"0","POST":"0"},"filter":["LIST","dataType"],"LIST":["720p","1080p"],"dataType":"STR"},"ses-resolution":{"tableName":"VIDEO_OUTPUT","method":["GET","POST"],"socket":{"GET":"123","POST":"124"},"access":{"GET":"user","POST":"user"},"socketFilter":0,"flags":{"GET":"0","POST":"0"},"filter":["LIST","dataType"],"LIST":["360p"],"dataType":"STR"},"pes-bitrate":{"tableName":"VIDEO_OUTPUT","method":["GET","POST"],"socket":{"GET":"125","POST":"126"},"access":{"GET":"user","POST":"user"},"socketFilter":0,"flags":{"GET":"0","POST":"0"},"filter":["MIN","MAX","dataType"],"MIN":3000000,"MAX":20000000,"dataType":"INTEGER"},"ses-bitrate":{"tableName":"VIDEO_OUTPUT","method":["GET","POST"],"socket":{"GET":"127","POST":"128"},"access":{"GET":"user","POST":"user"},"socketFilter":0,"flags":{"GET":"0","POST":"0"},"filter":["MIN","MAX","dataType"],"MIN":256000,"MAX":2000000,"dataType":"INTEGER"},"hqll-mult-ip-addr":{"tableName":"VIDEO_OUTPUT","method":["GET","POST"],"socket":{"GET":"129","POST":"130"},"access":{"GET":"user","POST":"user"},"socketFilter":0,"flags":{"GET":"3","POST":"3"},"array":["ip-addr","port"],"ip-addr":{"tableName":"VIDEO_OUTPUT_HQLL-MULT-IP-ADDR","method":["GET","POST"],"socket":{"GET":"129","POST":"130"},"access":{"GET":"user","POST":"user"},"socketFilter":0,"flags":{"GET":"1","POST":"1"},"filter":["TYPE","dataType"],"TYPE":["IPAddress"],"dataType":"STR"},"port":{"tableName":"VIDEO_OUTPUT_HQLL-MULT-IP-ADDR","method":["GET","POST"],"socket":{"GET":"129","POST":"130"},"access":{"GET":"user","POST":"user"},"socketFilter":0,"flags":{"GET":"2","POST":"2"},"filter":["dataType"],"dataType":"INTEGER"}},"pes-mult-ip-addr":{"tableName":"VIDEO_OUTPUT","method":["GET","POST"],"socket":{"GET":"131","POST":"132"},"access":{"GET":"user","POST":"user"},"socketFilter":0,"flags":{"GET":"3","POST":"3"},"array":["ip-addr","port"],"ip-addr":{"tableName":"VIDEO_OUTPUT_PES-MULT-IP-ADDR","method":["GET","POST"],"socket":{"GET":"131","POST":"132"},"access":{"GET":"user","POST":"user"},"socketFilter":0,"flags":{"GET":"1","POST":"1"},"filter":["TYPE","dataType"],"TYPE":["IPAddress"],"dataType":"STR"},"port":{"tableName":"VIDEO_OUTPUT_PES-MULT-IP-ADDR","method":["GET","POST"],"socket":{"GET":"131","POST":"132"},"access":{"GET":"user","POST":"user"},"socketFilter":0,"flags":{"GET":"2","POST":"2"},"filter":["dataType"],"dataType":"INTEGER"}},"ses-mult-ip-addr":{"tableName":"VIDEO_OUTPUT","method":["GET","POST"],"socket":{"GET":"133","POST":"134"},"access":{"GET":"user","POST":"user"},"socketFilter":0,"flags":{"GET":"3","POST":"3"},"array":["ip-addr","port"],"ip-addr":{"tableName":"VIDEO_OUTPUT_SES-MULT-IP-ADDR","method":["GET","POST"],"socket":{"GET":"133","POST":"134"},"access":{"GET":"user","POST":"user"},"socketFilter":0,"flags":{"GET":"1","POST":"1"},"filter":["TYPE","dataType"],"TYPE":["IPAddress"],"dataType":"STR"},"port":{"tableName":"VIDEO_OUTPUT_SES-MULT-IP-ADDR","method":["GET","POST"],"socket":{"GET":"133","POST":"134"},"access":{"GET":"user","POST":"user"},"socketFilter":0,"flags":{"GET":"2","POST":"2"},"filter":["dataType"],"dataType":"INTEGER"}},"pes-rtp-mode":{"tableName":"VIDEO_OUTPUT","method":["GET","POST"],"socket":{"GET":"135","POST":"136"},"access":{"GET":"user","POST":"user"},"socketFilter":0,"flags":{"GET":"0","POST":"0"},"filter":["MIN","MAX","dataType"],"MIN":0,"MAX":1,"dataType":"INTEGER"},"enable-pes-msg-auth":{"tableName":"VIDEO_OUTPUT","method":["GET","POST"],"socket":{"GET":"137","POST":"138"},"access":{"GET":"user","POST":"user"},"socketFilter":0,"flags":{"GET":"0","POST":"0"},"filter":["MIN","MAX","dataType"],"MIN":0,"MAX":1,"dataType":"INTEGER"},"ses-rtp-mode":{"tableName":"VIDEO_OUTPUT","method":["GET","POST"],"socket":{"GET":"141","POST":"142"},"access":{"GET":"user","POST":"user"},"socketFilter":0,"flags":{"GET":"0","POST":"0"},"filter":["MIN","MAX","dataType"],"MIN":0,"MAX":1,"dataType":"INTEGER"},"enable-ses-msg-auth":{"tableName":"VIDEO_OUTPUT","method":["GET","POST"],"socket":{"GET":"143","POST":"144"},"access":{"GET":"user","POST":"user"},"socketFilter":0,"flags":{"GET":"0","POST":"0"},"filter":["MIN","MAX","dataType"],"MIN":0,"MAX":1,"dataType":"INTEGER"},"mute":{"tableName":"VIDEO_OUTPUT","method":["GET","POST"],"socket":{"GET":"147","POST":"148"},"access":{"GET":"user","POST":"user"},"socketFilter":0,"flags":{"GET":"0","POST":"0"},"filter":["MIN","MAX","dataType"],"MIN":0,"MAX":1,"dataType":"INTEGER"}}},"still-capture":{"feature-enable":{"tableName":"STILL-CAPTURE","method":["GET","POST"],"socket":{"GET":"201","POST":"202"},"access":{"GET":"admin","POST":"admin"},"socketFilter":0,"flags":{"GET":"0","POST":"0"},"filter":["MIN","MAX","dataType"],"MIN":0,"MAX":1,"dataType":"INTEGER"},"capture-image":{"tableName":"STILL-CAPTURE","method":["POST"],"socket":{"POST":"203"},"access":{"POST":"user"},"socketFilter":0,"flags":{"POST":"0"},"filter":["MIN","MAX","dataType"],"MIN":1,"MAX":2,"dataType":"INTEGER"},"enable-pip":{"tableName":"STILL-CAPTURE","method":["GET","POST"],"socket":{"GET":"204","POST":"205"},"access":{"GET":"user","POST":"user"},"socketFilter":0,"flags":{"GET":"0","POST":"0"},"filter":["MIN","MAX","dataType"],"MIN":0,"MAX":1,"dataType":"INTEGER"},"ip-addr":{"tableName":"STILL-CAPTURE","method":["GET","POST"],"socket":{"GET":"206","POST":"207"},"access":{"GET":"user","POST":"user"},"socketFilter":0,"flags":{"GET":"3","POST":"3"},"array":["ip_addr","location"],"ip_addr":{"tableName":"STILL-CAPTURE_IP-ADDR","method":["GET","POST"],"socket":{"GET":"206","POST":"207"},"access":{"GET":"user","POST":"user"},"socketFilter":0,"flags":{"GET":"1","POST":"1"},"filter":["TYPE","dataType"],"TYPE":["IPAddress"],"dataType":"STR"},"location":{"tableName":"STILL-CAPTURE_IP-ADDR","method":["GET","POST"],"socket":{"GET":"206","POST":"207"},"access":{"GET":"user","POST":"user"},"socketFilter":0,"flags":{"GET":"2","POST":"2"},"filter":["dataType"],"dataType":"STR"}},"pip-loc":{"tableName":"STILL-CAPTURE","method":["GET","POST"],"socket":{"GET":"208","POST":"209"},"access":{"GET":"user","POST":"user"},"socketFilter":0,"flags":{"GET":"3","POST":"3"},"array":["x-location","y-location"],"x-location":{"tableName":"STILL-CAPTURE_PIP-LOC","method":["GET","POST"],"socket":{"GET":"208","POST":"209"},"access":{"GET":"user","POST":"user"},"socketFilter":0,"flags":{"GET":"1","POST":"1"},"filter":["MIN","MAX","dataType"],"MIN":0,"MAX":1280,"dataType":"INTEGER"},"y-location":{"tableName":"STILL-CAPTURE_PIP-LOC","method":["GET","POST"],"socket":{"GET":"208","POST":"209"},"access":{"GET":"user","POST":"user"},"socketFilter":0,"flags":{"GET":"2","POST":"2"},"filter":["MIN","MAX","dataType"],"MIN":0,"MAX":720,"dataType":"INTEGER"}},"pip-time":{"tableName":"STILL-CAPTURE","method":["GET","POST"],"socket":{"GET":"210","POST":"211"},"access":{"GET":"user","POST":"user"},"socketFilter":0,"flags":{"GET":"1","POST":"1"},"array":["time"],"time":{"tableName":"STILL-CAPTURE_PIP-TIME","method":["GET","POST"],"socket":{"GET":"210","POST":"211"},"access":{"GET":"user","POST":"user"},"socketFilter":0,"flags":{"GET":"1","POST":"1"},"filter":["MIN","MAX","dataType"],"MIN":1,"MAX":100,"dataType":"INTEGER"}},"enable-transfer":{"tableName":"STILL-CAPTURE","method":["GET","POST"],"socket":{"GET":"212","POST":"213"},"access":{"GET":"admin","POST":"admin"},"socketFilter":0,"flags":{"GET":"0","POST":"0"},"filter":["MIN","MAX","dataType"],"MIN":0,"MAX":1,"dataType":"INTEGER"},"auto-transfer":{"tableName":"STILL-CAPTURE","method":["GET","POST"],"socket":{"GET":"214","POST":"215"},"access":{"GET":"user","POST":"user"},"socketFilter":0,"flags":{"GET":"0","POST":"0"},"filter":["MIN","MAX","dataType"],"MIN":0,"MAX":1,"dataType":"INTEGER"},"transfer":{"tableName":"STILL-CAPTURE","method":["POST"],"socket":{"POST":"216"},"access":{"POST":"user"},"socketFilter":0,"flags":{"POST":"1"},"array":["image-id"],"image-id":{"tableName":"STILL-CAPTURE_IMAGE-ID","method":["POST"],"socket":{"POST":"216"},"access":{"POST":"user"},"socketFilter":0,"flags":{"POST":"1"},"filter":["dataType"],"dataType":"STR"}},"jpeg-quality":{"tableName":"STILL-CAPTURE","method":["GET","POST"],"socket":{"GET":"217","POST":"218"},"access":{"GET":"user","POST":"user"},"socketFilter":0,"flags":{"GET":"0","POST":"0"},"filter":["MIN","MAX","dataType"],"MIN":2,"MAX":97,"dataType":"INTEGER"}},"overlay":{"1":{"image-params":{"tableName":"OVERLAY_1","method":["GET","POST"],"socket":{"GET":"312","POST":"313"},"access":{"GET":"user","POST":"user"},"socketFilter":1,"flags":{"GET":"127","POST":"15"},"array":["transparency","x-location","y-location","enable"],"action":"OVERLAY_EDIT","transparency":{"tableName":"OVERLAY_IMAGE","method":["GET","POST"],"socket":{"GET":"312","POST":"313"},"access":{"GET":"user","POST":"user"},"socketFilter":1,"flags":{"GET":"1","POST":"1"},"filter":["MIN","MAX","dataType"],"MIN":0,"MAX":128,"dataType":"INTEGER","action":"OVERLAY_EDIT"},"x-location":{"tableName":"OVERLAY_IMAGE","method":["GET","POST"],"socket":{"GET":"312","POST":"313"},"access":{"GET":"user","POST":"user"},"socketFilter":1,"flags":{"GET":"2","POST":"2"},"filter":["MIN","MAX","TYPE","dataType"],"MIN":0,"MAX":1918,"TYPE":["MULTIPLE2"],"dataType":"INTEGER","action":"OVERLAY_EDIT"},"y-location":{"tableName":"OVERLAY_IMAGE","method":["GET","POST"],"socket":{"GET":"312","POST":"313"},"access":{"GET":"user","POST":"user"},"socketFilter":1,"flags":{"GET":"4","POST":"4"},"filter":["MIN","MAX","TYPE","dataType"],"MIN":0,"MAX":1078,"TYPE":["MULTIPLE2"],"dataType":"INTEGER","action":"OVERLAY_EDIT"},"enable":{"tableName":"OVERLAY_IMAGE","method":["GET","POST"],"socket":{"GET":"312","POST":"313"},"access":{"GET":"user","POST":"user"},"socketFilter":1,"flags":{"GET":"8","POST":"8"},"filter":["MIN","MAX","dataType"],"MIN":0,"MAX":1,"dataType":"INTEGER","action":"OVERLAY_EDIT"},"height":{"tableName":"OVERLAY_IMAGE","method":["GET"],"socket":{"GET":"312"},"access":{"GET":"user"},"socketFilter":1,"flags":{"GET":"16"},"filter":["MIN","MAX","dataType"],"MIN":2,"MAX":1080,"dataType":"INTEGER","action":"OVERLAY_EDIT"},"width":{"tableName":"OVERLAY_IMAGE","method":["GET"],"socket":{"GET":"312"},"access":{"GET":"user"},"socketFilter":1,"flags":{"GET":"32"},"filter":["MIN","MAX","dataType"],"MIN":2,"MAX":1920,"dataType":"INTEGER","action":"OVERLAY_EDIT"},"file-name":{"tableName":"OVERLAY_IMAGE","method":["GET"],"socket":{"GET":"312"},"access":{"GET":"user"},"socketFilter":1,"flags":{"GET":"64"},"filter":["dataType"],"dataType":"STR","action":"OVERLAY_EDIT"}}},"2":{"image-params":{"tableName":"OVERLAY_2","method":["GET","POST"],"socket":{"GET":"314","POST":"315"},"access":{"GET":"user","POST":"user"},"socketFilter":1,"flags":{"GET":"127","POST":"15"},"array":["transparency","x-location","y-location","enable"],"action":"OVERLAY_EDIT","transparency":{"tableName":"OVERLAY_IMAGE","method":["GET","POST"],"socket":{"GET":"314","POST":"315"},"access":{"GET":"user","POST":"user"},"socketFilter":1,"flags":{"GET":"1","POST":"1"},"filter":["MIN","MAX","dataType"],"MIN":0,"MAX":128,"dataType":"INTEGER","action":"OVERLAY_EDIT"},"x-location":{"tableName":"OVERLAY_IMAGE","method":["GET","POST"],"socket":{"GET":"314","POST":"315"},"access":{"GET":"user","POST":"user"},"socketFilter":1,"flags":{"GET":"2","POST":"2"},"filter":["MIN","MAX","TYPE","dataType"],"MIN":0,"MAX":1918,"TYPE":["MULTIPLE2"],"dataType":"INTEGER","action":"OVERLAY_EDIT"},"y-location":{"tableName":"OVERLAY_IMAGE","method":["GET","POST"],"socket":{"GET":"314","POST":"315"},"access":{"GET":"user","POST":"user"},"socketFilter":1,"flags":{"GET":"4","POST":"4"},"filter":["MIN","MAX","TYPE","dataType"],"MIN":0,"MAX":1078,"TYPE":["MULTIPLE2"],"dataType":"INTEGER","action":"OVERLAY_EDIT"},"enable":{"tableName":"OVERLAY_IMAGE","method":["GET","POST"],"socket":{"GET":"314","POST":"315"},"access":{"GET":"user","POST":"user"},"socketFilter":1,"flags":{"GET":"8","POST":"8"},"filter":["MIN","MAX","dataType"],"MIN":0,"MAX":1,"dataType":"INTEGER","action":"OVERLAY_EDIT"},"height":{"tableName":"OVERLAY_IMAGE","method":["GET"],"socket":{"GET":"314"},"access":{"GET":"user"},"socketFilter":1,"flags":{"GET":"16"},"filter":["MIN","MAX","dataType"],"MIN":2,"MAX":1080,"dataType":"INTEGER","action":"OVERLAY_EDIT"},"width":{"tableName":"OVERLAY_IMAGE","method":["GET"],"socket":{"GET":"314"},"access":{"GET":"user"},"socketFilter":1,"flags":{"GET":"32"},"filter":["MIN","MAX","dataType"],"MIN":2,"MAX":1920,"dataType":"INTEGER","action":"OVERLAY_EDIT"},"file-name":{"tableName":"OVERLAY_IMAGE","method":["GET"],"socket":{"GET":"314"},"access":{"GET":"user"},"socketFilter":1,"flags":{"GET":"1"},"filter":["dataType"],"dataType":"STR","action":"OVERLAY_EDIT"}}},"3":{"image-params":{"tableName":"OVERLAY_3","method":["GET","POST"],"socket":{"GET":"316","POST":"317"},"access":{"GET":"user","POST":"user"},"socketFilter":1,"flags":{"GET":"127","POST":"15"},"array":["transparency","x-location","y-location","enable"],"action":"OVERLAY_EDIT","transparency":{"tableName":"OVERLAY_IMAGE","method":["GET","POST"],"socket":{"GET":"316","POST":"317"},"access":{"GET":"user","POST":"user"},"socketFilter":1,"flags":{"GET":"1","POST":"1"},"filter":["MIN","MAX","dataType"],"MIN":0,"MAX":128,"dataType":"INTEGER","action":"OVERLAY_EDIT"},"x-location":{"tableName":"OVERLAY_IMAGE","method":["GET","POST"],"socket":{"GET":"316","POST":"317"},"access":{"GET":"user","POST":"user"},"socketFilter":1,"flags":{"GET":"2","POST":"2"},"filter":["MIN","MAX","TYPE","dataType"],"MIN":0,"MAX":1918,"TYPE":["MULTIPLE2"],"dataType":"INTEGER","action":"OVERLAY_EDIT"},"y-location":{"tableName":"OVERLAY_IMAGE","method":["GET","POST"],"socket":{"GET":"316","POST":"317"},"access":{"GET":"user","POST":"user"},"socketFilter":1,"flags":{"GET":"4","POST":"4"},"filter":["MIN","MAX","TYPE","dataType"],"MIN":0,"MAX":1078,"TYPE":["MULTIPLE2"],"dataType":"INTEGER","action":"OVERLAY_EDIT"},"enable":{"tableName":"OVERLAY_IMAGE","method":["GET","POST"],"socket":{"GET":"316","POST":"317"},"access":{"GET":"user","POST":"user"},"socketFilter":1,"flags":{"GET":"8","POST":"8"},"filter":["MIN","MAX","dataType"],"MIN":0,"MAX":1,"dataType":"INTEGER","action":"OVERLAY_EDIT"},"height":{"tableName":"OVERLAY_IMAGE","method":["GET"],"socket":{"GET":"316"},"access":{"GET":"user"},"socketFilter":1,"flags":{"GET":"16"},"filter":["MIN","MAX","dataType"],"MIN":2,"MAX":1080,"dataType":"INTEGER","action":"OVERLAY_EDIT"},"width":{"tableName":"OVERLAY_IMAGE","method":["GET"],"socket":{"GET":"316"},"access":{"GET":"user"},"socketFilter":1,"flags":{"GET":"32"},"filter":["MIN","MAX","dataType"],"MIN":2,"MAX":1920,"dataType":"INTEGER","action":"OVERLAY_EDIT"},"file-name":{"tableName":"OVERLAY_IMAGE","method":["GET"],"socket":{"GET":"316"},"access":{"GET":"user"},"socketFilter":1,"flags":{"GET":"64"},"filter":["dataType"],"dataType":"STR","action":"OVERLAY_EDIT"}}},"4":{"image-params":{"tableName":"OVERLAY_4","method":["GET","POST"],"socket":{"GET":"318","POST":"319"},"access":{"GET":"user","POST":"user"},"socketFilter":1,"flags":{"GET":"127","POST":"15"},"array":["transparency","x-location","y-location","enable"],"action":"OVERLAY_EDIT","transparency":{"tableName":"OVERLAY_IMAGE","method":["GET","POST"],"socket":{"GET":"318","POST":"319"},"access":{"GET":"user","POST":"user"},"socketFilter":1,"flags":{"GET":"1","POST":"1"},"filter":["MIN","MAX","dataType"],"MIN":0,"MAX":128,"dataType":"INTEGER","action":"OVERLAY_EDIT"},"x-location":{"tableName":"OVERLAY_IMAGE","method":["GET","POST"],"socket":{"GET":"318","POST":"319"},"access":{"GET":"user","POST":"user"},"socketFilter":1,"flags":{"GET":"2","POST":"2"},"filter":["MIN","MAX","TYPE","dataType"],"MIN":0,"MAX":1918,"TYPE":["MULTIPLE2"],"dataType":"INTEGER","action":"OVERLAY_EDIT"},"y-location":{"tableName":"OVERLAY_IMAGE","method":["GET","POST"],"socket":{"GET":"318","POST":"319"},"access":{"GET":"user","POST":"user"},"socketFilter":1,"flags":{"GET":"4","POST":"4"},"filter":["MIN","MAX","TYPE","dataType"],"MIN":0,"MAX":1078,"TYPE":["MULTIPLE2"],"dataType":"INTEGER","action":"OVERLAY_EDIT"},"enable":{"tableName":"OVERLAY_IMAGE","method":["GET","POST"],"socket":{"GET":"318","POST":"319"},"access":{"GET":"user","POST":"user"},"socketFilter":1,"flags":{"GET":"8","POST":"8"},"filter":["MIN","MAX","dataType"],"MIN":0,"MAX":1,"dataType":"INTEGER","action":"OVERLAY_EDIT"},"height":{"tableName":"OVERLAY_IMAGE","method":["GET"],"socket":{"GET":"318"},"access":{"GET":"user"},"socketFilter":1,"flags":{"GET":"16"},"filter":["MIN","MAX","dataType"],"MIN":2,"MAX":1080,"dataType":"INTEGER","action":"OVERLAY_EDIT"},"width":{"tableName":"OVERLAY_IMAGE","method":["GET"],"socket":{"GET":"318"},"access":{"GET":"user"},"socketFilter":1,"flags":{"GET":"32"},"filter":["MIN","MAX","dataType"],"MIN":2,"MAX":1920,"dataType":"INTEGER","action":"OVERLAY_EDIT"},"file-name":{"tableName":"OVERLAY_IMAGE","method":["GET"],"socket":{"GET":"318"},"access":{"GET":"user"},"socketFilter":1,"flags":{"GET":"64"},"filter":["dataType"],"dataType":"STR","action":"OVERLAY_EDIT"}}},"5":{"image-params":{"tableName":"OVERLAY_5","method":["GET","POST"],"socket":{"GET":"320","POST":"321"},"access":{"GET":"user","POST":"user"},"socketFilter":1,"flags":{"GET":"127","POST":"15"},"array":["transparency","x-location","y-location","enable"],"action":"OVERLAY_EDIT","transparency":{"tableName":"OVERLAY_IMAGE","method":["GET","POST"],"socket":{"GET":"320","POST":"321"},"access":{"GET":"user","POST":"user"},"socketFilter":1,"flags":{"GET":"1","POST":"1"},"filter":["MIN","MAX","dataType"],"MIN":0,"MAX":128,"dataType":"INTEGER","action":"OVERLAY_EDIT"},"x-location":{"tableName":"OVERLAY_IMAGE","method":["GET","POST"],"socket":{"GET":"320","POST":"321"},"access":{"GET":"user","POST":"user"},"socketFilter":1,"flags":{"GET":"2","POST":"2"},"filter":["MIN","MAX","TYPE","dataType"],"MIN":0,"MAX":1918,"TYPE":["MULTIPLE2"],"dataType":"INTEGER","action":"OVERLAY_EDIT"},"y-location":{"tableName":"OVERLAY_IMAGE","method":["GET","POST"],"socket":{"GET":"320","POST":"321"},"access":{"GET":"user","POST":"user"},"socketFilter":1,"flags":{"GET":"4","POST":"4"},"filter":["MIN","MAX","TYPE","dataType"],"MIN":0,"MAX":1078,"TYPE":["MULTIPLE2"],"dataType":"INTEGER","action":"OVERLAY_EDIT"},"enable":{"tableName":"OVERLAY_IMAGE","method":["GET","POST"],"socket":{"GET":"320","POST":"321"},"access":{"GET":"user","POST":"user"},"socketFilter":1,"flags":{"GET":"8","POST":"8"},"filter":["MIN","MAX","dataType"],"MIN":0,"MAX":1,"dataType":"INTEGER","action":"OVERLAY_EDIT"},"height":{"tableName":"OVERLAY_IMAGE","method":["GET"],"socket":{"GET":"320"},"access":{"GET":"user"},"socketFilter":1,"flags":{"GET":"16"},"filter":["MIN","MAX","dataType"],"MIN":2,"MAX":1080,"dataType":"INTEGER","action":"OVERLAY_EDIT"},"width":{"tableName":"OVERLAY_IMAGE","method":["GET"],"socket":{"GET":"320"},"access":{"GET":"user"},"socketFilter":1,"flags":{"GET":"32"},"filter":["MIN","MAX","dataType"],"MIN":2,"MAX":1920,"dataType":"INTEGER","action":"OVERLAY_EDIT"},"file-name":{"tableName":"OVERLAY_IMAGE","method":["GET"],"socket":{"GET":"320"},"access":{"GET":"user"},"socketFilter":1,"flags":{"GET":"64"},"filter":["dataType"],"dataType":"STR","action":"OVERLAY_EDIT"}}},"6":{"image-params":{"tableName":"OVERLAY_6","method":["GET","POST"],"socket":{"GET":"322","POST":"323"},"access":{"GET":"user","POST":"user"},"socketFilter":1,"flags":{"GET":"127","POST":"15"},"array":["transparency","x-location","y-location","enable"],"action":"OVERLAY_EDIT","transparency":{"tableName":"OVERLAY_IMAGE","method":["GET","POST"],"socket":{"GET":"322","POST":"323"},"access":{"GET":"user","POST":"user"},"socketFilter":1,"flags":{"GET":"1","POST":"1"},"filter":["MIN","MAX","dataType"],"MIN":0,"MAX":128,"dataType":"INTEGER","action":"OVERLAY_EDIT"},"x-location":{"tableName":"OVERLAY_IMAGE","method":["GET","POST"],"socket":{"GET":"322","POST":"323"},"access":{"GET":"user","POST":"user"},"socketFilter":1,"flags":{"GET":"2","POST":"2"},"filter":["MIN","MAX","TYPE","dataType"],"MIN":0,"MAX":1918,"TYPE":["MULTIPLE2"],"dataType":"INTEGER","action":"OVERLAY_EDIT"},"y-location":{"tableName":"OVERLAY_IMAGE","method":["GET","POST"],"socket":{"GET":"322","POST":"323"},"access":{"GET":"user","POST":"user"},"socketFilter":1,"flags":{"GET":"4","POST":"4"},"filter":["MIN","MAX","TYPE","dataType"],"MIN":0,"MAX":1078,"TYPE":["MULTIPLE2"],"dataType":"INTEGER","action":"OVERLAY_EDIT"},"enable":{"tableName":"OVERLAY_IMAGE","method":["GET","POST"],"socket":{"GET":"322","POST":"323"},"access":{"GET":"user","POST":"user"},"socketFilter":1,"flags":{"GET":"8","POST":"8"},"filter":["MIN","MAX","dataType"],"MIN":0,"MAX":1,"dataType":"INTEGER","action":"OVERLAY_EDIT"},"height":{"tableName":"OVERLAY_IMAGE","method":["GET"],"socket":{"GET":"322"},"access":{"GET":"user"},"socketFilter":1,"flags":{"GET":"16"},"filter":["MIN","MAX","dataType"],"MIN":2,"MAX":1080,"dataType":"INTEGER","action":"OVERLAY_EDIT"},"width":{"tableName":"OVERLAY_IMAGE","method":["GET"],"socket":{"GET":"322"},"access":{"GET":"user"},"socketFilter":1,"flags":{"GET":"32"},"filter":["MIN","MAX","dataType"],"MIN":2,"MAX":1920,"dataType":"INTEGER","action":"OVERLAY_EDIT"},"file-name":{"tableName":"OVERLAY_IMAGE","method":["GET"],"socket":{"GET":"322"},"access":{"GET":"user"},"socketFilter":1,"flags":{"GET":"64"},"filter":["dataType"],"dataType":"STR","action":"OVERLAY_EDIT"}}},"7":{"image-params":{"tableName":"OVERLAY_7","method":["GET","POST"],"socket":{"GET":"324","POST":"325"},"access":{"GET":"user","POST":"user"},"socketFilter":1,"flags":{"GET":"127","POST":"15"},"array":["transparency","x-location","y-location","enable"],"action":"OVERLAY_EDIT","transparency":{"tableName":"OVERLAY_IMAGE","method":["GET","POST"],"socket":{"GET":"324","POST":"325"},"access":{"GET":"user","POST":"user"},"socketFilter":1,"flags":{"GET":"1","POST":"1"},"filter":["MIN","MAX","dataType"],"MIN":0,"MAX":128,"dataType":"INTEGER","action":"OVERLAY_EDIT"},"x-location":{"tableName":"OVERLAY_IMAGE","method":["GET","POST"],"socket":{"GET":"324","POST":"325"},"access":{"GET":"user","POST":"user"},"socketFilter":1,"flags":{"GET":"2","POST":"2"},"filter":["MIN","MAX","TYPE","dataType"],"MIN":0,"MAX":1918,"TYPE":["MULTIPLE2"],"dataType":"INTEGER","action":"OVERLAY_EDIT"},"y-location":{"tableName":"OVERLAY_IMAGE","method":["GET","POST"],"socket":{"GET":"324","POST":"325"},"access":{"GET":"user","POST":"user"},"socketFilter":1,"flags":{"GET":"4","POST":"4"},"filter":["MIN","MAX","TYPE","dataType"],"MIN":0,"MAX":1078,"TYPE":["MULTIPLE2"],"dataType":"INTEGER","action":"OVERLAY_EDIT"},"enable":{"tableName":"OVERLAY_IMAGE","method":["GET","POST"],"socket":{"GET":"324","POST":"325"},"access":{"GET":"user","POST":"user"},"socketFilter":1,"flags":{"GET":"8","POST":"8"},"filter":["MIN","MAX","dataType"],"MIN":0,"MAX":1,"dataType":"INTEGER","action":"OVERLAY_EDIT"},"height":{"tableName":"OVERLAY_IMAGE","method":["GET"],"socket":{"GET":"324"},"access":{"GET":"user"},"socketFilter":1,"flags":{"GET":"16"},"filter":["MIN","MAX","dataType"],"MIN":2,"MAX":1080,"dataType":"INTEGER","action":"OVERLAY_EDIT"},"width":{"tableName":"OVERLAY_IMAGE","method":["GET"],"socket":{"GET":"324"},"access":{"GET":"user"},"socketFilter":1,"flags":{"GET":"32"},"filter":["MIN","MAX","dataType"],"MIN":2,"MAX":1920,"dataType":"INTEGER","action":"OVERLAY_EDIT"},"file-name":{"tableName":"OVERLAY_IMAGE","method":["GET"],"socket":{"GET":"324"},"access":{"GET":"user"},"socketFilter":1,"flags":{"GET":"64"},"filter":["dataType"],"dataType":"STR","action":"OVERLAY_EDIT"}}},"8":{"image-params":{"tableName":"OVERLAY_8","method":["GET","POST"],"socket":{"GET":"326","POST":"327"},"access":{"GET":"user","POST":"user"},"socketFilter":1,"flags":{"GET":"127","POST":"15"},"array":["transparency","x-location","y-location","enable"],"action":"OVERLAY_EDIT","transparency":{"tableName":"OVERLAY_IMAGE","method":["GET","POST"],"socket":{"GET":"326","POST":"327"},"access":{"GET":"user","POST":"user"},"socketFilter":1,"flags":{"GET":"1","POST":"1"},"filter":["MIN","MAX","dataType"],"MIN":0,"MAX":128,"dataType":"INTEGER","action":"OVERLAY_EDIT"},"x-location":{"tableName":"OVERLAY_IMAGE","method":["GET","POST"],"socket":{"GET":"326","POST":"327"},"access":{"GET":"user","POST":"user"},"socketFilter":1,"flags":{"GET":"2","POST":"2"},"filter":["MIN","MAX","TYPE","dataType"],"MIN":0,"MAX":1918,"TYPE":["MULTIPLE2"],"dataType":"INTEGER","action":"OVERLAY_EDIT"},"y-location":{"tableName":"OVERLAY_IMAGE","method":["GET","POST"],"socket":{"GET":"326","POST":"327"},"access":{"GET":"user","POST":"user"},"socketFilter":1,"flags":{"GET":"4","POST":"4"},"filter":["MIN","MAX","TYPE","dataType"],"MIN":0,"MAX":1078,"TYPE":["MULTIPLE2"],"dataType":"INTEGER","action":"OVERLAY_EDIT"},"enable":{"tableName":"OVERLAY_IMAGE","method":["GET","POST"],"socket":{"GET":"326","POST":"327"},"access":{"GET":"user","POST":"user"},"socketFilter":1,"flags":{"GET":"8","POST":"8"},"filter":["MIN","MAX","dataType"],"MIN":0,"MAX":1,"dataType":"INTEGER","action":"OVERLAY_EDIT"},"height":{"tableName":"OVERLAY_IMAGE","method":["GET"],"socket":{"GET":"326"},"access":{"GET":"user"},"socketFilter":1,"flags":{"GET":"16"},"filter":["MIN","MAX","dataType"],"MIN":2,"MAX":1080,"dataType":"INTEGER","action":"OVERLAY_EDIT"},"width":{"tableName":"OVERLAY_IMAGE","method":["GET"],"socket":{"GET":"326"},"access":{"GET":"user"},"socketFilter":1,"flags":{"GET":"32"},"filter":["MIN","MAX","dataType"],"MIN":2,"MAX":1920,"dataType":"INTEGER","action":"OVERLAY_EDIT"},"file-name":{"tableName":"OVERLAY_IMAGE","method":["GET"],"socket":{"GET":"326"},"access":{"GET":"user"},"socketFilter":1,"flags":{"GET":"64"},"filter":["dataType"],"dataType":"STR","action":"OVERLAY_EDIT"}}},"feature-enable":{"tableName":"OVERLAY","method":["GET","POST"],"socket":{"GET":"301","POST":"302"},"access":{"GET":"admin","POST":"admin"},"socketFilter":0,"flags":{"GET":"0","POST":"0"},"filter":["MIN","MAX","dataType"],"MIN":0,"MAX":1,"dataType":"INTEGER"},"max-images":{"tableName":"OVERLAY","method":["GET","POST"],"socket":{"GET":"303","POST":"304"},"access":{"GET":"user","POST":"user"},"socketFilter":0,"flags":{"GET":"0","POST":"0"},"filter":["MIN","MAX","dataType"],"MIN":1,"MAX":5,"dataType":"INTEGER"},"max-upload-images":{"tableName":"OVERLAY","method":["GET","POST"],"socket":{"GET":"305","POST":"306"},"access":{"GET":"user","POST":"user"},"socketFilter":0,"flags":{"GET":"0","POST":"0"},"filter":["MIN","MAX","dataType"],"MIN":1,"MAX":8,"dataType":"INTEGER"},"enable":{"tableName":"OVERLAY","method":["GET","POST"],"socket":{"GET":"307","POST":"308"},"access":{"GET":"user","POST":"user"},"socketFilter":0,"flags":{"GET":"0","POST":"0"},"filter":["MIN","MAX","dataType"],"MIN":0,"MAX":1,"dataType":"INTEGER"},"upload-image":{"tableName":"OVERLAY","method":["POST"],"socket":{"POST":"309"},"access":{"POST":"user"},"socketFilter":1,"flags":{"POST":"31"},"array":["file-name","location","id","height","width"],"action":"OVERLAY_UPLOAD","file-name":{"tableName":"OVERLAY_IMAGE","method":["POST"],"socket":{"POST":"309"},"access":{"POST":"user"},"socketFilter":1,"flags":{"POST":"1"},"filter":["dataType"],"dataType":"STR","action":"OVERLAY_UPLOAD"},"location":{"tableName":"OVERLAY_IMAGE","method":["POST"],"socket":{"POST":"309"},"access":{"POST":"user"},"socketFilter":1,"flags":{"POST":"2"},"filter":["dataType"],"dataType":"STR","action":"OVERLAY_UPLOAD"},"id":{"tableName":"OVERLAY_IMAGE","method":["POST"],"socket":{"POST":"309"},"access":{"POST":"user"},"socketFilter":1,"flags":{"POST":"4"},"filter":["MIN","MAX","dataType"],"MIN":1,"MAX":8,"dataType":"INTEGER","action":"OVERLAY_UPLOAD"},"height":{"tableName":"OVERLAY_IMAGE","method":["POST"],"socket":{"POST":"309"},"access":{"POST":"user"},"socketFilter":1,"flags":{"POST":"8"},"filter":["MIN","MAX","TYPE","dataType"],"MIN":2,"MAX":1080,"TYPE":["MULTIPLE2"],"dataType":"INTEGER","action":"OVERLAY_UPLOAD"},"width":{"tableName":"OVERLAY_IMAGE","method":["POST"],"socket":{"POST":"309"},"access":{"POST":"user"},"socketFilter":1,"flags":{"POST":"16"},"filter":["MIN","MAX","TYPE","dataType"],"MIN":2,"MAX":1920,"TYPE":["MULTIPLE2"],"dataType":"INTEGER","action":"OVERLAY_UPLOAD"}},"upload-mute-image":{"tableName":"OVERLAY","method":["POST"],"socket":{"POST":"310"},"access":{"POST":"user"},"socketFilter":1,"flags":{"POST":"15"},"array":["file-name","location","height","width"],"action":"OVERLAY_MUTE_UPLOAD","file-name":{"tableName":"OVERLAY_IMAGE","method":["POST"],"socket":{"POST":"310"},"access":{"POST":"user"},"socketFilter":1,"flags":{"POST":"1"},"filter":["dataType"],"dataType":"STR","action":"OVERLAY_MUTE_UPLOAD"},"location":{"tableName":"OVERLAY_IMAGE","method":["POST"],"socket":{"POST":"310"},"access":{"POST":"user"},"socketFilter":1,"flags":{"POST":"2"},"filter":["dataType"],"dataType":"STR","action":"OVERLAY_MUTE_UPLOAD"},"height":{"tableName":"OVERLAY_IMAGE","method":["POST"],"socket":{"POST":"310"},"access":{"POST":"user"},"socketFilter":1,"flags":{"POST":"4"},"filter":["MIN","MAX","TYPE","dataType"],"MIN":2,"MAX":1080,"TYPE":["MULTIPLE2"],"dataType":"INTEGER","action":"OVERLAY_MUTE_UPLOAD"},"width":{"tableName":"OVERLAY_IMAGE","method":["POST"],"socket":{"POST":"310"},"access":{"POST":"user"},"socketFilter":1,"flags":{"POST":"8"},"filter":["MIN","MAX","TYPE","dataType"],"MIN":2,"MAX":1920,"TYPE":["MULTIPLE2"],"dataType":"INTEGER","action":"OVERLAY_MUTE_UPLOAD"}},"del-image":{"tableName":"OVERLAY","method":["POST"],"socket":{"POST":"311"},"access":{"POST":"user"},"socketFilter":1,"flags":{"POST":"1"},"array":["id"],"action":"OVERLAY_DELETE","id":{"tableName":"OVERLAY_DEL-IMAGE","method":["POST"],"socket":{"POST":"311"},"access":{"POST":"user"},"socketFilter":1,"flags":{"POST":"1"},"filter":["dataType"],"dataType":"STR","action":"OVERLAY_DELETE"}},"video-mute-image-params":{"tableName":"OVERLAY","method":["GET","POST"],"socket":{"GET":"328","POST":"329"},"access":{"GET":"user","POST":"user"},"socketFilter":1,"flags":{"GET":"15","POST":"3"},"array":["x-location","y-location"],"action":"OVERLAY_MUTE_EDIT","x-location":{"tableName":"OVERLAY_IMAGE","method":["GET","POST"],"socket":{"GET":"328","POST":"329"},"access":{"GET":"user","POST":"user"},"socketFilter":1,"flags":{"GET":"1","POST":"1"},"filter":["MIN","MAX","TYPE","dataType"],"MIN":0,"MAX":1918,"TYPE":["MULTIPLE2"],"dataType":"INTEGER","action":"OVERLAY_MUTE_EDIT"},"y-location":{"tableName":"OVERLAY_IMAGE","method":["GET","POST"],"socket":{"GET":"328","POST":"329"},"access":{"GET":"user","POST":"user"},"socketFilter":1,"flags":{"GET":"2","POST":"2"},"filter":["MIN","MAX","TYPE","dataType"],"MIN":0,"MAX":1078,"TYPE":["MULTIPLE2"],"dataType":"INTEGER","action":"OVERLAY_MUTE_EDIT"},"height":{"tableName":"OVERLAY_IMAGE","method":["GET"],"socket":{"GET":"328"},"access":{"GET":"user"},"socketFilter":1,"flags":{"GET":"4"},"filter":["MIN","MAX","dataType"],"MIN":2,"MAX":1080,"dataType":"INTEGER","action":"OVERLAY_MUTE_EDIT"},"width":{"tableName":"OVERLAY_IMAGE","method":["GET"],"socket":{"GET":"328"},"access":{"GET":"user"},"socketFilter":1,"flags":{"GET":"8"},"filter":["MIN","MAX","dataType"],"MIN":2,"MAX":1920,"dataType":"INTEGER","action":"OVERLAY_MUTE_EDIT"}}},"audio":{"input":{"valid-input":{"tableName":"AUDIO_INPUT","method":["GET"],"socket":{"GET":"401"},"access":{"GET":"user"},"socketFilter":0,"flags":{"GET":"0","POST":"0"},"filter":["MIN","MAX","dataType"],"MIN":0,"MAX":1,"dataType":"INTEGER"},"enable-rx":{"tableName":"AUDIO_INPUT","method":["GET","POST"],"socket":{"GET":"402","POST":"403"},"access":{"GET":"user","POST":"user"},"socketFilter":0,"flags":{"GET":"0","POST":"0"},"filter":["MIN","MAX","dataType"],"MIN":0,"MAX":1,"dataType":"INTEGER"},"coarse-gain":{"tableName":"AUDIO_INPUT","method":["GET","POST"],"socket":{"GET":"406","POST":"407"},"access":{"GET":"user","POST":"user"},"socketFilter":0,"flags":{"GET":"0","POST":"0"},"filter":["MIN","MAX","dataType"],"MIN":0,"MAX":8,"dataType":"INTEGER"},"mute":{"tableName":"AUDIO_INPUT","method":["GET","POST"],"socket":{"GET":"408","POST":"409"},"access":{"GET":"user","POST":"user"},"socketFilter":0,"flags":{"GET":"0","POST":"0"},"filter":["MIN","MAX","dataType"],"MIN":0,"MAX":1,"dataType":"INTEGER"},"loopback":{"tableName":"AUDIO_INPUT","method":["GET","POST"],"socket":{"GET":"410","POST":"411"},"access":{"GET":"user","POST":"user"},"socketFilter":0,"flags":{"GET":"0","POST":"0"},"filter":["MIN","MAX","dataType"],"MIN":0,"MAX":1,"dataType":"INTEGER"},"rx-mult-ip-addr":{"tableName":"AUDIO_INPUT","method":["GET","POST"],"socket":{"GET":"412","POST":"413"},"access":{"GET":"user","POST":"user"},"socketFilter":0,"flags":{"GET":"3","POST":"3"},"array":["ip-addr","port"],"ip-addr":{"tableName":"AUDIO_INPUT_RX-MULT-IP-ADDR","method":["GET","POST"],"socket":{"GET":"412","POST":"413"},"access":{"GET":"user","POST":"user"},"socketFilter":0,"flags":{"GET":"1","POST":"1"},"filter":["TYPE","dataType"],"TYPE":["IPAddress"],"dataType":"STR"},"port":{"tableName":"AUDIO_INPUT_RX-MULT-IP-ADDR","method":["GET","POST"],"socket":{"GET":"412","POST":"413"},"access":{"GET":"user","POST":"user"},"socketFilter":0,"flags":{"GET":"2","POST":"2"},"filter":["dataType"],"dataType":"INTEGER"}}},"output":{"enable-tx":{"tableName":"AUDIO_OUTPUT","method":["GET","POST"],"socket":{"GET":"414","POST":"415"},"access":{"GET":"user","POST":"user"},"socketFilter":0,"flags":{"GET":"0","POST":"0"},"filter":["MIN","MAX","dataType"],"MIN":0,"MAX":1,"dataType":"INTEGER"},"tx-mult-ip-addr":{"tableName":"AUDIO_OUTPUT","method":["GET","POST"],"socket":{"GET":"416","POST":"417"},"access":{"GET":"user","POST":"user"},"socketFilter":0,"flags":{"GET":"3","POST":"3"},"array":["ip-addr","port"],"ip-addr":{"tableName":"AUDIO_OUTPUT_TX-MULT-IP-ADDR","method":["GET","POST"],"socket":{"GET":"416","POST":"417"},"access":{"GET":"user","POST":"user"},"socketFilter":0,"flags":{"GET":"1","POST":"1"},"filter":["TYPE","dataType"],"TYPE":["IPAddress"],"dataType":"STR"},"port":{"tableName":"AUDIO_OUTPUT_TX-MULT-IP-ADDR","method":["GET","POST"],"socket":{"GET":"416","POST":"417"},"access":{"GET":"user","POST":"user"},"socketFilter":0,"flags":{"GET":"2","POST":"2"},"filter":["dataType"],"dataType":"INTEGER"}},"fine-gain":{"tableName":"AUDIO_OUTPUT","method":["GET","POST"],"socket":{"GET":"418","POST":"419"},"access":{"GET":"user","POST":"user"},"socketFilter":0,"flags":{"GET":"0","POST":"0"},"filter":["MIN","MAX","dataType"],"MIN":0,"MAX":7,"dataType":"INTEGER"},"coarse-gain":{"tableName":"AUDIO_OUTPUT","method":["GET","POST"],"socket":{"GET":"420","POST":"421"},"access":{"GET":"user","POST":"user"},"socketFilter":0,"flags":{"GET":"0","POST":"0"},"filter":["MIN","MAX","dataType"],"MIN":0,"MAX":31,"dataType":"INTEGER"},"mute":{"tableName":"AUDIO_OUTPUT","method":["GET","POST"],"socket":{"GET":"422","POST":"423"},"access":{"GET":"user","POST":"user"},"socketFilter":0,"flags":{"GET":"0","POST":"0"},"filter":["MIN","MAX","dataType"],"MIN":0,"MAX":1,"dataType":"INTEGER"},"fade":{"tableName":"AUDIO_OUTPUT","method":["GET","POST"],"socket":{"GET":"424","POST":"425"},"access":{"GET":"user","POST":"user"},"socketFilter":0,"flags":{"GET":"0","POST":"0"},"filter":["MIN","MAX","dataType"],"MIN":0,"MAX":1,"dataType":"INTEGER"}}},"kvm":{"feature-enable":{"tableName":"KVM","method":["GET","POST"],"socket":{"GET":"501","POST":"502"},"access":{"GET":"admin","POST":"admin"},"socketFilter":0,"flags":{"GET":"0","POST":"0"},"filter":["MIN","MAX","dataType"],"MIN":0,"MAX":1,"dataType":"INTEGER"},"usb-link-status":{"tableName":"KVM","method":["GET"],"socket":{"GET":"503"},"access":{"GET":"user"},"socketFilter":0,"flags":{"GET":"0"},"filter":["LIST","dataType"],"LIST":["0","1"],"dataType":"INTEGER"}},"rs232":{"0":{"open-connection":{"tableName":"RS232_0","method":["POST"],"socket":{"POST":"604"},"access":{"POST":"user"},"socketFilter":0,"flags":{"POST":"0"},"filter":["LIST","dataType"],"LIST":["0","1"],"dataType":"INTEGER"},"close-connection":{"tableName":"RS232_0","method":["POST"],"socket":{"POST":"605"},"access":{"POST":"user"},"socketFilter":0,"flags":{"POST":"0"},"filter":["LIST","dataType"],"LIST":["0","1"],"dataType":"INTEGER"},"flush":{"tableName":"RS232_0","method":["POST"],"socket":{"POST":"606"},"access":{"POST":"user"},"socketFilter":0,"flags":{"POST":"0"},"filter":["LIST","dataType"],"LIST":["0","1"],"dataType":"INTEGER"},"params":{"tableName":"RS232_0","method":["GET","POST"],"socket":{"GET":"607","POST":"608"},"access":{"GET":"user","POST":"user"},"socketFilter":0,"flags":{"GET":"31","POST":"31"},"array":["baud-rate","data-bits","parity","stop-bit","flow-control"],"baud-rate":{"tableName":"RS232_0_PARAMS","method":["GET","POST"],"socket":{"GET":"607","POST":"608"},"access":{"GET":"user","POST":"user"},"socketFilter":0,"flags":{"GET":"1","POST":"1"},"filter":["LIST","dataType"],"LIST":["300","600","1200","1800","2400","4800","9600","19200","38400","57600","115200","230400"],"dataType":"INTEGER"},"data-bits":{"tableName":"RS232_0_PARAMS","method":["GET","POST"],"socket":{"GET":"607","POST":"608"},"access":{"GET":"user","POST":"user"},"socketFilter":0,"flags":{"GET":"2","POST":"2"},"filter":["MIN","MAX","dataType"],"MIN":5,"MAX":8,"dataType":"INTEGER"},"parity":{"tableName":"RS232_0_PARAMS","method":["GET","POST"],"socket":{"GET":"607","POST":"608"},"access":{"GET":"user","POST":"user"},"socketFilter":0,"flags":{"GET":"4","POST":"4"},"filter":["LIST","dataType"],"LIST":["Even","Odd","None","Mark","Space"],"dataType":"STR"},"stop-bit":{"tableName":"RS232_0_PARAMS","method":["GET","POST"],"socket":{"GET":"607","POST":"608"},"access":{"GET":"user","POST":"user"},"socketFilter":0,"flags":{"GET":"8","POST":"8"},"filter":["LIST","dataType"],"LIST":["1","1.5","2"],"dataType":"DOUBLE"},"flow-control":{"tableName":"RS232_0_PARAMS","method":["GET","POST"],"socket":{"GET":"607","POST":"608"},"access":{"GET":"user","POST":"user"},"socketFilter":0,"flags":{"GET":"16","POST":"16"},"filter":["LIST","dataType"],"LIST":["Xon","Xoff","Hardware","None"],"dataType":"STR"}},"send":{"tableName":"RS232_0","method":["POST"],"socket":{"POST":"609"},"access":{"POST":"user"},"socketFilter":0,"flags":{"POST":"0"},"filter":["dataType"],"dataType":"STR"},"data-in-notification":{"tableName":"RS232_0","method":["GET","POST"],"socket":{"GET":"610","POST":"611"},"access":{"GET":"user","POST":"user"},"socketFilter":0,"flags":{"GET":"0","POST":"0"},"filter":["LIST","dataType"],"LIST":["0","1"],"dataType":"INTEGER"},"read-existing":{"tableName":"RS232_0","method":["GET"],"socket":{"GET":"612"},"access":{"GET":"user"},"socketFilter":0,"flags":{"GET":"0"},"filter":["dataType"],"dataType":"STR"},"read-line":{"tableName":"RS232_0","method":["GET"],"socket":{"GET":"613"},"access":{"GET":"user"},"socketFilter":0,"flags":{"GET":"0"},"filter":["dataType"],"dataType":"STR"}},"feature-enable":{"tableName":"RS232","method":["GET","POST"],"socket":{"GET":"601","POST":"602"},"access":{"GET":"admin","POST":"admin"},"socketFilter":0,"flags":{"GET":"0","POST":"0"},"filter":["LIST","dataType"],"LIST":["0","1"],"dataType":"INTEGER"},"get-devices":{"tableName":"RS232","method":["GET"],"socket":{"GET":"603"},"access":{"GET":"user"},"socketFilter":0,"flags":{"GET":"0"},"filter":["dataType"],"dataType":"STR"}},"fpga-registers":{"tableName":"FPGA-REGISTERS","method":["GET","POST"],"socket":{"GET":"701","POST":"702"},"access":{"GET":"user","POST":"user"},"socketFilter":1,"flags":{"GET":"0","POST":"0"},"filter":["dataType"],"dataType":"STR","action":"FPGA_REGISTER"},"i2c-registers":{"tableName":"I2C-REGISTERS","method":["GET","POST"],"socket":{"GET":"801","POST":"802"},"access":{"GET":"user","POST":"user"},"socketFilter":1,"flags":{"GET":"0","POST":"0"},"filter":["dataType"],"dataType":"STR","action":"I2C_REGISTER"}}
+{ system: 
+   { firmware: 
+      { 'fpga-version': [Object],
+        'processor-version': [Object],
+        'system-version': [Object],
+        'hw-version': [Object],
+        'processor-field-upgrade': [Object],
+        'fpga-field-upgrade': [Object],
+        'fpga-upgrade-status': [Object],
+        'processor-upgrade-status': [Object],
+        switch: [Object],
+        'serial-no': [Object] },
+     network: 
+      { 'ip-settings': [Object],
+        tos: [Object],
+        'mtu-size': [Object],
+        mode: [Object],
+        'notify-ip-addr': [Object],
+        'notify-port': [Object],
+        'image-server-ip-addr': [Object],
+        'eth-interfaces': [Object] },
+     diagnostics: 
+      { 'hw-status': [Object],
+        'temperature-threshold': [Object],
+        temperature: [Object],
+        'device-log': [Object],
+        'device-log-level': [Object],
+        'device-log-facility': [Object],
+        'dev-log-ip-addr': [Object] },
+     'splash-scrn': { enable: [Object], upload: [Object], 'get-name': [Object] },
+     reset: 
+      { 'soft-reset': [Object],
+        'configuration-reset': [Object],
+        'factory-reset': [Object] },
+     reboot: 
+      { tableName: 'SYSTEM',
+        method: [Object],
+        socket: [Object],
+        access: [Object],
+        socketFilter: 1,
+        flags: [Object],
+        filter: [Object],
+        LIST: [Object],
+        dataType: 'INTEGER',
+        action: 'REBOOT' },
+     authentication: 
+      { user: [Object],
+        'user-pwd': [Object],
+        admin: [Object],
+        'admin-pwd': [Object] },
+     identification: { id: [Object] },
+     'video-mode': { 'enable-3d': [Object] },
+     'config-file': 
+      { upload: [Object],
+        download: [Object],
+        delete: [Object],
+        update: [Object] },
+     mdns: 
+      { 'add-key': [Object],
+        'delete-key': [Object],
+        'read-key': [Object],
+        'edit-key': [Object] },
+     misc: 
+      { 'board-type': [Object],
+        'led-on-time': [Object],
+        'led-off-time': [Object],
+        'http-mode': [Object],
+        'enable-encryption': [Object],
+        rtc: [Object],
+        'ftp-mode': [Object],
+        'ftp-auth': [Object],
+        'acc-debounce-time': [Object],
+        'acc1-reaction': [Object],
+        'acc2-reaction': [Object],
+        'acc1-notify': [Object],
+        'acc2-notify': [Object] } },
+  video: 
+   { input: 
+      { videos: [Object],
+        resolution: [Object],
+        'frame-rate': [Object],
+        'valid-input': [Object],
+        'cable-presence': [Object],
+        'analog-video': [Object],
+        'video-interface': [Object],
+        'enable-color-bar': [Object],
+        'enable-manual-rx-phy-settings': [Object],
+        'rx-phy-parameters': [Object] },
+     output: 
+      { streams: [Object],
+        'frame-rate': [Object],
+        'hqll-tx-status': [Object],
+        'pes-tx-status': [Object],
+        'ses-tx-status': [Object],
+        'enable-hqll-tx': [Object],
+        'enable-pes-tx': [Object],
+        'enable-ses-tx': [Object],
+        'pes-resolution': [Object],
+        'ses-resolution': [Object],
+        'pes-bitrate': [Object],
+        'ses-bitrate': [Object],
+        'hqll-mult-ip-addr': [Object],
+        'pes-mult-ip-addr': [Object],
+        'ses-mult-ip-addr': [Object],
+        'pes-rtp-mode': [Object],
+        'enable-pes-msg-auth': [Object],
+        'ses-rtp-mode': [Object],
+        'enable-ses-msg-auth': [Object],
+        mute: [Object] } },
+  'still-capture': 
+   { 'feature-enable': 
+      { tableName: 'STILL-CAPTURE',
+        method: [Object],
+        socket: [Object],
+        access: [Object],
+        socketFilter: 0,
+        flags: [Object],
+        filter: [Object],
+        MIN: 0,
+        MAX: 1,
+        dataType: 'INTEGER' },
+     'capture-image': 
+      { tableName: 'STILL-CAPTURE',
+        method: [Object],
+        socket: [Object],
+        access: [Object],
+        socketFilter: 0,
+        flags: [Object],
+        filter: [Object],
+        MIN: 1,
+        MAX: 2,
+        dataType: 'INTEGER' },
+     'enable-pip': 
+      { tableName: 'STILL-CAPTURE',
+        method: [Object],
+        socket: [Object],
+        access: [Object],
+        socketFilter: 0,
+        flags: [Object],
+        filter: [Object],
+        MIN: 0,
+        MAX: 1,
+        dataType: 'INTEGER' },
+     'ip-addr': 
+      { tableName: 'STILL-CAPTURE',
+        method: [Object],
+        socket: [Object],
+        access: [Object],
+        socketFilter: 0,
+        flags: [Object],
+        array: [Object],
+        ip_addr: [Object],
+        location: [Object] },
+     'pip-loc': 
+      { tableName: 'STILL-CAPTURE',
+        method: [Object],
+        socket: [Object],
+        access: [Object],
+        socketFilter: 0,
+        flags: [Object],
+        array: [Object],
+        'x-location': [Object],
+        'y-location': [Object] },
+     'pip-time': 
+      { tableName: 'STILL-CAPTURE',
+        method: [Object],
+        socket: [Object],
+        access: [Object],
+        socketFilter: 0,
+        flags: [Object],
+        array: [Object],
+        time: [Object] },
+     'enable-transfer': 
+      { tableName: 'STILL-CAPTURE',
+        method: [Object],
+        socket: [Object],
+        access: [Object],
+        socketFilter: 0,
+        flags: [Object],
+        filter: [Object],
+        MIN: 0,
+        MAX: 1,
+        dataType: 'INTEGER' },
+     'auto-transfer': 
+      { tableName: 'STILL-CAPTURE',
+        method: [Object],
+        socket: [Object],
+        access: [Object],
+        socketFilter: 0,
+        flags: [Object],
+        filter: [Object],
+        MIN: 0,
+        MAX: 1,
+        dataType: 'INTEGER' },
+     transfer: 
+      { tableName: 'STILL-CAPTURE',
+        method: [Object],
+        socket: [Object],
+        access: [Object],
+        socketFilter: 0,
+        flags: [Object],
+        array: [Object],
+        'image-id': [Object] },
+     'jpeg-quality': 
+      { tableName: 'STILL-CAPTURE',
+        method: [Object],
+        socket: [Object],
+        access: [Object],
+        socketFilter: 0,
+        flags: [Object],
+        filter: [Object],
+        MIN: 2,
+        MAX: 97,
+        dataType: 'INTEGER' } },
+  overlay: 
+   { '1': { 'image-params': [Object] },
+     '2': { 'image-params': [Object] },
+     '3': { 'image-params': [Object] },
+     '4': { 'image-params': [Object] },
+     '5': { 'image-params': [Object] },
+     '6': { 'image-params': [Object] },
+     '7': { 'image-params': [Object] },
+     '8': { 'image-params': [Object] },
+     'feature-enable': 
+      { tableName: 'OVERLAY',
+        method: [Object],
+        socket: [Object],
+        access: [Object],
+        socketFilter: 0,
+        flags: [Object],
+        filter: [Object],
+        MIN: 0,
+        MAX: 1,
+        dataType: 'INTEGER' },
+     'max-images': 
+      { tableName: 'OVERLAY',
+        method: [Object],
+        socket: [Object],
+        access: [Object],
+        socketFilter: 0,
+        flags: [Object],
+        filter: [Object],
+        MIN: 1,
+        MAX: 5,
+        dataType: 'INTEGER' },
+     'max-upload-images': 
+      { tableName: 'OVERLAY',
+        method: [Object],
+        socket: [Object],
+        access: [Object],
+        socketFilter: 0,
+        flags: [Object],
+        filter: [Object],
+        MIN: 1,
+        MAX: 8,
+        dataType: 'INTEGER' },
+     enable: 
+      { tableName: 'OVERLAY',
+        method: [Object],
+        socket: [Object],
+        access: [Object],
+        socketFilter: 0,
+        flags: [Object],
+        filter: [Object],
+        MIN: 0,
+        MAX: 1,
+        dataType: 'INTEGER' },
+     'upload-image': 
+      { tableName: 'OVERLAY',
+        method: [Object],
+        socket: [Object],
+        access: [Object],
+        socketFilter: 1,
+        flags: [Object],
+        array: [Object],
+        action: 'OVERLAY_UPLOAD',
+        'file-name': [Object],
+        location: [Object],
+        id: [Object],
+        height: [Object],
+        width: [Object] },
+     'upload-mute-image': 
+      { tableName: 'OVERLAY',
+        method: [Object],
+        socket: [Object],
+        access: [Object],
+        socketFilter: 1,
+        flags: [Object],
+        array: [Object],
+        action: 'OVERLAY_MUTE_UPLOAD',
+        'file-name': [Object],
+        location: [Object],
+        height: [Object],
+        width: [Object] },
+     'del-image': 
+      { tableName: 'OVERLAY',
+        method: [Object],
+        socket: [Object],
+        access: [Object],
+        socketFilter: 1,
+        flags: [Object],
+        array: [Object],
+        action: 'OVERLAY_DELETE',
+        id: [Object] },
+     'video-mute-image-params': 
+      { tableName: 'OVERLAY',
+        method: [Object],
+        socket: [Object],
+        access: [Object],
+        socketFilter: 1,
+        flags: [Object],
+        array: [Object],
+        action: 'OVERLAY_MUTE_EDIT',
+        'x-location': [Object],
+        'y-location': [Object],
+        height: [Object],
+        width: [Object] } },
+  audio: 
+   { input: 
+      { 'valid-input': [Object],
+        'enable-rx': [Object],
+        'coarse-gain': [Object],
+        mute: [Object],
+        loopback: [Object],
+        'rx-mult-ip-addr': [Object] },
+     output: 
+      { 'enable-tx': [Object],
+        'tx-mult-ip-addr': [Object],
+        'fine-gain': [Object],
+        'coarse-gain': [Object],
+        mute: [Object],
+        fade: [Object] } },
+  kvm: 
+   { 'feature-enable': 
+      { tableName: 'KVM',
+        method: [Object],
+        socket: [Object],
+        access: [Object],
+        socketFilter: 0,
+        flags: [Object],
+        filter: [Object],
+        MIN: 0,
+        MAX: 1,
+        dataType: 'INTEGER' },
+     'usb-link-status': 
+      { tableName: 'KVM',
+        method: [Object],
+        socket: [Object],
+        access: [Object],
+        socketFilter: 0,
+        flags: [Object],
+        filter: [Object],
+        LIST: [Object],
+        dataType: 'INTEGER' } },
+  rs232: 
+   { '0': 
+      { 'open-connection': [Object],
+        'close-connection': [Object],
+        flush: [Object],
+        params: [Object],
+        send: [Object],
+        'data-in-notification': [Object],
+        'read-existing': [Object],
+        'read-line': [Object] },
+     'feature-enable': 
+      { tableName: 'RS232',
+        method: [Object],
+        socket: [Object],
+        access: [Object],
+        socketFilter: 0,
+        flags: [Object],
+        filter: [Object],
+        LIST: [Object],
+        dataType: 'INTEGER' },
+     'get-devices': 
+      { tableName: 'RS232',
+        method: [Object],
+        socket: [Object],
+        access: [Object],
+        socketFilter: 0,
+        flags: [Object],
+        filter: [Object],
+        dataType: 'STR' } },
+  'fpga-registers': 
+   { tableName: 'FPGA-REGISTERS',
+     method: [ 'GET', 'POST' ],
+     socket: { GET: '701', POST: '702' },
+     access: { GET: 'user', POST: 'user' },
+     socketFilter: 1,
+     flags: { GET: '0', POST: '0' },
+     filter: [ 'dataType' ],
+     dataType: 'STR',
+     action: 'FPGA_REGISTER' },
+  'i2c-registers': 
+   { tableName: 'I2C-REGISTERS',
+     method: [ 'GET', 'POST' ],
+     socket: { GET: '801', POST: '802' },
+     access: { GET: 'user', POST: 'user' },
+     socketFilter: 1,
+     flags: { GET: '0', POST: '0' },
+     filter: [ 'dataType' ],
+     dataType: 'STR',
+     action: 'I2C_REGISTER' } }
+opcode_switch.js
+JSON > uri_levels.js
+opcode_object.js

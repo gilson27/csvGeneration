@@ -1,0 +1,3 @@
+#!/bin/sh
+node csv_opcode.js
+node fpga_opcode.js

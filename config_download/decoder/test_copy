@@ -1,0 +1,3 @@
+#!/bin/sh
+STARTUP_TEST_DIR=/home/gilly/Desktop/Projects/BACKUP/KS_1GCodec/hg/startup_test/csv_generation/decoder
+rsync -av Decoder_API.csv $STARTUP_TEST_DIR

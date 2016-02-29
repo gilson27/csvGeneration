@@ -1,0 +1,2 @@
+#!/bin/sh
+rsync -av DecoderOpcodes.xls /home/gilly/Desktop/Projects/BACKUP/KS_1GCodec/svn/Main/design/sw/docs/opcodes/

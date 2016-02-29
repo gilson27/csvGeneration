@@ -1,0 +1,12 @@
+INSERT INTO MDNS values ("DeviceType","Decoder");
+INSERT INTO MDNS values ("DeviceSubType","DigitalDecoder");
+INSERT INTO MDNS values ("DeviceID","DEC0120151231001");
+INSERT INTO MDNS values ("DeviceName","DEC0120151231001");
+INSERT INTO MDNS values ("MACAddress","00FF00FF00FF");
+INSERT INTO MDNS values ("IPAddress","192.168.0.1");
+INSERT INTO MDNS values ("Port","80");
+INSERT INTO MDNS values ("DeviceStatus","OK");
+INSERT INTO MDNS values ("Location","Unassigned");
+INSERT INTO MDNS values ("PrivacyStatus","Private");
+INSERT INTO MDNS values ("SystemFWVersion","1.0");
+INSERT INTO MDNS values ("HWVersion","1.0");

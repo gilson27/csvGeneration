@@ -1,0 +1,15 @@
+#!/bin/sh
+pwd
+ENCODER_GENERATOR=$(pwd)
+SOCKET_EMULATOR=/home/gilly/Desktop/Projects/BACKUP/KS_1GCodec/hg/ARM_APP/wapi/socket_emulation/working
+API_WORKING_ROOT=/home/gilly/Desktop/Projects/BACKUP/KS_1GCodec/hg/ARM_APP/wapi/api/working
+cp -f $ENCODER_GENERATOR/uri_levels.js  $API_WORKING_ROOT/encoder/routes/
+cp -f $ENCODER_GENERATOR/encoder.db  $API_WORKING_ROOT/encoder/database/
+rsync -av $ENCODER_GENERATOR/encoder.db  $API_WORKING_ROOT/encoder/database/temp_encoder.db
+cp -f $ENCODER_GENERATOR/encoder.db  $SOCKET_EMULATOR/encoder/
+cp -f $ENCODER_GENERATOR/opcode_switch.js $SOCKET_EMULATOR/encoder/
+cp -f $ENCODER_GENERATOR/opcode_object.js $SOCKET_EMULATOR/encoder/
+
+
+
+
